@@ -4382,6 +4382,192 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "PCM_SparkFun-Capacitor:0.1uF_0603_100V_10%"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "C"
+				(at 0.635 2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "0.1uF"
+				(at 0.635 -2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "PCM_SparkFun-Capacitor:C_0603_1608Metric"
+				(at 0 -11.43 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" "https://cdn.sparkfun.com/assets/8/a/4/a/5/Kemet_Capacitor_Datasheet.pdf"
+				(at 0 -13.97 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Unpolarized capacitor"
+				(at 0 -19.05 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "PROD_ID" "CAP-08390"
+				(at 0 -16.51 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Voltage" "100V"
+				(at 0 -6.35 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Tolerance" "10%"
+				(at 0 -8.89 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "SparkFun cap capacitor 100nF"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "C_*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "0.1uF_0603_100V_10%_0_1"
+				(polyline
+					(pts
+						(xy -1.524 0.508) (xy 1.524 0.508)
+					)
+					(stroke
+						(width 0.3048)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.524 -0.508) (xy 1.524 -0.508)
+					)
+					(stroke
+						(width 0.3302)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "0.1uF_0603_100V_10%_1_1"
+				(pin passive line
+					(at 0 2.54 270)
+					(length 2.032)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 90)
+					(length 2.032)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "PCM_SparkFun-Connector:USB_C_Receptacle"
 			(pin_names
 				(offset 1.016)
@@ -5385,6 +5571,181 @@
 						)
 					)
 					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "PCM_SparkFun-Resistor:10_1206"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "R"
+				(at 0 -2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "10"
+				(at 0 2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "PCM_SparkFun-Resistor:R_1206_3216Metric"
+				(at 0 -4.572 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
+				(at 0 -8.89 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Resistor"
+				(at 0 -13.97 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "PROD_ID" "RES-08705"
+				(at 0 -6.858 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Power" "0.25W"
+				(at 0 -11.43 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "SparkFun R res resistor"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "R_*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "10_1206_0_1"
+				(polyline
+					(pts
+						(xy -1.524 0) (xy -1.143 1.016) (xy -0.762 0) (xy -0.381 -1.016) (xy 0 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0.381 1.016) (xy 0.762 0) (xy 1.143 -1.016) (xy 1.524 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "10_1206_1_1"
+				(pin passive line
+					(at -2.54 0 0)
+					(length 1.016)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 0 180)
+					(length 1.016)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -6781,6 +7142,305 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "WSLF25121L000FEA:WSLF25121L000FEA"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "R"
+				(at -3.81 1.4986 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "0.001_1%_5W"
+				(at -3.81 -3.302 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(face "STIX")
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "WSLF25121L000FEA:RESC6331X88N"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "RES 0.001 OHM 5.0 W 1% 2512 SMD,CUT TAPE | Vishay Dale WSLF25121L000FEA"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "MF" "Vishay Intertechnology"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Package" "None"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Price" "None"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "SnapEDA_Link" "https://www.snapeda.com/parts/WSLF25121L000FEA/Vishay/view-part/?ref=snap"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "MP" "WSLF25121L000FEA"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Availability" "In Stock"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Check_prices" "https://www.snapeda.com/parts/WSLF25121L000FEA/Vishay/view-part/?ref=eda"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(symbol "WSLF25121L000FEA_0_0"
+				(polyline
+					(pts
+						(xy -2.54 0) (xy -2.159 1.016)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.159 1.016) (xy -1.524 -1.016)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.524 -1.016) (xy -0.889 1.016)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.889 1.016) (xy -0.254 -1.016)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.254 -1.016) (xy 0.381 1.016)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.381 1.016) (xy 1.016 -1.016)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.016 -1.016) (xy 1.651 1.016)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.651 1.016) (xy 2.286 -1.016)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.286 -1.016) (xy 2.54 0)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -7.62 0 0)
+					(length 5.08)
+					(name ""
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 7.62 0 180)
+					(length 5.08)
+					(name ""
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "ZMPT101B:ZMPT101B"
 			(pin_names
 				(offset 1.016)
@@ -7335,6 +7995,12 @@
 		(uuid "01d550d7-3aa9-4a19-8bc7-d7ec236098be")
 	)
 	(junction
+		(at 74.93 199.39)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "03d5c947-c44c-434a-a8f3-85ec2ec641bd")
+	)
+	(junction
 		(at 326.898 55.372)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7365,6 +8031,12 @@
 		(uuid "14df8a70-483d-40be-b3de-d5f9a3b07448")
 	)
 	(junction
+		(at 66.04 199.39)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "18a924a2-bd1e-4522-a046-f6ae8654ac1a")
+	)
+	(junction
 		(at 149.86 52.07)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7381,6 +8053,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2fe87703-3869-4383-bef5-feeb3e2e58b3")
+	)
+	(junction
+		(at 80.01 204.47)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "30332cc7-9e64-47fd-919e-269dbb0d0a28")
 	)
 	(junction
 		(at 320.04 88.9)
@@ -7449,6 +8127,12 @@
 		(uuid "8384542a-6703-4e54-b144-7eaf384507d7")
 	)
 	(junction
+		(at 66.04 207.01)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8f452498-d300-4fdd-94aa-c787bbe2ac93")
+	)
+	(junction
 		(at 59.69 120.65)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7509,6 +8193,12 @@
 		(uuid "c2d3666c-9528-4375-95cd-09b814ab2952")
 	)
 	(junction
+		(at 74.93 207.01)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c330ef07-5753-4303-a3eb-9c997bd316d3")
+	)
+	(junction
 		(at 320.294 41.91)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7557,6 +8247,14 @@
 		(uuid "fe14a804-a3ce-4fda-aa7b-202d08c4f3b0")
 	)
 	(no_connect
+		(at 57.15 229.87)
+		(uuid "1fdbf9de-7d70-4c53-bb0c-469ffad4f7c4")
+	)
+	(no_connect
+		(at 101.6 229.87)
+		(uuid "290de1c9-a1e8-45d1-bb77-6adb5a6a196e")
+	)
+	(no_connect
 		(at 58.42 113.03)
 		(uuid "3ad9c836-3423-4b5a-923d-5a28fe5fc51f")
 	)
@@ -7585,6 +8283,26 @@
 			(type default)
 		)
 		(uuid "024d4d4a-23a8-4e50-a1b4-1505ab823be8")
+	)
+	(wire
+		(pts
+			(xy 81.28 201.93) (xy 74.93 201.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "04386224-66ef-4fda-92a6-404ef32f6504")
+	)
+	(wire
+		(pts
+			(xy 74.93 204.47) (xy 74.93 207.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "04f9de71-c96e-4f24-8ec3-e76c014f94e5")
 	)
 	(wire
 		(pts
@@ -7698,6 +8416,16 @@
 	)
 	(wire
 		(pts
+			(xy 62.23 207.01) (xy 66.04 207.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "10ad13f4-44d4-4610-95e8-34d02389b12c")
+	)
+	(wire
+		(pts
 			(xy 132.08 185.42) (xy 132.08 182.88)
 		)
 		(stroke
@@ -7788,6 +8516,16 @@
 	)
 	(wire
 		(pts
+			(xy 66.04 199.39) (xy 74.93 199.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "25b3e8bd-6c36-4826-b5af-dc81b40bb5ae")
+	)
+	(wire
+		(pts
 			(xy 318.77 80.01) (xy 320.04 80.01)
 		)
 		(stroke
@@ -7815,6 +8553,16 @@
 			(type default)
 		)
 		(uuid "28a50b2e-6337-4d07-8a67-99c10e9351fe")
+	)
+	(wire
+		(pts
+			(xy 193.04 213.36) (xy 199.39 213.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "294f9758-d71d-4d2a-af76-5716c8043ae4")
 	)
 	(wire
 		(pts
@@ -7878,6 +8626,16 @@
 	)
 	(wire
 		(pts
+			(xy 74.93 207.01) (xy 66.04 207.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "364990cd-fba6-4518-a34d-f11b0af18396")
+	)
+	(wire
+		(pts
 			(xy 320.294 53.594) (xy 320.294 55.372)
 		)
 		(stroke
@@ -7908,6 +8666,16 @@
 	)
 	(wire
 		(pts
+			(xy 55.88 207.01) (xy 55.88 210.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "38a8ab62-b484-4104-9f4b-6150abbc0f00")
+	)
+	(wire
+		(pts
 			(xy 81.28 170.18) (xy 81.28 172.72)
 		)
 		(stroke
@@ -7915,6 +8683,16 @@
 			(type default)
 		)
 		(uuid "397a57b0-3ca5-4ea0-a76d-2b11e1499bb3")
+	)
+	(wire
+		(pts
+			(xy 80.01 191.77) (xy 80.01 204.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3a45c8ca-b4fb-4c4e-b7b7-41e3110292c0")
 	)
 	(wire
 		(pts
@@ -7945,6 +8723,16 @@
 			(type default)
 		)
 		(uuid "409e4e63-42be-4895-93d8-c6097ca49c0f")
+	)
+	(wire
+		(pts
+			(xy 81.28 191.77) (xy 80.01 191.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "41795bc9-6801-4264-833a-7d666b9f61cf")
 	)
 	(wire
 		(pts
@@ -8018,6 +8806,16 @@
 	)
 	(wire
 		(pts
+			(xy 52.07 210.82) (xy 55.88 210.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4729906c-67de-4dd5-a3aa-df4652fad7c8")
+	)
+	(wire
+		(pts
 			(xy 328.422 29.464) (xy 328.422 39.37)
 		)
 		(stroke
@@ -8078,7 +8876,7 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 139.7) (xy 240.03 139.7)
+			(xy 234.95 172.72) (xy 240.03 172.72)
 		)
 		(stroke
 			(width 0)
@@ -8125,6 +8923,26 @@
 			(type default)
 		)
 		(uuid "5ef0fd12-41bc-4f98-84ca-a83cac47f9f6")
+	)
+	(wire
+		(pts
+			(xy 66.04 205.74) (xy 66.04 207.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5f00bc95-5f5a-4c43-a9f6-0953bc00f495")
+	)
+	(wire
+		(pts
+			(xy 74.93 207.01) (xy 74.93 213.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5f45f72d-f443-4cf1-a552-55fb95835f7a")
 	)
 	(wire
 		(pts
@@ -8205,6 +9023,16 @@
 			(type default)
 		)
 		(uuid "69bbf61e-9b38-446a-91bf-6eda972ab38c")
+	)
+	(wire
+		(pts
+			(xy 74.93 193.04) (xy 74.93 199.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69e75587-a9e8-4207-9404-415bd03543fc")
 	)
 	(wire
 		(pts
@@ -8358,6 +9186,16 @@
 	)
 	(wire
 		(pts
+			(xy 81.28 204.47) (xy 80.01 204.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7d0b5177-897a-4ee3-8c0d-824ce5e7b3a7")
+	)
+	(wire
+		(pts
 			(xy 76.2 41.91) (xy 81.28 41.91)
 		)
 		(stroke
@@ -8375,6 +9213,16 @@
 			(type default)
 		)
 		(uuid "7e12bb39-97e5-4b0b-a783-7ef548743f02")
+	)
+	(wire
+		(pts
+			(xy 57.15 199.39) (xy 55.88 199.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7f47b953-55f3-4ffa-b419-4ba6220318be")
 	)
 	(wire
 		(pts
@@ -8758,6 +9606,16 @@
 	)
 	(wire
 		(pts
+			(xy 62.23 199.39) (xy 66.04 199.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b62c34bb-58f7-4f70-a791-5ae16fa976cc")
+	)
+	(wire
+		(pts
 			(xy 149.86 52.07) (xy 149.86 53.34)
 		)
 		(stroke
@@ -8778,7 +9636,7 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 137.16) (xy 240.03 137.16)
+			(xy 234.95 170.18) (xy 240.03 170.18)
 		)
 		(stroke
 			(width 0)
@@ -8828,6 +9686,16 @@
 	)
 	(wire
 		(pts
+			(xy 55.88 199.39) (xy 55.88 195.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c510b274-cc09-4751-bb3f-e74b0fc37036")
+	)
+	(wire
+		(pts
 			(xy 262.89 24.13) (xy 266.7 24.13)
 		)
 		(stroke
@@ -8865,6 +9733,16 @@
 			(type default)
 		)
 		(uuid "c8ccb13f-ec86-47d1-850c-97632781b2d0")
+	)
+	(wire
+		(pts
+			(xy 52.07 195.58) (xy 55.88 195.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c8f5ffed-fc20-410a-97f9-f4b986b2c442")
 	)
 	(wire
 		(pts
@@ -8938,6 +9816,16 @@
 	)
 	(wire
 		(pts
+			(xy 74.93 201.93) (xy 74.93 199.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d9747363-0954-4d3b-ae0c-0f5f4b369b4c")
+	)
+	(wire
+		(pts
 			(xy 111.76 194.31) (xy 111.76 215.9)
 		)
 		(stroke
@@ -8945,6 +9833,16 @@
 			(type default)
 		)
 		(uuid "da75adee-2822-4565-a157-e09ab01a67b7")
+	)
+	(wire
+		(pts
+			(xy 66.04 200.66) (xy 66.04 199.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "db2ef75e-010e-4897-9af7-3100bada638d")
 	)
 	(wire
 		(pts
@@ -9068,6 +9966,16 @@
 	)
 	(wire
 		(pts
+			(xy 193.04 215.9) (xy 199.39 215.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ee1325ec-7635-42cd-a570-4029d60e6225")
+	)
+	(wire
+		(pts
 			(xy 332.994 45.974) (xy 332.994 44.45)
 		)
 		(stroke
@@ -9128,6 +10036,16 @@
 	)
 	(wire
 		(pts
+			(xy 80.01 204.47) (xy 74.93 204.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f9ea6950-8613-4033-8a90-be332f09e0a6")
+	)
+	(wire
+		(pts
 			(xy 331.47 86.36) (xy 331.47 88.9)
 		)
 		(stroke
@@ -9156,6 +10074,26 @@
 		)
 		(uuid "fbe05f9a-e52a-4b68-8533-c199270f7c64")
 	)
+	(wire
+		(pts
+			(xy 57.15 207.01) (xy 55.88 207.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ff9ea993-8e31-49f4-bada-1f192431ec51")
+	)
+	(label "SCL"
+		(at 193.04 213.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "069fdb37-0bb4-49bb-b7ba-e1f0b847bfb3")
+	)
 	(label "VBUS"
 		(at 266.7 24.13 0)
 		(effects
@@ -9175,6 +10113,36 @@
 			(justify left bottom)
 		)
 		(uuid "4bc44b42-3663-4a8a-8d2a-3784e3cfe75b")
+	)
+	(label "SDA"
+		(at 104.14 199.39 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "54a817cc-b60e-47e1-8e83-04154c4ac2d6")
+	)
+	(label "SDA"
+		(at 193.04 215.9 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5cf9ca89-7073-4671-9fe6-784734304b05")
+	)
+	(label "SCL"
+		(at 104.14 201.93 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6b869e3d-e5eb-4ddf-a42d-c631732d1963")
 	)
 	(label "VBUS"
 		(at 282.702 27.178 0)
@@ -9210,9 +10178,57 @@
 			)
 		)
 	)
+	(global_label "IN-"
+		(shape input)
+		(at 74.93 213.36 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "0a1e1c17-03c0-4de6-8f36-8b59d01000ca")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 74.93 219.3202 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "IN+"
+		(shape input)
+		(at 74.93 193.04 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "57d3174d-28fc-46f7-a34f-46411308807c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 74.93 187.0798 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "ADC1"
 		(shape input)
-		(at 240.03 137.16 0)
+		(at 240.03 170.18 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9222,7 +10238,7 @@
 		)
 		(uuid "654e306c-a1e8-487e-96d4-b2f61141aef1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 247.8533 137.16 0)
+			(at 247.8533 170.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9258,9 +10274,33 @@
 			)
 		)
 	)
+	(global_label "IN+"
+		(shape input)
+		(at 52.07 224.79 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "9cea3357-838b-4576-b791-6f33f4a2cc3c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 46.1098 224.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "ADC2"
 		(shape input)
-		(at 240.03 139.7 0)
+		(at 240.03 172.72 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9270,7 +10310,7 @@
 		)
 		(uuid "ac2c8279-ac5e-441d-bd32-b98873472097")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 247.8533 139.7 0)
+			(at 247.8533 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9319,6 +10359,30 @@
 		(uuid "bc1e6c6e-4b4a-4d27-a32c-d774c268af57")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 23.1405 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "IN-"
+		(shape input)
+		(at 96.52 224.79 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e592b705-231f-467c-9a67-d8f0f90eb351")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 90.5598 224.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9584,7 +10648,7 @@
 			(uuid "6646fecb-4529-48eb-9bdd-54bb2a6a7f1c")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "R19")
 					(unit 1)
@@ -9725,7 +10789,7 @@
 			(uuid "5fec8c1d-6978-4c42-a03b-70c702499be2")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "C12")
 					(unit 1)
@@ -9803,7 +10867,7 @@
 			(uuid "70c10425-72d3-43d2-851b-6f62c1421efc")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "#PWR022")
 					(unit 1)
@@ -9917,7 +10981,7 @@
 			(uuid "771b852e-7f9f-4a9f-a187-0185d2706171")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "D4")
 					(unit 1)
@@ -9995,9 +11059,111 @@
 			(uuid "ddbd3d8b-7637-40bb-911c-6958d4d0e1c4")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "#PWR021")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_SparkFun-Resistor:10_1206")
+		(at 59.69 199.39 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0ec0309c-de2c-4379-af55-8263fb2b738b")
+		(property "Reference" "R5"
+			(at 59.69 193.04 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10"
+			(at 59.69 195.58 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "PCM_SparkFun-Resistor:R_1206_3216Metric"
+			(at 59.69 203.962 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
+			(at 59.69 208.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 59.69 213.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PROD_ID" "RES-08705"
+			(at 59.69 206.248 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Power" "0.25W"
+			(at 59.69 210.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "58b65e0a-87ca-4dbb-8646-f867ad54b59f")
+		)
+		(pin "1"
+			(uuid "50ec1a58-21a8-434f-9337-1e96be964599")
+		)
+		(instances
+			(project "Energy_Meter.recovered.2026-06-18_162926"
+				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -10077,7 +11243,7 @@
 			(uuid "78180ceb-87f9-44a9-953e-9ed2465c5440")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "C11")
 					(unit 1)
@@ -10159,9 +11325,177 @@
 			(uuid "c86afcc6-2288-4f1b-8203-b86eac2d8047")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "R9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "WSLF25121L000FEA:WSLF25121L000FEA")
+		(at 52.07 203.2 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "1717d047-043e-4354-aeb3-5077f84d7610")
+		(property "Reference" "R15_Shunt"
+			(at 49.53 201.9299 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.001_1%_5W"
+			(at 49.53 204.4699 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(face "STIX")
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "WSLF25121L000FEA:RESC6331X88N"
+			(at 52.07 203.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 52.07 203.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "RES 0.001 OHM 5.0 W 1% 2512 SMD,CUT TAPE | Vishay Dale WSLF25121L000FEA"
+			(at 52.07 203.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MF" "Vishay Intertechnology"
+			(at 52.07 203.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Package" "None"
+			(at 52.07 203.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Price" "None"
+			(at 52.07 203.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/WSLF25121L000FEA/Vishay/view-part/?ref=snap"
+			(at 52.07 203.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MP" "WSLF25121L000FEA"
+			(at 52.07 203.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 52.07 203.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/WSLF25121L000FEA/Vishay/view-part/?ref=eda"
+			(at 52.07 203.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(pin "1"
+			(uuid "7612a409-85d4-456c-8e1b-f39734dd150d")
+		)
+		(pin "2"
+			(uuid "66228379-b0a5-4a91-a1b5-0c07b0cf930e")
+		)
+		(instances
+			(project "Energy_Meter.recovered.2026-06-18_162926"
+				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
+					(reference "R15_Shunt")
 					(unit 1)
 				)
 			)
@@ -10237,7 +11571,7 @@
 			(uuid "ec52f6e5-4127-44cb-b36a-93e9039c3d42")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "#PWR024")
 					(unit 1)
@@ -10319,7 +11653,7 @@
 			(uuid "62d25cf3-f92f-4c13-a43a-7ff594d28815")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "R23")
 					(unit 1)
@@ -10453,7 +11787,7 @@
 			(uuid "fc2c6898-5893-4581-809f-2f255a913722")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "U3")
 					(unit 1)
@@ -10534,7 +11868,7 @@
 			(uuid "ac61d96e-cc89-4c2d-818b-180f80247288")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "C10")
 					(unit 1)
@@ -10612,7 +11946,7 @@
 			(uuid "9e54ecf0-6889-43c0-9954-69bd5a146aa5")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "#PWR010")
 					(unit 1)
@@ -10689,7 +12023,7 @@
 			(uuid "0b9ed5ef-7f96-494d-bf26-fca40c9d91c9")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "#PWR06")
 					(unit 1)
@@ -10803,9 +12137,110 @@
 			(uuid "7a963ff2-dd63-4454-9cfa-eb766c98b68f")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "D3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_SparkFun-Resistor:10_1206")
+		(at 59.69 207.01 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "2ae87468-ac1b-4ef5-84e0-95d33e6e152b")
+		(property "Reference" "R14"
+			(at 59.69 213.36 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10"
+			(at 59.69 210.82 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "PCM_SparkFun-Resistor:R_1206_3216Metric"
+			(at 59.69 211.582 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
+			(at 59.69 215.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 59.69 220.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PROD_ID" "RES-08705"
+			(at 59.69 213.868 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Power" "0.25W"
+			(at 59.69 218.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "58b65e0a-87ca-4dbb-8646-f867ad54b5a0")
+		)
+		(pin "1"
+			(uuid "50ec1a58-21a8-434f-9337-1e96be96459a")
+		)
+		(instances
+			(project "Energy_Meter.recovered.2026-06-18_162926"
+				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -10881,7 +12316,7 @@
 			(uuid "0a9b1c75-c07d-41f7-9555-4116d1035401")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "#PWR011")
 					(unit 1)
@@ -10959,7 +12394,7 @@
 			(uuid "25fe231c-438b-437e-b5fc-0de4c20d7038")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "#PWR019")
 					(unit 1)
@@ -11038,7 +12473,7 @@
 			(uuid "3f2551fb-6c3b-4439-9f14-7200706157ae")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "#PWR013")
 					(unit 1)
@@ -11253,7 +12688,7 @@
 			(uuid "fe0a2605-fa26-4fe7-8da9-1b9f90d12308")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "R17")
 					(unit 1)
@@ -11365,7 +12800,7 @@
 			(uuid "97ea718b-e513-4c94-9351-a62866f3b38d")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "R3")
 					(unit 1)
@@ -11479,7 +12914,7 @@
 			(uuid "c9f07fde-e80d-449c-af80-7ec3bf787701")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "C5")
 					(unit 1)
@@ -11593,7 +13028,7 @@
 			(uuid "e967527e-4816-45eb-b1a6-ae4c59953916")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "C4")
 					(unit 1)
@@ -11705,7 +13140,7 @@
 			(uuid "b7c22056-e66d-4cc0-bca1-97b63b555c79")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "R6")
 					(unit 1)
@@ -11819,7 +13254,7 @@
 			(uuid "066e44f8-62f3-4f4f-b3d2-7abf5ff69c5f")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "C1")
 					(unit 1)
@@ -11897,7 +13332,7 @@
 			(uuid "8e586a7d-47b9-4b2c-906f-b67c0cd7c508")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "#PWR012")
 					(unit 1)
@@ -11979,7 +13414,7 @@
 			(uuid "7f386812-70be-41b9-adc4-65f3fde8136a")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "C8")
 					(unit 1)
@@ -12199,7 +13634,7 @@
 			(uuid "296a883a-2d75-4165-8358-1743028c8c86")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "T2")
 					(unit 1)
@@ -12276,7 +13711,7 @@
 			(uuid "ce31acbd-af5d-43e0-94a9-e683c98b1382")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "#PWR05")
 					(unit 1)
@@ -12353,7 +13788,7 @@
 			(uuid "9d9be5cc-15d3-4255-98e5-c202cbb54159")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "#PWR07")
 					(unit 1)
@@ -12435,7 +13870,7 @@
 			(uuid "cfc6da69-48fe-4d04-b729-defce0296519")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "D7")
 					(unit 1)
@@ -12517,7 +13952,7 @@
 			(uuid "a15d9e38-c143-4459-add5-167764f6a7c0")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "R10")
 					(unit 1)
@@ -12599,7 +14034,7 @@
 			(uuid "f7dac68b-2a44-4df4-be44-253f88f028ce")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "R7")
 					(unit 1)
@@ -12813,7 +14248,7 @@
 			(uuid "6646fecb-4529-48eb-9bdd-54bb2a6a7f1d")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "R18")
 					(unit 1)
@@ -12940,7 +14375,7 @@
 			(uuid "59b55365-ab35-4450-a2c3-011572f55054")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "J3")
 					(unit 1)
@@ -13154,9 +14589,91 @@
 			(uuid "6646fecb-4529-48eb-9bdd-54bb2a6a7f1e")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "R21")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic_Shielded:Conn_01x01_Shielded")
+		(at 101.6 224.79 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "70b5dbf1-c73e-4ddd-a099-d09b9ba34176")
+		(property "Reference" "J8"
+			(at 104.14 223.5199 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01_Shielded"
+			(at 104.14 226.0599 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 101.6 224.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 101.6 224.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic shielded connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 101.6 224.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "737dfb5b-6ad9-48ef-b54e-eace01b65f53")
+		)
+		(pin "SH"
+			(uuid "9b19ceb4-a480-4d1b-a8aa-8769df8f420a")
+		)
+		(instances
+			(project "Energy_Meter.recovered.2026-06-18_162926"
+				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
+					(reference "J8")
 					(unit 1)
 				)
 			)
@@ -13268,7 +14785,7 @@
 			(uuid "f340340c-5e50-4715-96df-1f851073b235")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "D2")
 					(unit 1)
@@ -13350,7 +14867,7 @@
 			(uuid "32644e7b-1383-4b39-a650-399e8fefa762")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "J5")
 					(unit 1)
@@ -13491,7 +15008,7 @@
 			(uuid "d0af5aac-fad6-4d0a-9e72-89cbfd8aa855")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "C13")
 					(unit 1)
@@ -13568,7 +15085,7 @@
 			(uuid "c9c6dc17-10d2-4a13-939a-feb951e3f5d3")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "#PWR03")
 					(unit 1)
@@ -13680,7 +15197,7 @@
 			(uuid "c2487515-d429-4462-b5e9-e17699e367cc")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "R1")
 					(unit 1)
@@ -13756,7 +15273,7 @@
 			(uuid "20756573-364a-4502-857a-a0ed732290d7")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "#PWR09")
 					(unit 1)
@@ -13833,7 +15350,7 @@
 			(uuid "75c70656-8ba7-4871-a4d1-b325fcebd906")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "#PWR01")
 					(unit 1)
@@ -14047,7 +15564,7 @@
 			(uuid "6646fecb-4529-48eb-9bdd-54bb2a6a7f1f")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "R20")
 					(unit 1)
@@ -14125,7 +15642,7 @@
 			(uuid "c30b8b0a-be4f-49ee-9e59-a84015f7c3e0")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "#PWR023")
 					(unit 1)
@@ -14201,13 +15718,13 @@
 			)
 		)
 		(pin "1"
-			(uuid "e923ff49-1978-4669-a2cc-ebda47275e4e")
+			(uuid "e923ff49-1978-4669-a2cc-ebda47275e4f")
 		)
 		(pin "SH"
-			(uuid "32644e7b-1383-4b39-a650-399e8fefa762")
+			(uuid "32644e7b-1383-4b39-a650-399e8fefa763")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "J6")
 					(unit 1)
@@ -14285,7 +15802,7 @@
 			(uuid "e0506b82-2249-4859-bd30-eed760bde605")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "#PWR020")
 					(unit 1)
@@ -14399,7 +15916,7 @@
 			(uuid "f66f8702-86ec-49b1-918e-e624958a1f36")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "C2")
 					(unit 1)
@@ -14513,7 +16030,7 @@
 			(uuid "cfa02c66-1d53-4acc-83af-f4e1d3102bcf")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "C7")
 					(unit 1)
@@ -14591,7 +16108,7 @@
 			(uuid "6efcbf2d-09c5-4c51-8b37-ec957fd399c9")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "#PWR016")
 					(unit 1)
@@ -14681,7 +16198,7 @@
 			(uuid "c394617e-45b2-4d56-a212-61389528bd56")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "R13")
 					(unit 1)
@@ -14760,7 +16277,7 @@
 			(uuid "4ce98e8a-c41a-42bb-b8b1-52950faddbd1")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "#PWR014")
 					(unit 1)
@@ -14842,7 +16359,7 @@
 			(uuid "2a8dbe0b-601f-436d-83a6-f55a0a37aef7")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "J1")
 					(unit 1)
@@ -14919,7 +16436,7 @@
 			(uuid "ecd5368b-ac2f-45f4-9467-145b2a20115d")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "#PWR08")
 					(unit 1)
@@ -15012,7 +16529,7 @@
 			(uuid "4559c1af-80a0-4025-b404-ae19d9654143")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "R12")
 					(unit 1)
@@ -15099,13 +16616,13 @@
 			)
 		)
 		(pin "2"
-			(uuid "8c4a7a49-d456-4169-ab81-16effed48809")
+			(uuid "8c4a7a49-d456-4169-ab81-16effed4880a")
 		)
 		(pin "1"
-			(uuid "4559c1af-80a0-4025-b404-ae19d9654143")
+			(uuid "4559c1af-80a0-4025-b404-ae19d9654144")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "R11")
 					(unit 1)
@@ -15183,7 +16700,7 @@
 			(uuid "d2e7e8eb-4c23-42fa-bd7c-6c22a34893d4")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "#PWR015")
 					(unit 1)
@@ -15297,7 +16814,7 @@
 			(uuid "dca530d7-d18a-408d-80ac-0a9ff2a92f2a")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "C6")
 					(unit 1)
@@ -15374,7 +16891,7 @@
 			(uuid "48f63dbb-6288-4b63-bb66-852abfe4f030")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "#PWR02")
 					(unit 1)
@@ -15453,9 +16970,91 @@
 			(uuid "27c02b80-9fb2-4f81-bfba-79a20b2f3bfc")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "#PWR017")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic_Shielded:Conn_01x01_Shielded")
+		(at 57.15 224.79 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cf8ee4c5-430d-492c-81a7-2ca75d5b22b2")
+		(property "Reference" "J7"
+			(at 59.69 223.5199 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01_Shielded"
+			(at 59.69 226.0599 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 57.15 224.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 57.15 224.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic shielded connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 57.15 224.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "67651993-b536-49dd-b911-031d1676ee7a")
+		)
+		(pin "SH"
+			(uuid "2d67fb6a-6cbc-4a5d-be8e-b4a04d554028")
+		)
+		(instances
+			(project "Energy_Meter.recovered.2026-06-18_162926"
+				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
+					(reference "J7")
 					(unit 1)
 				)
 			)
@@ -15667,7 +17266,7 @@
 			(uuid "6646fecb-4529-48eb-9bdd-54bb2a6a7f20")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "R16")
 					(unit 1)
@@ -15782,7 +17381,7 @@
 			(uuid "d2e5c015-39c2-4f53-acbc-248aba09c31e")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "SW1")
 					(unit 1)
@@ -15894,7 +17493,7 @@
 			(uuid "6094dbcd-e3c3-48b4-ab1f-755bf42fbef0")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "R2")
 					(unit 1)
@@ -15904,7 +17503,7 @@
 	)
 	(symbol
 		(lib_id "MCU_ST_STM32F1:STM32F103C8Tx")
-		(at 217.17 170.18 0)
+		(at 217.17 203.2 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -15915,7 +17514,7 @@
 		(fields_autoplaced yes)
 		(uuid "df958145-98bf-4436-b8b1-3f5ec85b5816")
 		(property "Reference" "U1"
-			(at 221.8533 210.82 0)
+			(at 221.8533 243.84 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15926,7 +17525,7 @@
 			)
 		)
 		(property "Value" "STM32F103C8Tx"
-			(at 221.8533 213.36 0)
+			(at 221.8533 246.38 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15937,7 +17536,7 @@
 			)
 		)
 		(property "Footprint" "Package_QFP:LQFP-48_7x7mm_P0.5mm"
-			(at 201.93 208.28 0)
+			(at 201.93 241.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15949,7 +17548,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/stm32f103c8.pdf"
-			(at 217.17 170.18 0)
+			(at 217.17 203.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15960,7 +17559,7 @@
 			)
 		)
 		(property "Description" "STMicroelectronics Arm Cortex-M3 MCU, 64KB flash, 20KB RAM, 72 MHz, 2.0-3.6V, 37 GPIO, LQFP48"
-			(at 217.17 170.18 0)
+			(at 217.17 203.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16115,7 +17714,7 @@
 			(uuid "439dc3cb-1355-4500-b3cf-3674645e624b")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "U1")
 					(unit 1)
@@ -16197,7 +17796,7 @@
 			(uuid "7f1ce452-afdc-464d-bb46-e096ef52be24")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "C9")
 					(unit 1)
@@ -16275,7 +17874,7 @@
 			(uuid "f7e323a9-9a00-461b-ad1d-c94b2697ce17")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "#PWR018")
 					(unit 1)
@@ -16357,9 +17956,123 @@
 			(uuid "a16b9df7-4f49-438b-b116-89b5afeab979")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "R24")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_SparkFun-Capacitor:0.1uF_0603_100V_10%")
+		(at 66.04 203.2 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "e60c779c-7d28-46e2-88ee-557ea930da91")
+		(property "Reference" "C14"
+			(at 68.58 199.3962 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 68.58 201.9362 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_SparkFun-Capacitor:C_0603_1608Metric"
+			(at 66.04 214.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://cdn.sparkfun.com/assets/8/a/4/a/5/Kemet_Capacitor_Datasheet.pdf"
+			(at 66.04 217.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 66.04 222.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PROD_ID" "CAP-08390"
+			(at 66.04 219.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Voltage" "100V"
+			(at 68.58 204.4762 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Tolerance" "10%"
+			(at 68.58 207.0162 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "2"
+			(uuid "76bb572e-381a-4ceb-8a0c-aa9376c15f03")
+		)
+		(pin "1"
+			(uuid "228ef563-a22e-4524-b44a-fcf9c06ffd77")
+		)
+		(instances
+			(project "Energy_Meter.recovered.2026-06-18_162926"
+				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
+					(reference "C14")
 					(unit 1)
 				)
 			)
@@ -16471,7 +18184,7 @@
 			(uuid "c53f18bf-7ec5-41e8-9dd7-458c280401b6")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "C3")
 					(unit 1)
@@ -16553,7 +18266,7 @@
 			(uuid "6603ed6f-ac69-4217-88b9-94973af0bc22")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "R22")
 					(unit 1)
@@ -16721,7 +18434,7 @@
 			(uuid "3cc008fa-9979-46a3-b1a8-df22df35b7ed")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "R4")
 					(unit 1)
@@ -16835,7 +18548,7 @@
 			(uuid "5b0f571d-b95c-40a4-8707-65615c5c5126")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "D1")
 					(unit 1)
@@ -16912,7 +18625,7 @@
 			(uuid "816a21a3-991a-4f61-8871-5a438d88241c")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "#PWR04")
 					(unit 1)
@@ -17018,7 +18731,7 @@
 			(uuid "01a16680-d3e9-4ee1-93ea-7cf80ff0d54d")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "U2")
 					(unit 1)
@@ -17100,7 +18813,7 @@
 			(uuid "43bcc261-9ac6-4d1b-9880-b1625a3588e3")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "D6")
 					(unit 1)
@@ -17183,7 +18896,7 @@
 			(uuid "53076d5d-359e-46b2-9573-4364f05e82d9")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "U4")
 					(unit 1)
@@ -17265,7 +18978,7 @@
 			(uuid "2891ad45-ab09-497a-8c9d-94788b6c20f3")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "R8")
 					(unit 1)
@@ -17377,7 +19090,7 @@
 			(uuid "e36c92b5-b57b-481d-b966-3e103aca788a")
 		)
 		(instances
-			(project "Energy_Meter"
+			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "L1")
 					(unit 1)
