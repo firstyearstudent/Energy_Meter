@@ -12290,7 +12290,7 @@
 	)
 	(wire
 		(pts
-			(xy 328.93 38.1) (xy 341.63 38.1)
+			(xy 328.93 39.37) (xy 341.63 39.37)
 		)
 		(stroke
 			(width 0)
@@ -12310,7 +12310,7 @@
 	)
 	(wire
 		(pts
-			(xy 328.93 29.21) (xy 328.93 38.1)
+			(xy 328.93 29.21) (xy 328.93 39.37)
 		)
 		(stroke
 			(width 0)
@@ -13980,16 +13980,6 @@
 	)
 	(wire
 		(pts
-			(xy 341.63 38.1) (xy 341.63 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e2bc0612-a2d4-4d3a-9d7e-2d37df7d602f")
-	)
-	(wire
-		(pts
 			(xy 29.21 247.65) (xy 35.56 247.65)
 		)
 		(stroke
@@ -15013,7 +15003,7 @@
 				(justify bottom)
 			)
 		)
-		(property "MANUFACTURER" "Panasonic"
+		(property "Manufacturer" "Panasonic"
 			(at 66.04 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -15293,7 +15283,7 @@
 				)
 			)
 		)
-		(property "Footprint" "4ms_Resistor:R_0603"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 243.84 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -16352,7 +16342,7 @@
 				(justify bottom)
 			)
 		)
-		(property "MANUFACTURER" "Displaymodule"
+		(property "Manufacturer" "Displaymodule"
 			(at 48.26 250.19 0)
 			(hide yes)
 			(show_name no)
@@ -16747,7 +16737,7 @@
 				)
 			)
 		)
-		(property "Footprint" "4ms_Capacitor:C_0603"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 158.75 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -17207,7 +17197,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_1.00mm:PinSocket_1x04_P1.00mm_Vertical"
 			(at 264.16 193.04 0)
 			(hide yes)
 			(show_name no)
@@ -17668,7 +17658,7 @@
 				)
 			)
 		)
-		(property "Footprint" "4ms_Capacitor:C_0603"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 177.8 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -18362,7 +18352,7 @@
 				(justify bottom)
 			)
 		)
-		(property "MANUFACTURER" "Panasonic"
+		(property "Manufacturer" "Panasonic"
 			(at 91.44 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -18695,7 +18685,7 @@
 				)
 			)
 		)
-		(property "Footprint" "4ms_Capacitor:C_0603"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 354.33 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -18913,7 +18903,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 369.2652 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -19027,7 +19017,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 295.6052 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -19422,226 +19412,6 @@
 			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "C8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "ZMPT101B:ZMPT101B")
-		(at 114.3 46.99 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4fdb85c6-550f-4dfa-b0b5-9990cd999e04")
-		(property "Reference" "T2"
-			(at 116.1045 36.83 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "ZMPT101B"
-			(at 116.1045 39.37 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Components_Footprint:XFMR_ZMPT101B"
-			(at 114.3 46.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Datasheet" ""
-			(at 114.3 46.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Current-type Voltage Transformer"
-			(at 114.3 46.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MF" "Qingxian Zeming Langxi Electronic"
-			(at 114.3 46.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "18.8mm"
-			(at 114.3 46.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Package" "None"
-			(at 114.3 46.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Price" "None"
-			(at 114.3 46.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/ZMPT101B/Qingxian+Zeming+Langxi+Electronic/view-part/?ref=eda"
-			(at 114.3 46.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 114.3 46.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "PARTREV" "NA"
-			(at 114.3 46.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/ZMPT101B/Qingxian+Zeming+Langxi+Electronic/view-part/?ref=snap"
-			(at 114.3 46.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MP" "ZMPT101B"
-			(at 114.3 46.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Availability" "Not in stock"
-			(at 114.3 46.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MANUFACTURER" "Qingxian Zeming Langxi Electronic"
-			(at 114.3 46.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(pin "2"
-			(uuid "08858e74-adac-4ca4-aafe-cdb7a7ba2f5d")
-		)
-		(pin "1"
-			(uuid "10c2d55b-1fe1-4bee-982d-5d38d393ddc5")
-		)
-		(pin "3"
-			(uuid "040ff48f-28a5-4820-9d9d-7878564496c2")
-		)
-		(pin "4"
-			(uuid "296a883a-2d75-4165-8358-1743028c8c86")
-		)
-		(instances
-			(project "Energy_Meter.recovered.2026-06-18_162926"
-				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
-					(reference "T2")
 					(unit 1)
 				)
 			)
@@ -20234,7 +20004,7 @@
 				(justify bottom)
 			)
 		)
-		(property "MANUFACTURER" "Panasonic"
+		(property "Manufacturer" "Panasonic"
 			(at 66.04 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -20575,7 +20345,7 @@
 				(justify bottom)
 			)
 		)
-		(property "MANUFACTURER" "Panasonic"
+		(property "Manufacturer" "Panasonic"
 			(at 40.64 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -20715,7 +20485,7 @@
 				)
 			)
 		)
-		(property "Footprint" "4ms_Capacitor:C_0603"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 187.96 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -20856,7 +20626,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector:Banana_Jack_1Pin"
 			(at 78.74 207.01 0)
 			(hide yes)
 			(show_name no)
@@ -21052,7 +20822,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector:Banana_Jack_1Pin"
 			(at 41.91 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -21134,7 +20904,7 @@
 				)
 			)
 		)
-		(property "Footprint" "4ms_Capacitor:C_0603"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 43.18 162.56 0)
 			(hide yes)
 			(show_name no)
@@ -21275,7 +21045,7 @@
 				)
 			)
 		)
-		(property "Footprint" "4ms_Capacitor:C_0603"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 148.59 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -21710,7 +21480,7 @@
 				)
 			)
 		)
-		(property "Footprint" "4ms_Capacitor:C_0603"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 198.12 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -21812,6 +21582,226 @@
 			(project "Energy_Meter.recovered.2026-06-18_162926"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "C16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ZMPT101B:ZMPT101B")
+		(at 114.3 46.99 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "87a0423d-53e1-46c7-bd90-0382405e7eaa")
+		(property "Reference" "T1"
+			(at 115.6695 36.83 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "ZMPT101B"
+			(at 115.6695 39.37 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Components_Footprint:XFMR_ZMPT101B"
+			(at 114.3 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 114.3 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Current-type Voltage Transformer"
+			(at 114.3 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MF" "Qingxian Zeming Langxi Electronic"
+			(at 114.3 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "18.8mm"
+			(at 114.3 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Package" "None"
+			(at 114.3 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Price" "None"
+			(at 114.3 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/ZMPT101B/Qingxian+Zeming+Langxi+Electronic/view-part/?ref=eda"
+			(at 114.3 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 114.3 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "PARTREV" "NA"
+			(at 114.3 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/ZMPT101B/Qingxian+Zeming+Langxi+Electronic/view-part/?ref=snap"
+			(at 114.3 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MP" "ZMPT101B"
+			(at 114.3 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Availability" "Not in stock"
+			(at 114.3 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Manufacturer" "Qingxian Zeming Langxi Electronic"
+			(at 114.3 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(pin "1"
+			(uuid "3ecdcc9b-0af6-4578-a087-b581ed2d4837")
+		)
+		(pin "3"
+			(uuid "708484e8-dac1-4cb8-bfd9-8207a8a19c69")
+		)
+		(pin "2"
+			(uuid "f87e22bb-2eb1-41fa-8b38-36f613962686")
+		)
+		(pin "4"
+			(uuid "009ce598-6768-4f3c-8651-6fdfb6d7dfe0")
+		)
+		(instances
+			(project "Energy_Meter.recovered.2026-06-18_162926"
+				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
+					(reference "T1")
 					(unit 1)
 				)
 			)
@@ -22503,7 +22493,7 @@
 				(justify bottom)
 			)
 		)
-		(property "MANUFACTURER" "Panasonic"
+		(property "Manufacturer" "Panasonic"
 			(at 40.64 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -22642,7 +22632,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector:Banana_Jack_1Pin"
 			(at 86.36 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -22801,7 +22791,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 308.3052 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -22915,7 +22905,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Components_Footprint:XFMR_ZMPT101B"
 			(at 334.01 84.328 90)
 			(hide yes)
 			(show_name no)
@@ -22996,7 +22986,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 385.7752 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -23938,7 +23928,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 378.1552 26.67 0)
 			(hide yes)
 			(show_name no)
@@ -24288,7 +24278,7 @@
 				)
 			)
 		)
-		(property "Footprint" "4ms_Capacitor:C_0603"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 167.64 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -24508,7 +24498,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector:Banana_Jack_1Pin"
 			(at 34.29 207.01 0)
 			(hide yes)
 			(show_name no)
@@ -24743,7 +24733,7 @@
 				(justify bottom)
 			)
 		)
-		(property "MANUFACTURER" "Panasonic"
+		(property "Manufacturer" "Panasonic"
 			(at 91.44 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -25958,7 +25948,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 374.3452 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -27221,7 +27211,7 @@
 				)
 			)
 		)
-		(property "Footprint" "4ms_Capacitor:C_0603"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 326.39 91.44 0)
 			(hide yes)
 			(show_name no)
