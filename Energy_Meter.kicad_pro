@@ -41,7 +41,7 @@
         "pads": {
           "drill": 0.8,
           "height": 1.27,
-          "width": 2.54
+          "width": 1.27
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -644,17 +644,17 @@
     "top_level_sheets": [
       {
         "filename": "Energy_Meter.kicad_sch",
-        "name": "Root",
+        "name": "Energy_Meter.recovered.2026-06-18_162926",
         "uuid": "f1165764-c0ad-44d1-803d-0af7aad26c11"
       }
     ],
-    "used_designators": "",
+    "used_designators": "R4,R10",
     "variants": []
   },
   "sheets": [
     [
       "f1165764-c0ad-44d1-803d-0af7aad26c11",
-      "Root"
+      "Energy_Meter.recovered.2026-06-18_162926"
     ]
   ],
   "text_variables": {},
