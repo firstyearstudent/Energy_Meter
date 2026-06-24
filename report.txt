@@ -1,105 +1,92 @@
-Info: Processing symbol 'L1:Inductor_SMD:L_Sunlord_SWPA6028S'.
-Info: Processing symbol 'D3:LED_SMD:LED_1206_3216Metric'.
-Info: Processing symbol 'R22:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
-Info: Processing symbol 'D6:PCM_Diode_SMD_AKL:D_SOD-523'.
-Info: Processing symbol 'R21:ERA8ARB203V:RES_ERA8ARB203V'.
-Info: Processing symbol 'D7:PCM_Diode_SMD_AKL:D_SOD-523'.
-Info: Processing symbol 'R20:ERA8ARB203V:RES_ERA8ARB203V'.
-Info: Processing symbol 'J1:PCM_fab:Conn_Jack_Stereo_3.5mm_CUI_SJ-3523-SMT-TR'.
-Info: Processing symbol 'R19:ERA8ARB203V:RES_ERA8ARB203V'.
-Info: Processing symbol 'J3:PCM_SparkFun-Connector:USB-C_16'.
-Info: Processing symbol 'R18:ERA8ARB203V:RES_ERA8ARB203V'.
-Info: Processing symbol 'J5:'.
-Info: Processing symbol 'R17:ERA8ARB203V:RES_ERA8ARB203V'.
-Info: Processing symbol 'J6:'.
-Info: Processing symbol 'R16:ERA8ARB203V:RES_ERA8ARB203V'.
-Info: Processing symbol 'D4:LED_SMD:LED_1206_3216Metric'.
-Info: Processing symbol 'R1:Resistor_SMD:R_1206_3216Metric'.
-Info: Processing symbol 'R13:PCM_SparkFun-Resistor:R_0603_1608Metric'.
-Info: Processing symbol 'R2:Resistor_SMD:R_1206_3216Metric'.
-Info: Processing symbol 'C1:Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder'.
-Info: Processing symbol 'R3:Resistor_SMD:R_1206_3216Metric'.
-Info: Processing symbol 'R4:RC1206FR-07360RL:RESC3116X65N'.
-Info: Processing symbol 'R12:PCM_SparkFun-Resistor:R_0603_1608Metric'.
-Info: Processing symbol 'R6:Resistor_SMD:R_1206_3216Metric'.
-Info: Processing symbol 'R7:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
-Info: Processing symbol 'R11:PCM_SparkFun-Resistor:R_0603_1608Metric'.
 Info: Processing symbol 'R8:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Processing symbol 'R16:Components_Footprint:RES_ERA8ARB203V'.
+Info: Processing symbol 'R15_Shunt1:Components_Footprint:RESC6331X88N'.
+Info: Processing symbol 'R15:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Processing symbol 'R14:PCM_SparkFun-Resistor:R_1206_3216Metric'.
+Info: Processing symbol 'R13:PCM_SparkFun-Resistor:R_0603_1608Metric'.
+Info: Processing symbol 'R12:PCM_SparkFun-Resistor:R_0603_1608Metric'.
+Info: Processing symbol 'R11:PCM_SparkFun-Resistor:R_0603_1608Metric'.
+Info: Processing symbol 'R10:Components_Footprint:RESC2012X60N'.
 Info: Processing symbol 'R9:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
-Info: Processing symbol 'R10:PCM_fab:R_1206'.
-Info: Processing symbol 'D2:LED_SMD:LED_1206_3216Metric'.
-Info: Processing symbol 'C2:Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder'.
+Info: Processing symbol 'R17:Components_Footprint:RES_ERA8ARB203V'.
+Info: Processing symbol 'R7:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Processing symbol 'R6:PCM_fab:R_1206'.
+Info: Processing symbol 'R5:PCM_SparkFun-Resistor:R_1206_3216Metric'.
+Info: Processing symbol 'R4_Burden1:Components_Footprint:RESC3116X65N'.
+Info: Processing symbol 'C1:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'R2:Resistor_SMD:R_1206_3216Metric'.
+Info: Processing symbol 'R1:Resistor_SMD:R_1206_3216Metric'.
+Info: Processing symbol 'L1:Inductor_SMD:L_Sunlord_SWPA6028S'.
+Info: Processing symbol 'J8:Connector:Banana_Jack_1Pin'.
+Info: Processing symbol 'R27:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Processing symbol 'U6:Components_Footprint:SOP127P600X165-9N'.
+Info: Processing symbol 'U5:Components_Footprint:MODULE_DM-OLED096-636'.
 Info: Processing symbol 'U4:Package_TO_SOT_SMD:SOT-223-3_TabPin2'.
-Info: Processing symbol 'C3:Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder'.
-Info: Processing symbol 'C4:Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder'.
-Info: Processing symbol 'U3:Package_SO:SOP-8-1EP_4.57x4.57mm_P1.27mm_EP4.57x4.45mm_ThermalVias'.
-Info: Processing symbol 'C5:Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder'.
-Info: Processing symbol 'C6:Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder'.
 Info: Processing symbol 'U2:Package_SO:TSSOP-10_3x3mm_P0.5mm'.
-Info: Processing symbol 'C7:Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder'.
-Info: Processing symbol 'C8:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
 Info: Processing symbol 'U1:Package_QFP:LQFP-48_7x7mm_P0.5mm'.
-Info: Processing symbol 'C9:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
-Info: Processing symbol 'T2:ZMPT101B:XFMR_ZMPT101B'.
-Info: Processing symbol 'C11:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'T1:Components_Footprint:XFMR_ZMPT101B'.
+Info: Processing symbol 'SW3:Components_Footprint:SOP127P600X165-9N'.
+Info: Processing symbol 'SW2:PCM_fab:Button_CnK_PTS636.0_6x3.5mm'.
 Info: Processing symbol 'SW1:Button_Switch_SMD:SW_Tactile_SPST_NO_Straight_CK_PTS636Sx25SMTRLFS'.
-Info: Processing symbol 'R23:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
-Info: Processing symbol 'C12:4ms_Capacitor:C_0603'.
-Info: Processing symbol 'C13:4ms_Capacitor:C_0603'.
-Info: Processing symbol 'C10:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Processing symbol 'R3:Resistor_SMD:R_1206_3216Metric'.
+Info: Processing symbol 'R26:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Processing symbol 'R25:Capacitor_SMD:C_0603_1608Metric'.
 Info: Processing symbol 'R24:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Processing symbol 'R23:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Processing symbol 'R22:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Processing symbol 'R21:Components_Footprint:RES_ERA8ARB203V'.
+Info: Processing symbol 'R20:Components_Footprint:RES_ERA8ARB203V'.
+Info: Processing symbol 'R19:Components_Footprint:RES_ERA8ARB203V'.
+Info: Processing symbol 'R18:Components_Footprint:RES_ERA8ARB203V'.
+Info: Processing symbol 'C11:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'C20:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C19:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C18:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C17:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'J7:Connector:Banana_Jack_1Pin'.
+Info: Processing symbol 'C15:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C14:PCM_SparkFun-Capacitor:C_0603_1608Metric'.
+Info: Processing symbol 'C13:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C12:PCM_4ms_Capacitor:C_0603'.
+Info: Processing symbol 'C16:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C10:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Processing symbol 'C9:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'C8:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'C7:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C6:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C5:PCM_SparkFun-Capacitor:C_1210_3225Metric'.
+Info: Processing symbol 'C4:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C3:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C2:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C22:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'J6:Connector:Banana_Jack_1Pin'.
+Info: Processing symbol 'J5:Connector:Banana_Jack_1Pin'.
+Info: Processing symbol 'J3:PCM_SparkFun-Connector:USB-C_16'.
+Info: Processing symbol 'J2:Connector_PinSocket_1.00mm:PinSocket_1x04_P1.00mm_Vertical'.
+Info: Processing symbol 'J1:PCM_fab:Conn_Jack_Stereo_3.5mm_CUI_SJ-3523-SMT-TR'.
+Info: Processing symbol 'FB1:Components_Footprint:XFMR_ZMPT101B'.
+Info: Processing symbol 'D7:PCM_Diode_SMD_AKL:D_SOD-523'.
+Info: Processing symbol 'D6:PCM_Diode_SMD_AKL:D_SOD-523'.
+Info: Processing symbol 'D3:LED_SMD:LED_1206_3216Metric'.
+Info: Processing symbol 'C21:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C23:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Processing symbol 'C24:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'C25:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
 Info: Processing symbol 'D1:LED_SMD:LED_1206_3216Metric'.
-Add R12 (footprint 'PCM_SparkFun-Resistor:R_0603_1608Metric').
-Add U4 (footprint 'Package_TO_SOT_SMD:SOT-223-3_TabPin2').
-Add R10 (footprint 'PCM_fab:R_1206').
-Add R22 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
-Add R2 (footprint 'Resistor_SMD:R_1206_3216Metric').
-Add U3 (footprint 'Package_SO:SOP-8-1EP_4.57x4.57mm_P1.27mm_EP4.57x4.45mm_ThermalVias').
-Add R11 (footprint 'PCM_SparkFun-Resistor:R_0603_1608Metric').
-Add R23 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
-Add U2 (footprint 'Package_SO:TSSOP-10_3x3mm_P0.5mm').
-Add R24 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
-Add U1 (footprint 'Package_QFP:LQFP-48_7x7mm_P0.5mm').
-Add R13 (footprint 'PCM_SparkFun-Resistor:R_0603_1608Metric').
-Add SW1 (footprint 'Button_Switch_SMD:SW_Tactile_SPST_NO_Straight_CK_PTS636Sx25SMTRLFS').
-Add C8 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
-Add D6 (footprint 'PCM_Diode_SMD_AKL:D_SOD-523').
-Add D4 (footprint 'LED_SMD:LED_1206_3216Metric').
-Add D3 (footprint 'LED_SMD:LED_1206_3216Metric').
-Add D2 (footprint 'LED_SMD:LED_1206_3216Metric').
-Add D1 (footprint 'LED_SMD:LED_1206_3216Metric').
-Add C11 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
-Add C10 (footprint 'Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm').
-Add C9 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
-Add R8 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
-Add C7 (footprint 'Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder').
-Add C6 (footprint 'Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder').
-Add C5 (footprint 'Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder').
-Add C4 (footprint 'Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder').
-Add C3 (footprint 'Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder').
-Add C2 (footprint 'Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder').
-Add C1 (footprint 'Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder').
-Add D7 (footprint 'PCM_Diode_SMD_AKL:D_SOD-523').
-Add R9 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
-Add R7 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
-Add R6 (footprint 'Resistor_SMD:R_1206_3216Metric').
-Add R3 (footprint 'Resistor_SMD:R_1206_3216Metric').
-Add R1 (footprint 'Resistor_SMD:R_1206_3216Metric').
-Add L1 (footprint 'Inductor_SMD:L_Sunlord_SWPA6028S').
-Add J3 (footprint 'PCM_SparkFun-Connector:USB-C_16').
-Add J1 (footprint 'PCM_fab:Conn_Jack_Stereo_3.5mm_CUI_SJ-3523-SMT-TR').
-Error: Cannot add C13 (footprint '4ms_Capacitor:C_0603' not found).
-Error: Cannot add C12 (footprint '4ms_Capacitor:C_0603' not found).
-Error: Cannot add R17 (footprint 'ERA8ARB203V:RES_ERA8ARB203V' not found).
-Error: Cannot add J5 (no footprint assigned).
-Error: Cannot add R16 (footprint 'ERA8ARB203V:RES_ERA8ARB203V' not found).
-Error: Cannot add T2 (footprint 'ZMPT101B:XFMR_ZMPT101B' not found).
-Error: Cannot add J6 (no footprint assigned).
-Error: Cannot add R18 (footprint 'ERA8ARB203V:RES_ERA8ARB203V' not found).
-Error: Cannot add R4 (footprint 'RC1206FR-07360RL:RESC3116X65N' not found).
-Error: Cannot add R19 (footprint 'ERA8ARB203V:RES_ERA8ARB203V' not found).
-Error: Cannot add R21 (footprint 'ERA8ARB203V:RES_ERA8ARB203V' not found).
-Error: Cannot add R20 (footprint 'ERA8ARB203V:RES_ERA8ARB203V' not found).
+Info: Processing symbol 'D2:LED_SMD:LED_1206_3216Metric'.
+Info: Processing symbol 'D4:LED_SMD:LED_1206_3216Metric'.
+Warning: No net found for component SW3 pad 8 (no pin 8 in symbol).
+Warning: No net found for component SW3 pad 5 (no pin 5 in symbol).
+Warning: No net found for component SW3 pad 4 (no pin 4 in symbol).
+Warning: No net found for component SW3 pad 6 (no pin 6 in symbol).
+Warning: No net found for component FB1 pad 4 (no pin 4 in symbol).
+Warning: No net found for component SW3 pad 7 (no pin 7 in symbol).
+Warning: No net found for component SW3 pad 9 (no pin 9 in symbol).
+Warning: No net found for component FB1 pad 3 (no pin 3 in symbol).
+Warning: No net found for component U5 pad S3 (no pin S3 in symbol).
+Warning: No net found for component U5 pad S2 (no pin S2 in symbol).
+Warning: No net found for component U5 pad S1 (no pin S1 in symbol).
+Warning: No net found for component U5 pad S4 (no pin S4 in symbol).
 
 
-Info: Total warnings: 0, errors: 12.
+Info: Total warnings: 12, errors: 0.
