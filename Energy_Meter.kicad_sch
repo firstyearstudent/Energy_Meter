@@ -22366,7 +22366,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Components_Footprint:POMONA_73096-2"
 			(at 78.74 207.01 0)
 			(hide yes)
 			(show_name no)
@@ -22562,7 +22562,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Components_Footprint:POMONA_73096-2"
 			(at 41.91 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -24451,7 +24451,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Components_Footprint:POMONA_73096-2"
 			(at 86.36 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -26318,7 +26318,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Components_Footprint:POMONA_73096-2"
 			(at 34.29 207.01 0)
 			(hide yes)
 			(show_name no)
