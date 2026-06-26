@@ -87,6 +87,304 @@
 			(outputdirectory "")
 		)
 	)
+	(footprint "PCM_SparkFun-Connector:ScrewTerminal_1x02_P3.5mm_Horizontal_Black"
+		(layer "F.Cu")
+		(uuid "0227c9ca-741a-4678-b68b-94c5f2f051e2")
+		(at 206.8516 92.625)
+		(tags "SparkFun Screw Terminal")
+		(property "Reference" "J9"
+			(at 0 -1.5 0)
+			(layer "F.Fab")
+			(uuid "3a706db6-6c66-43e7-854c-4bff803c9c86")
+			(effects
+				(font
+					(size 0.5 0.5)
+					(thickness 0.1)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Value" "3.5mm"
+			(at 0 2.2 0)
+			(layer "F.Fab")
+			(uuid "adc5f3c7-742e-4a86-91ff-65184f2dc6a1")
+			(effects
+				(font
+					(size 0.5 0.5)
+					(thickness 0.1)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Datasheet" "https://cdn.sparkfun.com/assets/8/5/e/4/d/ASS_4091_CO.pdf"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "76696620-5fbf-40b1-b476-684bf109f5f2")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "Screw terminal"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "209957b7-778a-41a3-a829-55bc54a6815c")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "PROD_ID" "CONN-08399"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "31ef2942-f607-4c35-a682-a6eae18c492d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "TerminalBlock*:*")
+		(path "/7f9534b1-fdfe-4363-af77-16b92368435f")
+		(sheetname "/")
+		(sheetfile "Energy_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
+		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_line
+			(start -1.75 -3.4)
+			(end 5.25 -3.4)
+			(stroke
+				(width 0.2032)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "ad292718-9250-4145-8c25-c79878f19f5c")
+		)
+		(fp_line
+			(start -1.75 2.8)
+			(end -1.75 -3.4)
+			(stroke
+				(width 0.2032)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "912875ec-661d-4e2a-91f6-bd5b2d92b3cd")
+		)
+		(fp_line
+			(start -1.75 3.6)
+			(end -1.75 2.8)
+			(stroke
+				(width 0.2032)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "e619f871-f662-42ac-a452-97ca88d87678")
+		)
+		(fp_line
+			(start 5.25 -3.4)
+			(end 5.25 2.8)
+			(stroke
+				(width 0.2032)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "573d849d-3a9c-4b15-a939-13aa985ed279")
+		)
+		(fp_line
+			(start 5.25 2.8)
+			(end -1.75 2.8)
+			(stroke
+				(width 0.2032)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "679b5df5-52d2-4857-aa61-d2f5ec4c684f")
+		)
+		(fp_line
+			(start 5.25 2.8)
+			(end 5.25 3.6)
+			(stroke
+				(width 0.2032)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "827e4e40-e070-4fca-9892-e9c541d81023")
+		)
+		(fp_line
+			(start 5.25 3.6)
+			(end -1.75 3.6)
+			(stroke
+				(width 0.2032)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "bab72791-e1f8-4e46-bd09-15c1a3024df9")
+		)
+		(fp_rect
+			(start -1.8 -3.6)
+			(end 5.3 3.8)
+			(stroke
+				(width 0.05)
+				(type default)
+			)
+			(fill no)
+			(layer "F.CrtYd")
+			(uuid "34255fe7-871b-4c61-b11c-3ab42b7441f6")
+		)
+		(fp_line
+			(start -2.25 1.35)
+			(end -2.25 2.35)
+			(stroke
+				(width 0.2032)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "9d020693-430c-49f4-baee-8230b88908df")
+		)
+		(fp_line
+			(start -2.25 2.35)
+			(end -1.75 2.35)
+			(stroke
+				(width 0.2032)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "2514763a-c2be-4354-8554-621fb67ded45")
+		)
+		(fp_line
+			(start -1.75 1.35)
+			(end -2.25 1.35)
+			(stroke
+				(width 0.2032)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "7694342e-7ec0-4394-be98-dfd8e654bebd")
+		)
+		(fp_line
+			(start 1.8 3.9)
+			(end 1.6 4.1)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "d71e64d7-12d7-4614-b4ff-c2235bab3a44")
+		)
+		(fp_line
+			(start 1.8 3.9)
+			(end 2 4.1)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "ae8f0ffc-9b43-44bc-91bc-d516b880ba7a")
+		)
+		(fp_line
+			(start 1.8 4.6)
+			(end 1.8 3.9)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "38227c3c-1b8f-45fc-80db-bd393bdcfaba")
+		)
+		(fp_line
+			(start 5.25 -3.15)
+			(end 5.75 -3.15)
+			(stroke
+				(width 0.2032)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "caa5e08d-fb7e-489c-84dc-758479515795")
+		)
+		(fp_line
+			(start 5.75 -3.15)
+			(end 5.75 -2.15)
+			(stroke
+				(width 0.2032)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "c7e4f790-a419-49b8-bdc6-f5fefa8e7421")
+		)
+		(fp_line
+			(start 5.75 -2.15)
+			(end 5.25 -2.15)
+			(stroke
+				(width 0.2032)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "24812689-1588-4de9-b8ad-e38846cad846")
+		)
+		(fp_text user "Wire Insert"
+			(at 1.8 4.9 180)
+			(layer "F.Fab")
+			(uuid "4bd2f180-fb67-4192-8e03-98d84adc05af")
+			(effects
+				(font
+					(size 0.184 0.184)
+					(thickness 0.016)
+				)
+			)
+		)
+		(pad "1" thru_hole rect
+			(at 0 0)
+			(size 2.5 2.5)
+			(drill 1.2)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net "/BAT")
+			(pinfunction "Pin_1_1")
+			(pintype "passive")
+			(thermal_bridge_angle 0)
+			(uuid "fb4d70d2-4d77-4c4b-bcfe-05af788632f5")
+		)
+		(pad "2" thru_hole circle
+			(at 3.5 0)
+			(size 2.5 2.5)
+			(drill 1.2)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net "GND")
+			(pinfunction "Pin_2_2")
+			(pintype "passive")
+			(uuid "cb114208-f662-4943-be76-5b60857b8a3d")
+		)
+		(embedded_fonts no)
+		(model "${KICAD9_3RD_PARTY}/3dmodels/com_github_sparkfun_SparkFun-KiCad-Libraries/Connector.3dshapes/Screw_Terminal_3.5mm_2P_Black.step"
+			(offset
+				(xyz 1.75 3.4 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
+	)
 	(footprint "Capacitor_SMD:C_1206_3216Metric"
 		(layer "F.Cu")
 		(uuid "034b06b5-3164-44bd-baf9-27db2eed46a4")
@@ -9866,7 +10164,7 @@
 			(uuid "844f1eac-6785-4cd0-81c5-95ff048005f1")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-523.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-523.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -10584,7 +10882,7 @@
 			(uuid "89f36292-0e66-4443-bfe8-18f31b957a3e")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-523.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-523.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -19045,7 +19343,7 @@
 			(uuid "6e10d416-8da3-4b7d-ba0d-2df03fcb5a29")
 		)
 		(embedded_fonts no)
-		(model "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_0805_2012Metric.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_0805_2012Metric.step"
 			(offset
 				(xyz 0 0 0)
 			)
