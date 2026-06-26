@@ -19428,7 +19428,7 @@
 				(justify bottom)
 			)
 		)
-		(property "MANUFACTURER" "Adafruit"
+		(property "Manufacturer" "Adafruit"
 			(at 58.42 254 0)
 			(hide yes)
 			(show_name no)
