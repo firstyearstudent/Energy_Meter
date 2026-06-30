@@ -1,121 +1,1609 @@
-Info: Processing symbol 'R8:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
-Info: Processing symbol 'R19:Components_Footprint:RES_ERA8ARB203V'.
-Info: Processing symbol 'R18:Components_Footprint:RES_ERA8ARB203V'.
-Info: Processing symbol 'R17:Components_Footprint:RES_ERA8ARB203V'.
-Info: Processing symbol 'R16:Components_Footprint:RES_ERA8ARB203V'.
-Info: Processing symbol 'R15_Shunt1:Components_Footprint:RESC6331X88N'.
-Info: Processing symbol 'R15:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
-Info: Processing symbol 'R14:PCM_SparkFun-Resistor:R_1206_3216Metric'.
-Info: Processing symbol 'R13:PCM_SparkFun-Resistor:R_0603_1608Metric'.
-Info: Processing symbol 'R12:PCM_SparkFun-Resistor:R_0603_1608Metric'.
-Info: Processing symbol 'R11:PCM_SparkFun-Resistor:R_0603_1608Metric'.
-Info: Processing symbol 'R10_Burden1:Components_Footprint:RESC2012X60N'.
-Info: Processing symbol 'R10:PCM_SparkFun-Resistor:R_0603_1608Metric'.
-Info: Processing symbol 'R9:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
-Info: Processing symbol 'R20:Components_Footprint:RES_ERA8ARB203V'.
-Info: Processing symbol 'R7:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
-Info: Processing symbol 'R6:PCM_fab:R_1206'.
-Info: Processing symbol 'R5:PCM_SparkFun-Resistor:R_1206_3216Metric'.
-Info: Processing symbol 'R4_Burden1:Components_Footprint:RESC3116X65N'.
-Info: Processing symbol 'R4:PCM_SparkFun-Resistor:R_0603_1608Metric'.
-Info: Processing symbol 'R3:Resistor_SMD:R_1206_3216Metric'.
-Info: Processing symbol 'R2:Resistor_SMD:R_1206_3216Metric'.
-Info: Processing symbol 'R1:Resistor_SMD:R_1206_3216Metric'.
-Info: Processing symbol 'L1:Inductor_SMD:L_Sunlord_SWPA6028S'.
-Info: Processing symbol 'J9:PCM_SparkFun-Connector:ScrewTerminal_1x02_P3.5mm_Horizontal_Black'.
-Info: Processing symbol 'J8:Components_Footprint:POMONA_73096-2'.
-Info: Processing symbol 'J7:Components_Footprint:POMONA_73096-2'.
-Info: Processing symbol 'R33:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
-Info: Processing symbol 'U6:Components_Footprint:SOP127P600X165-9N'.
-Info: Processing symbol 'U4:Package_TO_SOT_SMD:SOT-223-3_TabPin2'.
-Info: Processing symbol 'U3:Package_DFN_QFN:QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm'.
-Info: Processing symbol 'U2:Package_SO:TSSOP-10_3x3mm_P0.5mm'.
-Info: Processing symbol 'U1:Package_QFP:LQFP-48_7x7mm_P0.5mm'.
-Info: Processing symbol 'T1:Components_Footprint:XFMR_ZMPT101B'.
-Info: Processing symbol 'SW5:Button_Switch_THT:SW_PUSH_6mm'.
-Info: Processing symbol 'SW4:Components_Footprint:EC11E15244G1_AAL'.
-Info: Processing symbol 'SW3:Button_Switch_THT:SW_Slide_SPDT_Straight_CK_OS102011MS2Q'.
-Info: Processing symbol 'SW2:PCM_fab:Button_CnK_PTS636.0_6x3.5mm'.
-Info: Processing symbol 'SW1:Button_Switch_SMD:SW_Tactile_SPST_NO_Straight_CK_PTS636Sx25SMTRLFS'.
-Info: Processing symbol 'R34:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
-Info: Processing symbol 'C2:Capacitor_SMD:C_1206_3216Metric'.
-Info: Processing symbol 'R32:PCM_SparkFun-Resistor:R_0603_1608Metric'.
-Info: Processing symbol 'R31:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
-Info: Processing symbol 'R30:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
-Info: Processing symbol 'R29:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
-Info: Processing symbol 'R28:PCM_SparkFun-Resistor:R_0603_1608Metric'.
-Info: Processing symbol 'R27:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
-Info: Processing symbol 'R26:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
-Info: Processing symbol 'R25:Capacitor_SMD:C_0603_1608Metric'.
-Info: Processing symbol 'R24:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
-Info: Processing symbol 'R23:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
-Info: Processing symbol 'R22:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
-Info: Processing symbol 'R21:Components_Footprint:RES_ERA8ARB203V'.
-Info: Processing symbol 'C16:Capacitor_SMD:C_0603_1608Metric'.
-Info: Processing symbol 'C31:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
-Info: Processing symbol 'C30:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
-Info: Processing symbol 'C29:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
-Info: Processing symbol 'C28:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
-Info: Processing symbol 'C27:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
-Info: Processing symbol 'C26:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
-Info: Processing symbol 'C25:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
-Info: Processing symbol 'C24:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
-Info: Processing symbol 'C23:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
-Info: Processing symbol 'C22:Capacitor_SMD:C_0603_1608Metric'.
-Info: Processing symbol 'C21:Capacitor_SMD:C_0603_1608Metric'.
-Info: Processing symbol 'C20:Capacitor_SMD:C_0603_1608Metric'.
-Info: Processing symbol 'C19:Capacitor_SMD:C_0603_1608Metric'.
-Info: Processing symbol 'C18:Capacitor_SMD:C_0603_1608Metric'.
-Info: Processing symbol 'C17:Capacitor_SMD:C_0603_1608Metric'.
-Info: Processing symbol 'C32:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
-Info: Processing symbol 'C15:Capacitor_SMD:C_0603_1608Metric'.
-Info: Processing symbol 'C14:PCM_SparkFun-Capacitor:C_0603_1608Metric'.
-Info: Processing symbol 'C13:Capacitor_SMD:C_0603_1608Metric'.
-Info: Processing symbol 'C12:PCM_4ms_Capacitor:C_0603'.
-Info: Processing symbol 'C11:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
-Info: Processing symbol 'C10:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
-Info: Processing symbol 'C9:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
-Info: Processing symbol 'C8:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
-Info: Processing symbol 'C7:Capacitor_SMD:C_1206_3216Metric'.
-Info: Processing symbol 'C6:Capacitor_SMD:C_1206_3216Metric'.
-Info: Processing symbol 'C5:PCM_SparkFun-Capacitor:C_1210_3225Metric'.
-Info: Processing symbol 'C4:Capacitor_SMD:C_1206_3216Metric'.
-Info: Processing symbol 'C3:Capacitor_SMD:C_1206_3216Metric'.
-Info: Processing symbol 'C1:Capacitor_SMD:C_1206_3216Metric'.
-Info: Processing symbol 'D1:LED_SMD:LED_1206_3216Metric'.
-Info: Processing symbol 'D2:LED_SMD:LED_1206_3216Metric'.
-Info: Processing symbol 'D3:LED_SMD:LED_1206_3216Metric'.
-Info: Processing symbol 'D4:LED_SMD:LED_1206_3216Metric'.
-Info: Processing symbol 'D6:PCM_Diode_SMD_AKL:D_SOD-523'.
-Info: Processing symbol 'D7:PCM_Diode_SMD_AKL:D_SOD-523'.
-Info: Processing symbol 'DS1:Components_Footprint:MODULE_4311'.
-Info: Processing symbol 'J6:Components_Footprint:POMONA_73096-2'.
-Info: Processing symbol 'FB1:PCM_Ferrite_SMD_AKL:Ferrite_0805_2012Metric'.
-Info: Processing symbol 'J1:PCM_fab:Conn_Jack_Stereo_3.5mm_CUI_SJ-3523-SMT-TR'.
 Info: Processing symbol 'J2:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Horizontal'.
-Info: Processing symbol 'J3:PCM_SparkFun-Connector:USB-C_16'.
+Info: Processing symbol 'TP8:PCM_SparkFun-Connector:TestPoint-0.5mm'.
+Info: Processing symbol 'C11:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'R19:Components_Footprint:RES_ERA8ARB203V'.
+Info: Processing symbol 'R4:PCM_SparkFun-Resistor:R_0603_1608Metric'.
+Info: Processing symbol 'C30:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Processing symbol 'R34:PCM_SparkFun-Resistor:R_0603_1608Metric'.
+Info: Processing symbol 'C12:PCM_4ms_Capacitor:C_0603'.
+Info: Processing symbol 'TP9:PCM_SparkFun-Connector:TestPoint-0.5mm'.
+Info: Processing symbol 'R20:Components_Footprint:RES_ERA8ARB203V'.
+Info: Processing symbol 'R3:Resistor_SMD:R_1206_3216Metric'.
+Info: Processing symbol 'C31:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Processing symbol 'C13:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C29:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Processing symbol 'TP10:PCM_SparkFun-Connector:TestPoint-0.5mm'.
+Info: Processing symbol 'R21:Components_Footprint:RES_ERA8ARB203V'.
+Info: Processing symbol 'R2:Resistor_SMD:R_1206_3216Metric'.
+Info: Processing symbol 'R33:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Processing symbol 'C14:PCM_SparkFun-Capacitor:C_0603_1608Metric'.
+Info: Processing symbol 'C28:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Processing symbol 'R22:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Processing symbol 'C9:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'R16:Components_Footprint:RES_ERA8ARB203V'.
+Info: Processing symbol 'U3:Package_SO:SOIC-16_3.9x9.9mm_P1.27mm'.
+Info: Processing symbol 'C8:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'R6:PCM_fab:R_1206'.
+Info: Processing symbol 'C33:Components_Footprint:CAPRB250W50L400T250H550'.
+Info: Processing symbol 'TP6:PCM_SparkFun-Connector:TestPoint-0.5mm'.
+Info: Processing symbol 'SW2:PCM_fab:Button_CnK_PTS636.0_6x3.5mm'.
+Info: Processing symbol 'R17:Components_Footprint:RES_ERA8ARB203V'.
+Info: Processing symbol 'FB1:PCM_Ferrite_SMD_AKL:Ferrite_0805_2012Metric'.
+Info: Processing symbol 'TP11:PCM_SparkFun-Connector:TestPoint-0.5mm'.
+Info: Processing symbol 'R5:PCM_SparkFun-Resistor:R_1206_3216Metric'.
+Info: Processing symbol 'U2:Package_SO:TSSOP-10_3x3mm_P0.5mm'.
+Info: Processing symbol 'C32:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Processing symbol 'TP7:PCM_SparkFun-Connector:TestPoint-0.5mm'.
+Info: Processing symbol 'C10:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Processing symbol 'R18:Components_Footprint:RES_ERA8ARB203V'.
+Info: Processing symbol 'SW1:Button_Switch_SMD:SW_Tactile_SPST_NO_Straight_CK_PTS636Sx25SMTRLFS'.
+Info: Processing symbol 'R4_Burden1:Components_Footprint:RESC3116X65N'.
+Info: Processing symbol 'J1:PCM_fab:Conn_Jack_Stereo_3.5mm_CUI_SJ-3523-SMT-TR'.
+Info: Processing symbol 'J7:Components_Footprint:POMONA_73096-2'.
+Info: Processing symbol 'R25:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'J8:Components_Footprint:POMONA_73096-2'.
+Info: Processing symbol 'TP14:PCM_SparkFun-Connector:TestPoint-0.5mm'.
+Info: Processing symbol 'TP19:PCM_SparkFun-Connector:TestPoint-0.5mm'.
+Info: Processing symbol 'R30:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Processing symbol 'C19:Capacitor_SMD:C_0603_1608Metric'.
 Info: Processing symbol 'J5:Components_Footprint:POMONA_73096-2'.
-Add J9 (footprint 'PCM_SparkFun-Connector:ScrewTerminal_1x02_P3.5mm_Horizontal_Black').
-Warning: No net found for component J6 pad SH1 (no pin SH1 in symbol).
-Warning: No net found for component SW4 pad 6 (no pin 6 in symbol).
-Warning: No net found for component SW4 pad 7 (no pin 7 in symbol).
-Warning: No net found for component J5 pad SH3 (no pin SH3 in symbol).
-Warning: No net found for component J7 pad SH1 (no pin SH1 in symbol).
-Warning: No net found for component J7 pad SH4 (no pin SH4 in symbol).
-Warning: No net found for component J7 pad SH2 (no pin SH2 in symbol).
-Warning: No net found for component J7 pad SH3 (no pin SH3 in symbol).
-Warning: No net found for component J6 pad SH2 (no pin SH2 in symbol).
-Warning: No net found for component J6 pad SH4 (no pin SH4 in symbol).
-Warning: No net found for component J8 pad SH1 (no pin SH1 in symbol).
-Warning: No net found for component J8 pad SH4 (no pin SH4 in symbol).
-Warning: No net found for component J8 pad SH2 (no pin SH2 in symbol).
-Warning: No net found for component J8 pad SH3 (no pin SH3 in symbol).
-Warning: No net found for component J5 pad SH2 (no pin SH2 in symbol).
-Warning: No net found for component J5 pad SH1 (no pin SH1 in symbol).
-Warning: No net found for component J5 pad SH4 (no pin SH4 in symbol).
-Warning: No net found for component DS1 pad SH2 (no pin SH2 in symbol).
-Warning: No net found for component DS1 pad SH1 (no pin SH1 in symbol).
+Info: Processing symbol 'C23:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Processing symbol 'R26:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Processing symbol 'TP18:PCM_SparkFun-Connector:TestPoint-0.5mm'.
+Info: Processing symbol 'C24:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'C20:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'TP15:PCM_SparkFun-Connector:TestPoint-0.5mm'.
+Info: Processing symbol 'R29:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Processing symbol 'TP17:PCM_SparkFun-Connector:TestPoint-0.5mm'.
+Info: Processing symbol 'C22:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'R27:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Processing symbol 'C21:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'TP16:PCM_SparkFun-Connector:TestPoint-0.5mm'.
+Info: Processing symbol 'J6:Components_Footprint:POMONA_73096-2'.
+Info: Processing symbol 'C16:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'R1:Resistor_SMD:R_1206_3216Metric'.
+Info: Processing symbol 'J3:PCM_SparkFun-Connector:USB-C_16'.
+Info: Processing symbol 'C15:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'R32:PCM_SparkFun-Resistor:R_0603_1608Metric'.
+Info: Processing symbol 'C26:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Processing symbol 'U1:Package_QFP:LQFP-48_7x7mm_P0.5mm'.
+Info: Processing symbol 'R23:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Processing symbol 'L1:Inductor_SMD:L_Sunlord_SWPA6028S'.
+Info: Processing symbol 'TP12:PCM_SparkFun-Connector:TestPoint-0.5mm'.
+Info: Processing symbol 'C1:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'TP21:PCM_SparkFun-Connector:TestPoint-0.5mm'.
+Info: Processing symbol 'C25:Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm'.
+Info: Processing symbol 'R24:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Processing symbol 'J9:PCM_SparkFun-Connector:ScrewTerminal_1x02_P3.5mm_Horizontal_Black'.
+Info: Processing symbol 'C17:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'R31:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Processing symbol 'TP13:PCM_SparkFun-Connector:TestPoint-0.5mm'.
+Info: Processing symbol 'TP20:PCM_SparkFun-Connector:TestPoint-0.5mm'.
+Info: Processing symbol 'C18:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'TP4:PCM_SparkFun-Connector:TestPoint-0.5mm'.
+Info: Processing symbol 'T1:Components_Footprint:XFMR_ZMPT101B'.
+Info: Processing symbol 'R15_Shunt1:Components_Footprint:RESC6331X88N'.
+Info: Processing symbol 'R11:PCM_SparkFun-Resistor:R_0603_1608Metric'.
+Info: Processing symbol 'D6:PCM_Diode_SMD_AKL:D_SOD-523'.
+Info: Processing symbol 'Y1:Crystal:Crystal_HC49-4H_Vertical'.
+Info: Processing symbol 'TP1:PCM_SparkFun-Connector:TestPoint-0.5mm'.
+Info: Processing symbol 'C2:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C6:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'U4:Package_TO_SOT_SMD:SOT-223-3_TabPin2'.
+Info: Processing symbol 'R8:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Processing symbol 'TP2:PCM_SparkFun-Connector:TestPoint-0.5mm'.
+Info: Processing symbol 'TP3:PCM_SparkFun-Connector:TestPoint-0.5mm'.
+Info: Processing symbol 'C3:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'D1:LED_SMD:LED_1206_3216Metric'.
+Info: Processing symbol 'D3:LED_SMD:LED_1206_3216Metric'.
+Info: Processing symbol 'R13:PCM_SparkFun-Resistor:R_0603_1608Metric'.
+Info: Processing symbol 'R9:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Processing symbol 'SW4:Components_Footprint:EC11E15244G1_AAL'.
+Info: Processing symbol 'R10_Burden1:Components_Footprint:RESC2012X60N'.
+Info: Processing symbol 'C5:PCM_SparkFun-Capacitor:C_1210_3225Metric'.
+Info: Processing symbol 'R15:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Processing symbol 'DS1:Components_Footprint:MODULE_4311'.
+Info: Processing symbol 'SW5:Button_Switch_THT:SW_PUSH_6mm'.
+Info: Processing symbol 'R10:PCM_SparkFun-Resistor:R_0603_1608Metric'.
+Info: Processing symbol 'C4:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'SW3:Button_Switch_THT:SW_Slide_SPDT_Straight_CK_OS102011MS2Q'.
+Info: Processing symbol 'R14:PCM_SparkFun-Resistor:R_1206_3216Metric'.
+Info: Processing symbol 'C7:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'R7:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Processing symbol 'TP5:PCM_SparkFun-Connector:TestPoint-0.5mm'.
+Info: Processing symbol 'D2:LED_SMD:LED_1206_3216Metric'.
+Info: Processing symbol 'C35:Components_Footprint:CAPRB250W50L400T250H550'.
+Info: Processing symbol 'D4:LED_SMD:LED_1206_3216Metric'.
+Info: Processing symbol 'U6:Components_Footprint:SOP127P600X165-9N'.
+Info: Processing symbol 'D7:PCM_Diode_SMD_AKL:D_SOD-523'.
+Info: Processing symbol 'R12:PCM_SparkFun-Resistor:R_0603_1608Metric'.
+Updated R31 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated SW5 symbol association from  to /096593e3-2328-43b2-82fb-24280b29d08e.
+Updated R30 footprint filters to 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm*'.
+Updated R31 unit metadata.
+Connected SW4 pin C to GND.
+Connected R31 pin 1 to 3.3VD.
+Connected R30 pin 2 to Net-(C28-Pad2).
+Connected SW4 pin E to GND.
+Connected R30 pin 1 to 3.3VD.
+Updated SW4 unit metadata.
+Updated R31 footprint filters to 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm*'.
+Updated R30 unit metadata.
+Updated R31 sheetname to '/'.
+Changed SW5 value from SW_PUSH_6mm to Push_Button.
+Updated R31 fields.
+Updated R31 symbol association from  to /9017e46f-2ed7-42f1-b664-4ba9339a6ba1.
+Changed REF** reference designator to SW5.
+Added R31 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Changed REF** reference designator to R30.
+Changed REF** reference designator to R31.
+Changed R31 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal to 10k.
+Connected R31 pin 2 to Net-(C30-Pad2).
+Added SW5 (footprint 'Button_Switch_THT:SW_PUSH_6mm').
+Add net Net-(U1-PB2).
+Updated R29 fields.
+Updated R29 symbol association from  to /d3790d62-b8e2-4885-a9b2-6dcfec7a4e3b.
+Updated SW5 unit metadata.
+Changed R29 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal to 10k.
+Changed REF** reference designator to R29.
+Added R29 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Updated R27 unit metadata.
+Connected R27 pin 2 to Net-(U1-PB2).
+Added T1 (footprint 'Components_Footprint:XFMR_ZMPT101B').
+Updated R29 sheetname to '/'.
+Changed REF** reference designator to T1.
+Changed T1 value from XFMR_ZMPT101B to ZMPT101B.
+Connected R27 pin 1 to GND.
+Updated R27 footprint filters to 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm*'.
+Updated R27 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated R11 footprint filters to 'R_*'.
+Updated R27 sheetname to '/'.
+Updated T1 symbol association from  to /87a0423d-53e1-46c7-bd90-0382405e7eaa.
+Connected SW5 pin 2 to Net-(C31-Pad2).
+Updated R30 sheetname to '/'.
+Updated R30 fields.
+Updated R30 symbol association from  to /a338d966-6925-4aad-8e60-40405d52ac68.
+Updated SW5 fields.
+Updated SW5 sheetname to '/'.
+Changed R30 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal to 10k.
+Updated R32 sheetname to '/'.
+Updated SW5 sheetfile to 'Energy_Meter.kicad_sch'.
+Added R30 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Updated R30 sheetfile to 'Energy_Meter.kicad_sch'.
+Connected SW5 pin 1 to GND.
+Connected SW5 pin 2 to Net-(C31-Pad2).
+Updated R29 unit metadata.
+Connected R29 pin 1 to 3.3VD.
+Connected SW5 pin 1 to GND.
+Connected R29 pin 2 to Net-(C29-Pad2).
+Updated R29 footprint filters to 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm*'.
+Updated R29 sheetfile to 'Energy_Meter.kicad_sch'.
+Connected SW3 pin 2 to Net-(SW3-B).
+Updated SW3 fields.
+Updated SW1 sheetname to '/'.
+Updated SW3 sheetname to '/'.
+Updated SW1 fields.
+Updated SW1 symbol association from  to /d2a9903d-55e1-423c-93b8-542035d82c9e.
+Changed SW1 value from SW_Tactile_SPST_NO_Straight_CK_PTS636Sx25SMTRLFS to SW_Push.
+Changed REF** reference designator to SW1.
+Added SW1 (footprint 'Button_Switch_SMD:SW_Tactile_SPST_NO_Straight_CK_PTS636Sx25SMTRLFS').
+Updated SW3 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated SW3 symbol association from  to /7dab059d-c71f-4d2d-af27-36c57973f747.
+Updated R34 unit metadata.
+Connected SW3 pin 1 to GND.
+Connected R34 pin 1 to Net-(C31-Pad2).
+Connected SW3 pin 3 to 3.3VD.
+Connected R34 pin 2 to /RANGE.
+Add net /RANGE.
+Updated R34 footprint filters to 'R_*'.
+Updated R34 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated R34 sheetname to '/'.
+Added SW2 (footprint 'PCM_fab:Button_CnK_PTS636.0_6x3.5mm').
+Updated SW2 footprint filters to '*Button?CnK*'.
+Connected SW2 pin 2 to /TFT_RST.
+Updated SW2 unit metadata.
+Updated SW2 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated SW2 sheetname to '/'.
+Updated SW2 fields.
+Updated SW2 symbol association from  to /22db1ad1-a794-487a-9f3f-db319c2bdb46.
+Changed SW2 value from Button_CnK_PTS636.0_6x3.5mm to Switch_Tactile_CnK.
+Changed REF** reference designator to SW2.
+Updated SW3 unit metadata.
+Updated SW1 unit metadata.
+Connected SW1 pin 1 to GND.
+Added SW3 (footprint 'Button_Switch_THT:SW_Slide_SPDT_Straight_CK_OS102011MS2Q').
+Changed REF** reference designator to SW3.
+Connected SW1 pin 2 to Net-(U6-KEY).
+Changed SW3 value from SW_Slide_SPDT_Straight_CK_OS102011MS2Q to SW_SPDT.
+Add net Net-(U6-KEY).
+Updated SW1 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated R32 footprint filters to 'R_*'.
+Updated SW4 sheetname to '/'.
+Changed REF** reference designator to R33.
+Added R33 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Updated SW4 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated R32 unit metadata.
+Connected R32 pin 2 to /PUSH.
+Updated SW4 footprint filters to 'EC11E15244G1_AAL'.
+Add net /PUSH.
+Connected R32 pin 1 to Net-(C30-Pad2).
+Changed R33 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal to 10k.
+Updated R32 sheetfile to 'Energy_Meter.kicad_sch'.
+Connected SW4 pin B to Net-(C28-Pad2).
+Connected SW2 pin 1 to GND.
+Connected SW4 pin D to Net-(C30-Pad2).
+Updated R32 fields.
+Updated R32 symbol association from  to /95be6e3a-ffd1-4b5c-a334-f7b902966ed1.
+Changed R32 value from R_0603_1608Metric to 100.
+Connected SW4 pin A to Net-(C29-Pad2).
+Changed REF** reference designator to R32.
+Connected R33 pin 1 to 3.3VD.
+Updated R34 fields.
+Updated R34 symbol association from  to /fe889133-f561-4d1c-9acb-53b2d3170c92.
+Changed R34 value from R_0603_1608Metric to 100.
+Changed REF** reference designator to R34.
+Added R34 (footprint 'PCM_SparkFun-Resistor:R_0603_1608Metric').
+Added SW4 (footprint 'Components_Footprint:EC11E15244G1_AAL').
+Changed REF** reference designator to SW4.
+Updated R33 unit metadata.
+Connected R33 pin 2 to Net-(C31-Pad2).
+Added R32 (footprint 'PCM_SparkFun-Resistor:R_0603_1608Metric').
+Updated R33 footprint filters to 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm*'.
+Changed SW4 value from EC11E15244G1_AAL to EC11E15244G1.
+Updated R33 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated R33 sheetname to '/'.
+Updated R33 fields.
+Updated SW4 symbol association from  to /1b6d3bd7-2777-49fa-b441-ffda2d95eb1e.
+Updated R33 symbol association from  to /6c129086-1558-4fe3-90ed-3d314c50f6ce.
+Updated SW4 fields.
+Updated R15_Shunt1 sheetfile to 'Energy_Meter.kicad_sch'.
+Add net Net-(R16-Pad2).
+Updated R16 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated R16 sheetname to '/'.
+Updated R16 fields.
+Updated R16 symbol association from  to /d24ec295-7454-4889-8fb5-7ec9d18e970f.
+Changed R16 value from RES_ERA8ARB203V to 20k_1206.
+Changed REF** reference designator to R16.
+Added R16 (footprint 'Components_Footprint:RES_ERA8ARB203V').
+Updated R15_Shunt1 unit metadata.
+Connected R15_Shunt1 pin 2 to Net-(R15_Shunt1-Pad2).
+Connected R15_Shunt1 pin 1 to Net-(R14-Pad1).
+Connected R16 pin 2 to Net-(R16-Pad2).
+Updated R15_Shunt1 sheetname to '/'.
+Updated R15_Shunt1 fields.
+Updated R15_Shunt1 symbol association from  to /1717d047-043e-4354-aeb3-5077f84d7610.
+Changed R15_Shunt1 value from RESC6331X88N to 0.001_1%_5W.
+Changed REF** reference designator to R15_Shunt1.
+Added R15_Shunt1 (footprint 'Components_Footprint:RESC6331X88N').
+Updated R15 unit metadata.
+Connected R15 pin 2 to /TFT_RST.
+Connected R15 pin 1 to 3.3VD.
+Updated R15 footprint filters to 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm*'.
+Updated R15 sheetfile to 'Energy_Meter.kicad_sch'.
+Connected R17 pin 1 to Net-(R17-Pad1).
+Add net Net-(R18-Pad1).
+Updated R18 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated R18 sheetname to '/'.
+Updated R18 fields.
+Updated R18 symbol association from  to /605f97b5-5b5a-45ac-96c2-aa8f0f7967b4.
+Changed R18 value from RES_ERA8ARB203V to 20k_1206.
+Changed REF** reference designator to R18.
+Added R18 (footprint 'Components_Footprint:RES_ERA8ARB203V').
+Updated R17 unit metadata.
+Connected R17 pin 2 to Net-(R17-Pad2).
+Add net Net-(R17-Pad2).
+Updated R15 sheetname to '/'.
+Add net Net-(R17-Pad1).
+Updated R17 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated R17 sheetname to '/'.
+Updated R17 fields.
+Updated R17 symbol association from  to /32fd0044-c9a3-4c71-b9f6-3ce80c732c5d.
+Changed R17 value from RES_ERA8ARB203V to 20k_1206.
+Changed REF** reference designator to R17.
+Added R17 (footprint 'Components_Footprint:RES_ERA8ARB203V').
+Updated R16 unit metadata.
+Connected R16 pin 1 to Net-(R16-Pad1).
+Add net Net-(R16-Pad1).
+Updated R12 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated R13 sheetname to '/'.
+Updated R13 fields.
+Updated R13 symbol association from  to /a9d84476-be1f-4ca3-b1ae-a8ff1df09574.
+Changed R13 value from R_0603_1608Metric to 4.7k.
+Changed REF** reference designator to R13.
+Added R13 (footprint 'PCM_SparkFun-Resistor:R_0603_1608Metric').
+Updated R12 unit metadata.
+Connected R12 pin 2 to 3.3VD.
+Connected R12 pin 1 to /SCL1.
+Add net /SCL1.
+Updated R12 footprint filters to 'R_*'.
+Updated R13 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated R12 sheetname to '/'.
+Updated R12 fields.
+Updated R12 symbol association from  to /bd37f52b-9bcc-4cde-a85c-7b5f85427732.
+Changed R12 value from R_0603_1608Metric to 4.7k.
+Changed REF** reference designator to R12.
+Added R12 (footprint 'PCM_SparkFun-Resistor:R_0603_1608Metric').
+Updated R11 unit metadata.
+Connected R11 pin 2 to 3.3VD.
+Connected R11 pin 1 to /SDA1.
+Add net /SDA1.
+Added C1 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Updated R14 sheetname to '/'.
+Updated R15 fields.
+Updated R15 symbol association from  to /f953d1ff-95f0-4f80-b716-6e3cc526713e.
+Changed R15 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal to 10k.
+Changed REF** reference designator to R15.
+Added R15 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Updated R14 unit metadata.
+Connected R14 pin 1 to Net-(R14-Pad1).
+Add net Net-(R14-Pad1).
+Connected R14 pin 2 to IN-.
+Updated R14 footprint filters to 'R_*'.
+Updated R14 sheetfile to 'Energy_Meter.kicad_sch'.
+Connected R18 pin 1 to Net-(R18-Pad1).
+Updated R14 fields.
+Updated R14 symbol association from  to /2ae87468-ac1b-4ef5-84e0-95d33e6e152b.
+Changed R14 value from R_1206_3216Metric to 10.
+Changed REF** reference designator to R14.
+Added R14 (footprint 'PCM_SparkFun-Resistor:R_1206_3216Metric').
+Updated R13 unit metadata.
+Connected R13 pin 2 to Net-(U2-~{Alert}).
+Add net Net-(U2-~{Alert}).
+Connected R13 pin 1 to 3.3VD.
+Updated R13 footprint filters to 'R_*'.
+Updated R24 symbol association from  to /e59756a2-65bf-43f8-a926-fd39bd42aaef.
+Updated R25 symbol association from  to /0994b7eb-327d-4d68-92b8-b3a5f0d73b3e.
+Changed R25 value from C_0603_1608Metric to 1.5k_0603.
+Changed REF** reference designator to R25.
+Added R25 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Updated R24 unit metadata.
+Connected R24 pin 2 to ADC2.
+Connected R24 pin 1 to Net-(R24-Pad1).
+Updated R24 footprint filters to 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm*'.
+Updated R24 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated R24 sheetname to '/'.
+Updated R24 fields.
+Updated R25 fields.
+Changed R24 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal to 1k.
+Changed REF** reference designator to R24.
+Added R24 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Updated R23 unit metadata.
+Connected R23 pin 2 to Net-(C11-Pad1).
+Connected R23 pin 1 to GND.
+Updated R23 footprint filters to 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm*'.
+Updated R23 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated R23 sheetname to '/'.
+Updated R23 fields.
+Updated R23 symbol association from  to /1a486011-ce61-4140-aede-66c9c4201624.
+Updated R26 sheetname to '/'.
+Updated R27 symbol association from  to /33faaad6-cd61-4112-8381-fef5d32c65cc.
+Changed R27 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal to 10k.
+Changed REF** reference designator to R27.
+Added R27 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Updated R26 unit metadata.
+Connected R26 pin 1 to Net-(SW3-B).
+Add net Net-(SW3-B).
+Connected R26 pin 2 to Net-(U1-BOOT0).
+Add net Net-(U1-BOOT0).
+Updated R26 footprint filters to 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm*'.
+Updated R26 sheetfile to 'Energy_Meter.kicad_sch'.
+Changed R23 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal to 470k.
+Updated R26 fields.
+Updated R26 symbol association from  to /bc311083-1da1-4910-a27b-add62fe090ba.
+Changed R26 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal to 10k.
+Changed REF** reference designator to R26.
+Added R26 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Updated R25 unit metadata.
+Connected R25 pin 2 to /USB_C+.
+Connected R25 pin 1 to 3.3VD.
+Updated R25 footprint filters to 'R_* R_*'.
+Updated R25 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated R25 sheetname to '/'.
+Connected R19 pin 2 to Net-(R17-Pad1).
+Updated R20 unit metadata.
+Connected R20 pin 1 to AC_L.
+Connected R20 pin 2 to Net-(R18-Pad1).
+Updated R20 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated R20 sheetname to '/'.
+Updated R20 fields.
+Updated R20 symbol association from  to /97534cb9-37e9-4301-bd6c-4e8089e2042e.
+Changed R20 value from RES_ERA8ARB203V to 20k_1206.
+Changed REF** reference designator to R20.
+Added R20 (footprint 'Components_Footprint:RES_ERA8ARB203V').
+Updated R19 unit metadata.
+Added R21 (footprint 'Components_Footprint:RES_ERA8ARB203V').
+Connected R19 pin 1 to Net-(R19-Pad1).
+Add net Net-(R19-Pad1).
+Updated R19 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated R19 sheetname to '/'.
+Updated R19 fields.
+Updated R19 symbol association from  to /00628b0d-4290-42c4-81c8-926ae012639d.
+Changed R19 value from RES_ERA8ARB203V to 20k_1206.
+Changed REF** reference designator to R19.
+Added R19 (footprint 'Components_Footprint:RES_ERA8ARB203V').
+Updated R18 unit metadata.
+Connected R18 pin 2 to Net-(R16-Pad1).
+Changed REF** reference designator to R22.
+Changed REF** reference designator to R23.
+Added R23 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Updated R22 unit metadata.
+Connected R22 pin 2 to 3.3VA.
+Connected R22 pin 1 to Net-(C11-Pad1).
+Updated R22 footprint filters to 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm*'.
+Updated R22 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated R22 sheetname to '/'.
+Updated R22 fields.
+Updated R22 symbol association from  to /ea44b6a0-05e6-4ffd-a8ec-0865228f4b2b.
+Changed R22 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal to 470k.
+Updated R27 fields.
+Added R22 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Updated R21 unit metadata.
+Connected R21 pin 2 to Net-(R19-Pad1).
+Connected R21 pin 1 to AC_N.
+Updated R21 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated R21 sheetname to '/'.
+Updated R21 fields.
+Updated R21 symbol association from  to /6555944e-b537-475b-9d69-0d5021b60e56.
+Changed R21 value from RES_ERA8ARB203V to 20k_1206.
+Changed REF** reference designator to R21.
+Connected U1 pin 40 to unconnected-(U1-PB4-Pad40).
+Connected U1 pin 33 to /USB_C+.
+Connected U1 pin 37 to /SWCLK.
+Connected U1 pin 29 to /RANGE.
+Connected U1 pin 11 to ADC2.
+Connected U1 pin 21 to /SCL2.
+Add net /SCL2.
+Connected U1 pin 46 to /TFT_DC.
+Connected U1 pin 23 to GND.
+Connected U1 pin 35 to GND.
+Connected U1 pin 5 to /HSE_IN.
+Connected U1 pin 9 to 3.3VA.
+Connected U1 pin 36 to 3.3VD.
+Add net unconnected-(U1-PB4-Pad40).
+Connected U1 pin 22 to /SDA2.
+Add net /SDA2.
+Connected U1 pin 25 to /PUSH.
+Connected U1 pin 8 to GND.
+Connected U1 pin 38 to unconnected-(U1-PA15-Pad38).
+Add net unconnected-(U1-PA15-Pad38).
+Connected U1 pin 45 to /TFT_CS.
+Connected U1 pin 27 to /TFT_MISO.
+Connected U1 pin 18 to unconnected-(U1-PB0-Pad18).
+Add net unconnected-(U1-PB0-Pad18).
+Add net unconnected-(U1-PA5-Pad15).
+Connected U1 pin 20 to Net-(U1-PB2).
+Connected U1 pin 19 to /TFT_BLK.
+Connected U1 pin 13 to unconnected-(U1-PA3-Pad13).
+Add net unconnected-(U1-PA3-Pad13).
+Connected U1 pin 14 to unconnected-(U1-PA4-Pad14).
+Add net unconnected-(U1-PA4-Pad14).
+Connected U1 pin 16 to /EC_A.
+Connected U1 pin 39 to unconnected-(U1-PB3-Pad39).
+Add net unconnected-(U1-PB3-Pad39).
+Connected U1 pin 17 to /EC_B.
+Connected U1 pin 15 to unconnected-(U1-PA5-Pad15).
+Connected U1 pin 47 to GND.
+Connected U1 pin 42 to /SCL1.
+Connected U1 pin 34 to /SWDIO.
+Connected U1 pin 1 to 3.3VD.
+Connected U1 pin 48 to 3.3VD.
+Connected U1 pin 7 to /TFT_RST.
+Connected U1 pin 41 to unconnected-(U1-PB5-Pad41).
+Add net unconnected-(U1-PB5-Pad41).
+Connected U1 pin 3 to unconnected-(U1-PC14-Pad3).
+Add net unconnected-(U1-PC14-Pad3).
+Connected U1 pin 6 to /HSE_OUT.
+Connected U1 pin 31 to /RX.
+Updated TP20 sheetname to '/'.
+Updated TP21 sheetname to '/'.
+Updated TP21 fields.
+Updated TP21 symbol association from  to /1e7c1d3b-36c7-48c4-9730-2af50b370269.
+Changed TP21 value from Val** to 0.5mm.
+Changed Ref** reference designator to TP21.
+Added TP21 (footprint 'PCM_SparkFun-Connector:TestPoint-0.5mm').
+Updated TP20 unit metadata.
+Connected TP20 pin 1 to /TX.
+Add net /TX.
+Updated TP20 footprint filters to 'Pin* Test*'.
+Updated TP20 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated TP21 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated TP20 fields.
+Updated TP20 symbol association from  to /76657602-98e6-4308-94ad-b37e04be31d4.
+Changed TP20 value from Val** to 0.5mm.
+Changed Ref** reference designator to TP20.
+Added TP20 (footprint 'PCM_SparkFun-Connector:TestPoint-0.5mm').
+Updated TP19 unit metadata.
+Connected TP19 pin 1 to /RX.
+Add net /RX.
+Updated TP19 footprint filters to 'Pin* Test*'.
+Updated TP19 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated TP19 sheetname to '/'.
+Connected U1 pin 10 to ADC1.
+Connected U1 pin 32 to /USB_C-.
+Connected U1 pin 24 to 3.3VD.
+Connected U1 pin 26 to /TFT_SCK.
+Connected U1 pin 44 to Net-(U1-BOOT0).
+Connected U1 pin 4 to unconnected-(U1-PC15-Pad4).
+Add net unconnected-(U1-PC15-Pad4).
+Connected U1 pin 12 to unconnected-(U1-PA2-Pad12).
+Add net unconnected-(U1-PA2-Pad12).
+Connected U1 pin 2 to unconnected-(U1-PC13-Pad2).
+Add net unconnected-(U1-PC13-Pad2).
+Connected U1 pin 43 to /SDA1.
+Connected U1 pin 28 to /TFT_MOSI.
+Updated U1 footprint filters to 'LQFP*7x7mm*P0.5mm*'.
+Updated U1 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated U1 sheetname to '/'.
+Updated U1 fields.
+Updated U1 symbol association from  to /df958145-98bf-4436-b8b1-3f5ec85b5816.
+Changed U1 value from LQFP-48_7x7mm_P0.5mm to STM32F103C8Tx.
+Changed REF** reference designator to U1.
+Added U1 (footprint 'Package_QFP:LQFP-48_7x7mm_P0.5mm').
+Updated TP21 unit metadata.
+Connected TP21 pin 1 to GND.
+Updated TP21 footprint filters to 'Pin* Test*'.
+Updated U4 fields.
+Changed U6 value from SOP127P600X165-9N to IP5306.
+Changed REF** reference designator to U6.
+Added U6 (footprint 'Components_Footprint:SOP127P600X165-9N').
+Updated U4 unit metadata.
+Connected U4 pin 3 to 5V.
+Connected U4 pin 1 to GND.
+Connected U4 pin 2 to 3.3VD.
+Connected U4 pin 2 to 3.3VD.
+Updated U4 footprint filters to 'SOT?223*TabPin2*'.
+Updated U4 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated U4 sheetname to '/'.
+Updated U6 symbol association from  to /7fd59a5a-0f41-42be-88ef-e285028ba740.
+Updated U4 symbol association from  to /fbf2f771-70e9-40ec-9f3e-84057b3e04ba.
+Changed U4 value from SOT-223-3_TabPin2 to AMS1117-3.3.
+Changed REF** reference designator to U4.
+Added U4 (footprint 'Package_TO_SOT_SMD:SOT-223-3_TabPin2').
+Updated U3 unit metadata.
+Connected U3 pin 7 to unconnected-(U3-NC-Pad7).
+Add net unconnected-(U3-NC-Pad7).
+Connected U3 pin 16 to 3.3VD.
+Connected U3 pin 4 to 3.3VD.
+Connected U3 pin 15 to unconnected-(U3-R232-Pad15).
+Add net unconnected-(U3-R232-Pad15).
+Connected U6 pin 7 to Net-(U6-SW).
+Updated Y1 unit metadata.
+Connected Y1 pin 1 to /HSE_IN.
+Connected Y1 pin 2 to /HSE_OUT.
+Updated Y1 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated Y1 sheetname to '/'.
+Updated Y1 fields.
+Updated Y1 symbol association from  to /8b861d39-8fe3-4208-917b-d46f30b4d08a.
+Changed Y1 value from Crystal_HC49-4H_Vertical to Crystal_8MHz.
+Changed REF** reference designator to Y1.
+Added Y1 (footprint 'Crystal:Crystal_HC49-4H_Vertical').
+Updated U6 unit metadata.
+Connected U3 pin 14 to unconnected-(U3-~{RTS}-Pad14).
+Connected U6 pin 4 to Net-(D1-K).
+Connected U6 pin 5 to Net-(U6-KEY).
+Connected U6 pin 2 to Net-(D1-A).
+Connected U6 pin 1 to /VBUS.
+Connected U6 pin 9 to GND.
+Connected U6 pin 8 to 5V.
+Connected U6 pin 3 to Net-(D3-A).
+Connected U6 pin 6 to /BAT.
+Updated U6 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated U6 sheetname to '/'.
+Updated U6 fields.
+Connected U2 pin 9 to IN-.
+Changed REF** reference designator to U3.
+Added U3 (footprint 'Package_SO:SOIC-16_3.9x9.9mm_P1.27mm').
+Updated U2 unit metadata.
+Connected U2 pin 7 to GND.
+Connected U2 pin 3 to Net-(U2-~{Alert}).
+Connected U2 pin 2 to GND.
+Connected U2 pin 8 to IN-.
+Connected U2 pin 6 to 3.3VD.
+Connected U2 pin 1 to GND.
+Connected U2 pin 4 to /SDA1.
+Connected U2 pin 10 to IN+.
+Changed U3 value from SOIC-16_3.9x9.9mm_P1.27mm to CH340C.
+Connected U2 pin 5 to /SCL1.
+Updated U2 footprint filters to '*TSSOP*3x3mm?P0.5mm*'.
+Updated U2 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated U2 sheetname to '/'.
+Updated U2 fields.
+Updated U2 symbol association from  to /f21c2c20-8940-4f55-b5f0-f423f46fdc72.
+Changed U2 value from TSSOP-10_3x3mm_P0.5mm to INA238.
+Changed REF** reference designator to U2.
+Added U2 (footprint 'Package_SO:TSSOP-10_3x3mm_P0.5mm').
+Updated U1 unit metadata.
+Connected U1 pin 30 to /TX.
+Connected U3 pin 11 to unconnected-(U3-~{RI}-Pad11).
+Add net unconnected-(U3-~{RTS}-Pad14).
+Connected U3 pin 1 to GND.
+Connected U3 pin 13 to unconnected-(U3-~{DTR}-Pad13).
+Add net unconnected-(U3-~{DTR}-Pad13).
+Connected U3 pin 3 to /TX.
+Connected U3 pin 2 to /RX.
+Connected U3 pin 8 to unconnected-(U3-NC-Pad8).
+Add net unconnected-(U3-NC-Pad8).
+Connected U3 pin 5 to /USB_C+.
+Connected U3 pin 9 to unconnected-(U3-~{CTS}-Pad9).
+Add net unconnected-(U3-~{CTS}-Pad9).
+Updated TP19 fields.
+Add net unconnected-(U3-~{RI}-Pad11).
+Connected U3 pin 10 to unconnected-(U3-~{DSR}-Pad10).
+Add net unconnected-(U3-~{DSR}-Pad10).
+Connected U3 pin 6 to /USB_C-.
+Connected U3 pin 12 to unconnected-(U3-~{DCD}-Pad12).
+Add net unconnected-(U3-~{DCD}-Pad12).
+Updated U3 footprint filters to 'SOIC*3.9x9.9mm*P1.27mm*'.
+Updated U3 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated U3 sheetname to '/'.
+Updated U3 fields.
+Updated U3 symbol association from  to /a818ab0d-8f18-48de-ae49-6ee34454573d.
+Changed TP6 value from Val** to 0.5mm.
+Updated TP7 symbol association from  to /55a78e85-db49-4651-8782-8550663e2d3d.
+Changed TP7 value from Val** to 0.5mm.
+Changed Ref** reference designator to TP7.
+Added TP7 (footprint 'PCM_SparkFun-Connector:TestPoint-0.5mm').
+Updated TP6 unit metadata.
+Connected TP6 pin 1 to GND.
+Updated TP6 footprint filters to 'Pin* Test*'.
+Updated TP6 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated TP6 sheetname to '/'.
+Updated TP6 fields.
+Updated TP6 symbol association from  to /f7ee8c76-ff0c-42e0-bc54-ca6df524732b.
+Updated TP7 fields.
+Changed Ref** reference designator to TP6.
+Added TP6 (footprint 'PCM_SparkFun-Connector:TestPoint-0.5mm').
+Updated TP5 unit metadata.
+Connected TP5 pin 1 to Net-(C8-Pad1).
+Updated TP5 footprint filters to 'Pin* Test*'.
+Updated TP5 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated TP5 sheetname to '/'.
+Updated TP5 fields.
+Updated TP5 symbol association from  to /9b9cc643-683e-44af-baca-6b984bb525c5.
+Changed TP5 value from Val** to 0.5mm.
+Changed Ref** reference designator to TP5.
+Updated TP8 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated TP9 footprint filters to 'Pin* Test*'.
+Updated TP9 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated TP9 sheetname to '/'.
+Updated TP9 fields.
+Updated TP9 symbol association from  to /6b77d2d3-3641-49c4-a046-67ad447594a6.
+Changed TP9 value from Val** to 0.5mm.
+Changed Ref** reference designator to TP9.
+Added TP9 (footprint 'PCM_SparkFun-Connector:TestPoint-0.5mm').
+Updated TP8 unit metadata.
+Connected TP8 pin 1 to Net-(R14-Pad1).
+Updated TP8 footprint filters to 'Pin* Test*'.
+Added TP5 (footprint 'PCM_SparkFun-Connector:TestPoint-0.5mm').
+Updated TP8 sheetname to '/'.
+Updated TP8 fields.
+Updated TP8 symbol association from  to /661f7ee6-b1b3-4310-b39b-aa26ec17b494.
+Changed TP8 value from Val** to 0.5mm.
+Changed Ref** reference designator to TP8.
+Added TP8 (footprint 'PCM_SparkFun-Connector:TestPoint-0.5mm').
+Updated TP7 unit metadata.
+Connected TP7 pin 1 to Net-(R15_Shunt1-Pad2).
+Updated TP7 footprint filters to 'Pin* Test*'.
+Updated TP7 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated TP7 sheetname to '/'.
+Updated TP1 fields.
+Updated TP2 sheetname to '/'.
+Updated TP2 fields.
+Updated TP2 symbol association from  to /e2f025a5-778d-404c-b3a6-f643b70ebfd4.
+Changed TP2 value from Val** to 0.5mm.
+Changed Ref** reference designator to TP2.
+Added TP2 (footprint 'PCM_SparkFun-Connector:TestPoint-0.5mm').
+Updated TP1 unit metadata.
+Connected TP1 pin 1 to ADC2.
+Updated TP1 footprint filters to 'Pin* Test*'.
+Updated TP1 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated TP1 sheetname to '/'.
+Updated TP2 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated TP1 symbol association from  to /d1444b62-7913-49b8-a09c-80821ec29a46.
+Changed TP1 value from Val** to 0.5mm.
+Changed Ref** reference designator to TP1.
+Added TP1 (footprint 'PCM_SparkFun-Connector:TestPoint-0.5mm').
+Updated T1 unit metadata.
+Connected T1 pin 1 to Net-(R16-Pad2).
+Connected T1 pin 2 to Net-(R17-Pad2).
+Connected T1 pin 3 to Net-(R24-Pad1).
+Connected T1 pin 4 to Net-(C11-Pad1).
+Updated T1 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated T1 sheetname to '/'.
+Connected TP3 pin 1 to GND.
+Updated TP4 unit metadata.
+Connected TP4 pin 1 to ADC1.
+Updated TP4 footprint filters to 'Pin* Test*'.
+Updated TP4 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated TP4 sheetname to '/'.
+Updated TP4 fields.
+Updated TP4 symbol association from  to /45650551-fdd0-44ae-a3d6-2cbaee5497ab.
+Changed TP4 value from Val** to 0.5mm.
+Changed Ref** reference designator to TP4.
+Added TP4 (footprint 'PCM_SparkFun-Connector:TestPoint-0.5mm').
+Updated TP3 unit metadata.
+Connected TP9 pin 1 to /SDA1.
+Updated TP3 footprint filters to 'Pin* Test*'.
+Updated TP3 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated TP3 sheetname to '/'.
+Updated TP3 fields.
+Updated TP3 symbol association from  to /f1f94119-a13d-4731-88ad-48124542f785.
+Changed TP3 value from Val** to 0.5mm.
+Changed Ref** reference designator to TP3.
+Added TP3 (footprint 'PCM_SparkFun-Connector:TestPoint-0.5mm').
+Updated TP2 unit metadata.
+Connected TP2 pin 1 to Net-(C11-Pad1).
+Updated TP2 footprint filters to 'Pin* Test*'.
+Connected TP15 pin 1 to 3.3VA.
+Updated TP16 unit metadata.
+Connected TP16 pin 1 to 5V.
+Updated TP16 footprint filters to 'Pin* Test*'.
+Updated TP16 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated TP16 sheetname to '/'.
+Updated TP16 fields.
+Updated TP16 symbol association from  to /eef2fdd6-9364-4114-a990-bf4599936f6a.
+Changed TP16 value from Val** to 0.5mm.
+Changed Ref** reference designator to TP16.
+Added TP16 (footprint 'PCM_SparkFun-Connector:TestPoint-0.5mm').
+Updated TP15 unit metadata.
+Added TP17 (footprint 'PCM_SparkFun-Connector:TestPoint-0.5mm').
+Updated TP15 footprint filters to 'Pin* Test*'.
+Updated TP15 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated TP15 sheetname to '/'.
+Updated TP15 fields.
+Updated TP15 symbol association from  to /60dcd4a4-90f6-4754-9e72-7a6e8b76b2ce.
+Changed TP15 value from Val** to 0.5mm.
+Changed Ref** reference designator to TP15.
+Added TP15 (footprint 'PCM_SparkFun-Connector:TestPoint-0.5mm').
+Updated TP14 unit metadata.
+Connected TP14 pin 1 to 3.3VD.
+Updated TP14 footprint filters to 'Pin* Test*'.
+Changed TP18 value from Val** to 0.5mm.
+Updated TP19 symbol association from  to /258e1478-4668-4c86-9635-98287a04e44f.
+Changed TP19 value from Val** to 0.5mm.
+Changed Ref** reference designator to TP19.
+Added TP19 (footprint 'PCM_SparkFun-Connector:TestPoint-0.5mm').
+Updated TP18 unit metadata.
+Connected TP18 pin 1 to /BAT.
+Updated TP18 footprint filters to 'Pin* Test*'.
+Updated TP18 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated TP18 sheetname to '/'.
+Updated TP18 fields.
+Updated TP18 symbol association from  to /09df094c-8290-4de7-9c61-67f5fbcf7706.
+Updated TP14 sheetfile to 'Energy_Meter.kicad_sch'.
+Changed Ref** reference designator to TP18.
+Added TP18 (footprint 'PCM_SparkFun-Connector:TestPoint-0.5mm').
+Updated TP17 unit metadata.
+Connected TP17 pin 1 to GND.
+Updated TP17 footprint filters to 'Pin* Test*'.
+Updated TP17 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated TP17 sheetname to '/'.
+Updated TP17 fields.
+Updated TP17 symbol association from  to /87fd4add-c5ad-4105-aab9-c23ca5a270ad.
+Changed TP17 value from Val** to 0.5mm.
+Changed Ref** reference designator to TP17.
+Added TP11 (footprint 'PCM_SparkFun-Connector:TestPoint-0.5mm').
+Changed Ref** reference designator to TP12.
+Added TP12 (footprint 'PCM_SparkFun-Connector:TestPoint-0.5mm').
+Updated TP11 unit metadata.
+Connected TP11 pin 1 to 3.3VD.
+Updated TP11 footprint filters to 'Pin* Test*'.
+Updated TP11 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated TP11 sheetname to '/'.
+Updated TP11 fields.
+Updated TP11 symbol association from  to /f54d05ac-d193-42d7-8e33-60523b00556a.
+Changed TP11 value from Val** to 0.5mm.
+Changed Ref** reference designator to TP11.
+Changed TP12 value from Val** to 0.5mm.
+Updated TP10 unit metadata.
+Connected TP10 pin 1 to /SCL1.
+Updated TP10 footprint filters to 'Pin* Test*'.
+Updated TP10 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated TP10 sheetname to '/'.
+Updated TP10 fields.
+Updated TP10 symbol association from  to /40bf22b9-3368-400b-bc74-7549c379b06c.
+Changed TP10 value from Val** to 0.5mm.
+Changed Ref** reference designator to TP10.
+Added TP10 (footprint 'PCM_SparkFun-Connector:TestPoint-0.5mm').
+Updated TP9 unit metadata.
+Updated TP13 fields.
+Updated TP14 sheetname to '/'.
+Updated TP14 fields.
+Updated TP14 symbol association from  to /4f326855-b9da-4d6b-8082-c055f80f8b03.
+Changed TP14 value from Val** to 0.5mm.
+Changed Ref** reference designator to TP14.
+Added TP14 (footprint 'PCM_SparkFun-Connector:TestPoint-0.5mm').
+Updated TP13 unit metadata.
+Connected TP13 pin 1 to /VBUS.
+Updated TP13 footprint filters to 'Pin* Test*'.
+Updated TP13 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated TP13 sheetname to '/'.
+Updated T1 fields.
+Updated TP13 symbol association from  to /ccbf3232-c57a-43d1-bc3d-0d1f89b06483.
+Changed TP13 value from Val** to 0.5mm.
+Changed Ref** reference designator to TP13.
+Added TP13 (footprint 'PCM_SparkFun-Connector:TestPoint-0.5mm').
+Updated TP12 unit metadata.
+Connected TP12 pin 1 to IN-.
+Updated TP12 footprint filters to 'Pin* Test*'.
+Updated TP12 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated TP12 sheetname to '/'.
+Updated TP12 fields.
+Updated TP12 symbol association from  to /5952231a-c603-4c76-a9a0-0e13560029ab.
+Connected C22 pin 2 to GND.
+Added C24 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Updated C23 unit metadata.
+Connected C23 pin 1 to GND.
+Connected C23 pin 2 to 3.3VA.
+Updated C23 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated C23 sheetname to '/'.
+Updated C23 fields.
+Updated C23 symbol association from  to /15465e66-f655-465b-8e03-f7d215192fd5.
+Changed C23 value from C_Disc_D5.0mm_W2.5mm_P2.50mm to 100nF_Ceramic.
+Changed REF** reference designator to C23.
+Added C23 (footprint 'Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm').
+Updated C22 unit metadata.
+Changed REF** reference designator to C24.
+Connected C22 pin 1 to 3.3VD.
+Updated C22 footprint filters to 'C_*'.
+Updated C22 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated C22 sheetname to '/'.
+Updated C22 fields.
+Updated C22 symbol association from  to /fd998f8f-61a9-413d-a34b-5183592d7dd2.
+Changed C22 value from C_0603_1608Metric to 1uF_0603_25V.
+Changed REF** reference designator to C22.
+Added C22 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Updated C21 unit metadata.
+Connected C21 pin 1 to GND.
+Changed C25 value from C_Disc_D5.0mm_W2.5mm_P2.50mm to 100nF_Ceramic.
+Updated C26 symbol association from  to /29a2a541-76a7-47e5-8784-b9ede7aa3d51.
+Changed C26 value from C_Disc_D5.0mm_W2.5mm_P2.50mm to 100nF_Ceramic.
+Changed REF** reference designator to C26.
+Added C26 (footprint 'Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm').
+Updated C25 unit metadata.
+Connected C25 pin 1 to GND.
+Connected C25 pin 2 to 5V.
+Updated C25 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated C25 sheetname to '/'.
+Updated C25 fields.
+Updated C25 symbol association from  to /2e4b0b94-9174-43a2-8c6e-895998e1de18.
+Connected C21 pin 2 to 3.3VA.
+Changed REF** reference designator to C25.
+Added C25 (footprint 'Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm').
+Updated C24 unit metadata.
+Connected C24 pin 2 to GND.
+Connected C24 pin 1 to 5V.
+Updated C24 footprint filters to 'Capacitor_THT:CP_Radial_D5.0mm_* Capacitor_THT:CP_Radial_D4.0mm_* Capacitor_THT:CP_Radial_D6.3mm_* Capacitor_THT:CP_Radial_D7.5mm_* Capacitor_THT:CP_Radial_D8.0mm_* Capacitor_THT:CP_Radial_D10.0mm_* Capacitor_THT:CP_Radial_D14.0mm_* Capacitor_THT:CP_Radial_D16.0mm_* Capacitor_THT:CP_Radial_D18.0mm_*'.
+Updated C24 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated C24 sheetname to '/'.
+Updated C24 fields.
+Updated C24 symbol association from  to /2c59f82a-6267-468e-b971-d5179faa1ba3.
+Changed C24 value from CP_Radial_D5.0mm_P2.00mm to 10uF_16V.
+Updated C18 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated C19 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated C19 sheetname to '/'.
+Updated C19 fields.
+Updated C19 symbol association from  to /c7458abb-aa6b-42df-853d-fb25b074efbc.
+Changed C19 value from C_0603_1608Metric to 100nF_0603_16V.
+Changed REF** reference designator to C19.
+Added C19 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Updated C18 unit metadata.
+Connected C18 pin 1 to 3.3VD.
+Connected C18 pin 2 to GND.
+Updated C18 footprint filters to 'C_*'.
+Updated C19 footprint filters to 'C_*'.
+Updated C18 sheetname to '/'.
+Updated C18 fields.
+Updated C18 symbol association from  to /2afd3478-f027-49a6-ad92-a3e880ca1bb3.
+Changed C18 value from C_0603_1608Metric to 100nF_0603_16V.
+Changed REF** reference designator to C18.
+Added C18 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Updated C17 unit metadata.
+Connected C17 pin 2 to GND.
+Connected C17 pin 1 to 3.3VD.
+Updated C17 footprint filters to 'C_*'.
+Updated C17 sheetfile to 'Energy_Meter.kicad_sch'.
+Connected C20 pin 2 to GND.
+Add net 3.3VA.
+Updated C21 footprint filters to 'C_*'.
+Updated C21 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated C21 sheetname to '/'.
+Updated C21 fields.
+Updated C21 symbol association from  to /3922e4b4-5db9-43dd-9567-e59f0d6a7122.
+Changed C21 value from C_0603_1608Metric to 10nF_0603_25V.
+Changed REF** reference designator to C21.
+Added C21 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Updated C20 unit metadata.
+Connected C20 pin 1 to 3.3VD.
+Updated C26 fields.
+Updated C20 footprint filters to 'C_*'.
+Updated C20 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated C20 sheetname to '/'.
+Updated C20 fields.
+Updated C20 symbol association from  to /1ab52a96-d202-46f8-bdbc-bca580df1a4e.
+Changed C20 value from C_0603_1608Metric to 10nF_0603_25V.
+Changed REF** reference designator to C20.
+Added C20 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Updated C19 unit metadata.
+Connected C19 pin 1 to 3.3VD.
+Connected C19 pin 2 to GND.
+Added C33 (footprint 'Components_Footprint:CAPRB250W50L400T250H550').
+Added C35 (footprint 'Components_Footprint:CAPRB250W50L400T250H550').
+Updated C33 unit metadata.
+Connected C33 pin 1 to /HSE_OUT.
+Add net /HSE_OUT.
+Connected C33 pin 2 to GND.
+Updated C33 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated C33 sheetname to '/'.
+Updated C33 fields.
+Updated C33 symbol association from  to /5282df6e-b3da-4eee-b894-97895dd36dc3.
+Changed C33 value from CAPRB250W50L400T250H550 to 22pF.
+Changed REF** reference designator to C33.
+Changed REF** reference designator to C35.
+Updated C32 unit metadata.
+Connected C32 pin 1 to GND.
+Connected C32 pin 2 to 3.3VA.
+Updated C32 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated C32 sheetname to '/'.
+Updated C32 fields.
+Updated C32 symbol association from  to /e8695f93-6a5b-4bac-85d1-9c51d3ab9c6c.
+Changed C32 value from C_Disc_D5.0mm_W2.5mm_P2.50mm to 100nF_Ceramic.
+Changed REF** reference designator to C32.
+Added C32 (footprint 'Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm').
+Updated C31 unit metadata.
+Changed D1 value from LED_1206_3216Metric to Blue LED.
+Added D2 (footprint 'LED_SMD:LED_1206_3216Metric').
+Updated D1 unit metadata.
+Connected D1 pin 2 to Net-(D1-A).
+Add net Net-(D1-A).
+Connected D1 pin 1 to Net-(D1-K).
+Add net Net-(D1-K).
+Updated D1 footprint filters to 'LED* LED_SMD:* LED_THT:*'.
+Updated D1 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated D1 sheetname to '/'.
+Updated D1 fields.
+Updated D1 symbol association from  to /f0566963-24a0-4803-b19a-b51260247470.
+Connected C31 pin 1 to GND.
+Changed REF** reference designator to D1.
+Added D1 (footprint 'LED_SMD:LED_1206_3216Metric').
+Updated C35 unit metadata.
+Connected C35 pin 1 to /HSE_IN.
+Add net /HSE_IN.
+Connected C35 pin 2 to GND.
+Updated C35 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated C35 sheetname to '/'.
+Updated C35 fields.
+Updated C35 symbol association from  to /ef7a245e-a575-49bb-878a-e933d29d4a9a.
+Changed C35 value from CAPRB250W50L400T250H550 to 22pF.
+Updated C28 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated C29 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated C29 sheetname to '/'.
+Updated C29 fields.
+Updated C29 symbol association from  to /321a9ee2-1c29-4aa7-8f25-ae607ea0952d.
+Changed C29 value from C_Disc_D5.0mm_W2.5mm_P2.50mm to 100nF_Ceramic.
+Changed REF** reference designator to C29.
+Added C29 (footprint 'Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm').
+Updated C28 unit metadata.
+Connected C28 pin 1 to GND.
+Connected C28 pin 2 to Net-(C28-Pad2).
+Add net Net-(C28-Pad2).
+Connected C29 pin 1 to GND.
+Updated C28 sheetname to '/'.
+Updated C28 fields.
+Updated C28 symbol association from  to /c2912e25-3963-4a20-97da-b8efa3f3bcac.
+Changed C28 value from C_Disc_D5.0mm_W2.5mm_P2.50mm to 100nF_Ceramic.
+Changed REF** reference designator to C28.
+Added C28 (footprint 'Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm').
+Updated C26 unit metadata.
+Connected C26 pin 1 to GND.
+Connected C26 pin 2 to 3.3VD.
+Updated C26 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated C26 sheetname to '/'.
+Add net Net-(C30-Pad2).
+Connected C31 pin 2 to Net-(C31-Pad2).
+Add net Net-(C31-Pad2).
+Updated C31 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated C31 sheetname to '/'.
+Updated C31 fields.
+Updated C31 symbol association from  to /ab570e18-397b-4b50-af91-c94113e9683e.
+Changed C31 value from C_Disc_D5.0mm_W2.5mm_P2.50mm to 100nF_Ceramic.
+Changed REF** reference designator to C31.
+Added C31 (footprint 'Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm').
+Updated C30 unit metadata.
+Connected C30 pin 2 to Net-(C30-Pad2).
+Updated C17 sheetname to '/'.
+Connected C30 pin 1 to GND.
+Updated C30 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated C30 sheetname to '/'.
+Updated C30 fields.
+Updated C30 symbol association from  to /92302782-0415-4b08-9566-0049cfad93c1.
+Changed C30 value from C_Disc_D5.0mm_W2.5mm_P2.50mm to 100nF_Ceramic.
+Changed REF** reference designator to C30.
+Added C30 (footprint 'Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm').
+Updated C29 unit metadata.
+Connected C29 pin 2 to Net-(C29-Pad2).
+Add net Net-(C29-Pad2).
+Updated C5 unit metadata.
+Updated C6 unit metadata.
+Connected C6 pin 1 to 5V.
+Connected C6 pin 2 to GND.
+Updated C6 footprint filters to 'C_*'.
+Updated C6 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated C6 sheetname to '/'.
+Updated C6 fields.
+Updated C6 symbol association from  to /c19f114c-e6e0-4894-bb6b-7d2d292f3190.
+Changed C6 value from C_1206_3216Metric to 22 uF.
+Changed REF** reference designator to C6.
+Added C6 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Added C7 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Connected C5 pin 1 to Net-(C5-Pad1).
+Add net Net-(C5-Pad1).
+Connected C5 pin 2 to GND.
+Updated C5 footprint filters to 'C_*'.
+Updated C5 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated C5 sheetname to '/'.
+Updated C5 fields.
+Updated C5 symbol association from  to /dc0af118-5e79-4941-8920-6deb85d35f85.
+Changed C5 value from C_1210_3225Metric to 10uF.
+Changed REF** reference designator to C5.
+Added C5 (footprint 'PCM_SparkFun-Capacitor:C_1210_3225Metric').
+Changed REF** reference designator to C8.
+Added C9 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Updated C8 unit metadata.
+Connected C8 pin 1 to Net-(C8-Pad1).
+Add net Net-(C8-Pad1).
+Connected C8 pin 2 to GND.
+Updated C8 footprint filters to 'Capacitor_THT:CP_Radial_D5.0mm_* Capacitor_THT:CP_Radial_D4.0mm_* Capacitor_THT:CP_Radial_D6.3mm_* Capacitor_THT:CP_Radial_D7.5mm_* Capacitor_THT:CP_Radial_D8.0mm_* Capacitor_THT:CP_Radial_D10.0mm_* Capacitor_THT:CP_Radial_D14.0mm_* Capacitor_THT:CP_Radial_D16.0mm_* Capacitor_THT:CP_Radial_D18.0mm_*'.
+Updated C8 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated C8 sheetname to '/'.
+Updated C8 fields.
+Updated C8 symbol association from  to /4f53ff08-fc1d-48af-b51b-cfc3ed2f12bc.
+Changed C8 value from CP_Radial_D5.0mm_P2.00mm to 10uF_16V.
+Updated C4 unit metadata.
+Added C8 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Updated C7 unit metadata.
+Connected C7 pin 2 to GND.
+Connected C7 pin 1 to 5V.
+Updated C7 footprint filters to 'C_*'.
+Updated C7 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated C7 sheetname to '/'.
+Updated C7 fields.
+Updated C7 symbol association from  to /a62435fa-a2c3-4ceb-b064-31b9c3b8c45a.
+Changed C7 value from C_1206_3216Metric to 22 uF.
+Changed REF** reference designator to C7.
+Updated C1 unit metadata.
+Connected C2 pin 1 to /VBUS.
+Add net /VBUS.
+Connected C2 pin 2 to GND.
+Updated C2 footprint filters to 'C_*'.
+Updated C2 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated C2 sheetname to '/'.
+Updated C2 fields.
+Updated C2 symbol association from  to /9c145543-e300-4436-b8e6-12f65d53e1a7.
+Changed C2 value from C_1206_3216Metric to 10 uF.
+Changed REF** reference designator to C2.
+Added C2 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Updated C2 unit metadata.
+Connected C1 pin 2 to GND.
+Add net GND.
+Connected C1 pin 1 to Net-(C1-Pad1).
+Add net Net-(C1-Pad1).
+Updated C1 footprint filters to 'C_*'.
+Updated C1 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated C1 sheetname to '/'.
+Updated C1 fields.
+Updated C1 symbol association from  to /4c4ca0da-4f94-4fe0-9759-c5f0013ad180.
+Changed C1 value from C_1206_3216Metric to 10 uF.
+Changed REF** reference designator to C1.
+Updated C3 unit metadata.
+Connected C4 pin 1 to 5V.
+Add net 5V.
+Connected C4 pin 2 to GND.
+Updated C4 footprint filters to 'C_*'.
+Updated C4 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated C4 sheetname to '/'.
+Updated C4 fields.
+Updated C4 symbol association from  to /46750d15-e548-4dbb-80b6-7b489f7f53b5.
+Changed C4 value from C_1206_3216Metric to 22 uF.
+Changed REF** reference designator to C4.
+Added C4 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Changed REF** reference designator to C9.
+Connected C3 pin 1 to /BAT.
+Add net /BAT.
+Connected C3 pin 2 to GND.
+Updated C3 footprint filters to 'C_*'.
+Updated C3 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated C3 sheetname to '/'.
+Updated C3 fields.
+Updated C3 symbol association from  to /e6b51028-2adf-4468-95eb-2f63435be06b.
+Changed C3 value from C_1206_3216Metric to 10 uF.
+Changed REF** reference designator to C3.
+Added C3 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Updated C14 sheetname to '/'.
+Updated C15 symbol association from  to /75ddc3e3-4df2-40ec-b71c-87b901fafc08.
+Changed C15 value from C_0603_1608Metric to 100nF_0603_16V.
+Changed REF** reference designator to C15.
+Added C15 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Updated C14 unit metadata.
+Connected C14 pin 1 to IN+.
+Add net IN+.
+Connected C14 pin 2 to IN-.
+Add net IN-.
+Updated C14 footprint filters to 'C_*'.
+Updated C14 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated C15 fields.
+Updated C14 fields.
+Updated C14 symbol association from  to /e60c779c-7d28-46e2-88ee-557ea930da91.
+Changed C14 value from C_0603_1608Metric to 0.1uF.
+Changed REF** reference designator to C14.
+Added C14 (footprint 'PCM_SparkFun-Capacitor:C_0603_1608Metric').
+Updated C13 unit metadata.
+Connected C13 pin 2 to GND.
+Connected C13 pin 1 to 3.3VD.
+Updated C13 footprint filters to 'C_*'.
+Updated C13 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated C13 sheetname to '/'.
+Updated C16 fields.
+Updated C17 fields.
+Updated C17 symbol association from  to /6c82aa47-69d9-4db6-97c0-2bd5995b6cea.
+Changed C17 value from C_0603_1608Metric to 100nF_0603_16V.
+Changed REF** reference designator to C17.
+Added C17 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Updated C16 unit metadata.
+Connected C16 pin 1 to 3.3VD.
+Connected C16 pin 2 to GND.
+Updated C16 footprint filters to 'C_*'.
+Updated C16 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated C16 sheetname to '/'.
+Updated C13 fields.
+Updated C16 symbol association from  to /84366609-2ca2-4785-916e-59cc60f39337.
+Changed C16 value from C_0603_1608Metric to 100nF_0603_16V.
+Changed REF** reference designator to C16.
+Added C16 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Updated C15 unit metadata.
+Connected C15 pin 1 to /TFT_RST.
+Add net /TFT_RST.
+Connected C15 pin 2 to GND.
+Updated C15 footprint filters to 'C_*'.
+Updated C15 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated C15 sheetname to '/'.
+Changed REF** reference designator to C10.
+Changed C11 value from CP_Radial_D5.0mm_P2.00mm to 10uF_16V.
+Changed REF** reference designator to C11.
+Added C11 (footprint 'Capacitor_THT:CP_Radial_D5.0mm_P2.00mm').
+Updated C10 unit metadata.
+Connected C10 pin 2 to 3.3VD.
+Connected C10 pin 1 to GND.
+Updated C10 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated C10 sheetname to '/'.
+Updated C10 fields.
+Updated C10 symbol association from  to /1f272da7-28ad-41d6-943f-bf37fd46d00d.
+Changed C10 value from C_Disc_D5.0mm_W2.5mm_P2.50mm to 100nF_Ceramic.
+Updated C11 symbol association from  to /12ae69e4-3bd2-4fa9-92e7-8c2d2d82d77f.
+Added C10 (footprint 'Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm').
+Updated C9 unit metadata.
+Connected C9 pin 1 to 3.3VD.
+Add net 3.3VD.
+Connected C9 pin 2 to GND.
+Updated C9 footprint filters to 'Capacitor_THT:CP_Radial_D5.0mm_* Capacitor_THT:CP_Radial_D4.0mm_* Capacitor_THT:CP_Radial_D6.3mm_* Capacitor_THT:CP_Radial_D7.5mm_* Capacitor_THT:CP_Radial_D8.0mm_* Capacitor_THT:CP_Radial_D10.0mm_* Capacitor_THT:CP_Radial_D14.0mm_* Capacitor_THT:CP_Radial_D16.0mm_* Capacitor_THT:CP_Radial_D18.0mm_*'.
+Updated C9 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated C9 sheetname to '/'.
+Updated C9 fields.
+Updated C9 symbol association from  to /df9c76cf-6f45-4415-9db8-4bf14a5982ac.
+Changed C9 value from CP_Radial_D5.0mm_P2.00mm to 10uF_16V.
+Updated C12 symbol association from  to /0741aaf9-4093-4321-93f8-180a72351281.
+Updated C13 symbol association from  to /73960ead-f6f1-440d-a05d-c83e0f7719a5.
+Changed C13 value from C_0603_1608Metric to 1uF_0603_25V.
+Changed REF** reference designator to C13.
+Added C13 (footprint 'Capacitor_SMD:C_0603_1608Metric').
+Updated C12 unit metadata.
+Connected C12 pin 1 to 3.3VD.
+Connected C12 pin 2 to GND.
+Updated C12 footprint filters to 'C_*'.
+Updated C12 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated C12 sheetname to '/'.
+Updated C12 fields.
+Updated R11 sheetname to '/'.
+Changed C12 value from ? to 0.1uF_0603_16V.
+Changed C? reference designator to C12.
+Added C12 (footprint 'PCM_4ms_Capacitor:C_0603').
+Updated C11 unit metadata.
+Connected C11 pin 1 to Net-(C11-Pad1).
+Add net Net-(C11-Pad1).
+Connected C11 pin 2 to GND.
+Updated C11 footprint filters to 'Capacitor_THT:CP_Radial_D5.0mm_* Capacitor_THT:CP_Radial_D4.0mm_* Capacitor_THT:CP_Radial_D6.3mm_* Capacitor_THT:CP_Radial_D7.5mm_* Capacitor_THT:CP_Radial_D8.0mm_* Capacitor_THT:CP_Radial_D10.0mm_* Capacitor_THT:CP_Radial_D14.0mm_* Capacitor_THT:CP_Radial_D16.0mm_* Capacitor_THT:CP_Radial_D18.0mm_*'.
+Updated C11 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated C11 sheetname to '/'.
+Updated C11 fields.
+Changed REF** reference designator to R2.
+Changed REF** reference designator to R3.
+Added R3 (footprint 'Resistor_SMD:R_1206_3216Metric').
+Updated R2 unit metadata.
+Connected R2 pin 2 to Net-(J3-CC1).
+Connected R2 pin 1 to GND.
+Updated R2 footprint filters to 'R_*'.
+Updated R2 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated R2 sheetname to '/'.
+Updated R2 fields.
+Updated R2 symbol association from  to /dc6c44bd-eaa2-43b5-ab80-1ac492e876e2.
+Changed R2 value from R_1206_3216Metric to 5.1K.
+Changed R3 value from R_1206_3216Metric to 2Ω.
+Added R2 (footprint 'Resistor_SMD:R_1206_3216Metric').
+Updated R1 unit metadata.
+Connected R1 pin 1 to GND.
+Connected R1 pin 2 to Net-(J3-CC2).
+Updated R1 footprint filters to 'R_*'.
+Updated R1 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated R1 sheetname to '/'.
+Updated R1 fields.
+Updated R1 symbol association from  to /8be05807-b398-4c60-a9da-1d78f36c5e56.
+Changed R1 value from R_1206_3216Metric to 5.1K.
+Changed REF** reference designator to R1.
+Changed R4 value from R_0603_1608Metric to 100.
+Changed REF** reference designator to R4_Burden1.
+Added R4_Burden1 (footprint 'Components_Footprint:RESC3116X65N').
+Updated R4 unit metadata.
+Connected R4 pin 1 to /EC_A.
+Add net /EC_A.
+Connected R4 pin 2 to Net-(C29-Pad2).
+Updated R4 footprint filters to 'R_*'.
+Updated R4 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated R4 sheetname to '/'.
+Updated R4 fields.
+Updated R4 symbol association from  to /8371d5e1-ec2c-49e3-be3e-1a75001ea86a.
+Added R1 (footprint 'Resistor_SMD:R_1206_3216Metric').
+Changed REF** reference designator to R4.
+Added R4 (footprint 'PCM_SparkFun-Resistor:R_0603_1608Metric').
+Updated R3 unit metadata.
+Connected R3 pin 2 to Net-(C1-Pad1).
+Connected R3 pin 1 to /VBUS.
+Updated R3 footprint filters to 'R_*'.
+Updated R3 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated R3 sheetname to '/'.
+Updated R3 fields.
+Updated R3 symbol association from  to /334df98c-6f9e-4335-8122-47fd2e279080.
+Connected J7 pin 1 to IN+.
+Updated J8 unit metadata.
+Connected J8 pin 1 to IN-.
+Updated J8 footprint filters to 'Connector*:*_1x??-1SH*'.
+Updated J8 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated J8 sheetname to '/'.
+Updated J8 fields.
+Updated J8 symbol association from  to /70b5dbf1-c73e-4ddd-a099-d09b9ba34176.
+Changed J8 value from POMONA_73096-2 to Conn_01x01_Shielded.
+Changed REF** reference designator to J8.
+Added J8 (footprint 'Components_Footprint:POMONA_73096-2').
+Updated J7 unit metadata.
+Added J9 (footprint 'PCM_SparkFun-Connector:ScrewTerminal_1x02_P3.5mm_Horizontal_Black').
+Updated J7 footprint filters to 'Connector*:*_1x??-1SH*'.
+Updated J7 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated J7 sheetname to '/'.
+Updated J7 fields.
+Updated J7 symbol association from  to /cf8ee4c5-430d-492c-81a7-2ca75d5b22b2.
+Changed J7 value from POMONA_73096-2 to Conn_01x01_Shielded.
+Changed REF** reference designator to J7.
+Added J7 (footprint 'Components_Footprint:POMONA_73096-2').
+Updated J6 unit metadata.
+Connected J6 pin 1 to AC_N.
+Add net AC_N.
+Added L1 (footprint 'Inductor_SMD:L_Sunlord_SWPA6028S').
+Updated L1 unit metadata.
+Connected L1 pin 2 to /BAT.
+Connected L1 pin 1 to Net-(U6-SW).
+Add net Net-(U6-SW).
+Updated L1 footprint filters to 'Choke_* *Coil* Inductor_* L_*'.
+Updated L1 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated L1 sheetname to '/'.
+Updated L1 fields.
+Updated L1 symbol association from  to /fcd8d108-72a2-42e1-b3b8-63f80d03cc31.
+Changed L1 value from L_Sunlord_SWPA6028S to 1 µH.
+Changed REF** reference designator to L1.
+Changed R4_Burden1 value from RESC3116X65N to 360_1206.
+Updated J9 unit metadata.
+Connected J9 pin 1 to /BAT.
+Connected J9 pin 2 to GND.
+Updated J9 footprint filters to 'TerminalBlock*:*'.
+Updated J9 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated J9 sheetname to '/'.
+Updated J9 fields.
+Updated J9 symbol association from  to /7f9534b1-fdfe-4363-af77-16b92368435f.
+Changed J9 value from Screw_Terminal_3.5mm-2 to 3.5mm.
+Changed REF** reference designator to J9.
+Updated R9 fields.
+Updated R10 fields.
+Updated R10 symbol association from  to /b1447d86-92c2-4260-a437-864d22c5b76b.
+Changed R10 value from R_0603_1608Metric to 100.
+Changed REF** reference designator to R10.
+Added R10 (footprint 'PCM_SparkFun-Resistor:R_0603_1608Metric').
+Updated R9 unit metadata.
+Connected R9 pin 1 to Net-(J1-Pad2).
+Connected R9 pin 2 to ADC1.
+Updated R9 footprint filters to 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm*'.
+Updated R9 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated R9 sheetname to '/'.
+Updated R10 sheetname to '/'.
+Updated R9 symbol association from  to /15f41a29-5e98-44ef-9433-e3d40d2208ef.
+Changed R9 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal to 1k.
+Changed REF** reference designator to R9.
+Added R9 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Updated R8 unit metadata.
+Connected R8 pin 2 to Net-(C8-Pad1).
+Connected R8 pin 1 to GND.
+Updated R8 footprint filters to 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm*'.
+Updated R8 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated R8 sheetname to '/'.
+Updated R8 fields.
+Updated R10_Burden1 fields.
+Updated R11 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated R11 fields.
+Updated R11 symbol association from  to /bd4544c7-d112-4162-8cd3-d54f6bccbccf.
+Changed R11 value from R_0603_1608Metric to 4.7k.
+Changed REF** reference designator to R11.
+Added R11 (footprint 'PCM_SparkFun-Resistor:R_0603_1608Metric').
+Updated R10_Burden1 unit metadata.
+Connected R10_Burden1 pin 1 to Net-(J1-Pad2).
+Connected R10_Burden1 pin 2 to Net-(C8-Pad1).
+Updated R10_Burden1 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated R10_Burden1 sheetname to '/'.
+Updated R8 symbol association from  to /fcb8d141-203f-4849-b9f4-01b935f1f2c6.
+Updated R10_Burden1 symbol association from  to /5e2c714b-e924-4a1d-ac3d-f57131b28496.
+Changed R10_Burden1 value from RESC2012X60N to 33_0805.
+Changed REF** reference designator to R10_Burden1.
+Added R10_Burden1 (footprint 'Components_Footprint:RESC2012X60N').
+Updated R10 unit metadata.
+Connected R10 pin 1 to /EC_B.
+Add net /EC_B.
+Connected R10 pin 2 to Net-(C28-Pad2).
+Updated R10 footprint filters to 'R_*'.
+Updated R10 sheetfile to 'Energy_Meter.kicad_sch'.
+Changed R5 value from R_1206_3216Metric to 10.
+Changed REF** reference designator to R6.
+Added R6 (footprint 'PCM_fab:R_1206').
+Updated R5 unit metadata.
+Connected R5 pin 1 to Net-(R15_Shunt1-Pad2).
+Add net Net-(R15_Shunt1-Pad2).
+Connected R5 pin 2 to IN+.
+Updated R5 footprint filters to 'R_*'.
+Updated R5 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated R5 sheetname to '/'.
+Updated R5 fields.
+Updated R5 symbol association from  to /0ec0309c-de2c-4379-af55-8263fb2b738b.
+Changed R6 value from R_1206 to 2.
+Changed REF** reference designator to R5.
+Added R5 (footprint 'PCM_SparkFun-Resistor:R_1206_3216Metric').
+Updated R4_Burden1 unit metadata.
+Connected R4_Burden1 pin 2 to Net-(R24-Pad1).
+Add net Net-(R24-Pad1).
+Connected R4_Burden1 pin 1 to Net-(C11-Pad1).
+Updated R4_Burden1 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated R4_Burden1 sheetname to '/'.
+Updated R4_Burden1 fields.
+Updated R4_Burden1 symbol association from  to /eaecf3db-bf12-4be7-b4ee-4fd229863209.
+Changed R7 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal to 470k.
+Changed R8 value from R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal to 470k.
+Changed REF** reference designator to R8.
+Added R8 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Updated R7 unit metadata.
+Connected R7 pin 1 to Net-(C8-Pad1).
+Connected R7 pin 2 to 3.3VA.
+Updated R7 footprint filters to 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm*'.
+Updated R7 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated R7 sheetname to '/'.
+Updated R7 fields.
+Updated R7 symbol association from  to /5da0f5df-1df9-4518-bd01-f0db46834804.
+Changed D2 value from LED_1206_3216Metric to Blue LED.
+Changed REF** reference designator to R7.
+Added R7 (footprint 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Updated R6 unit metadata.
+Connected R6 pin 2 to Net-(C5-Pad1).
+Connected R6 pin 1 to /BAT.
+Updated R6 footprint filters to '*R*1206*'.
+Updated R6 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated R6 sheetname to '/'.
+Updated R6 fields.
+Updated R6 symbol association from  to /20a7df84-b91c-4e61-ab35-b067d17789bc.
+Add net /TFT_BLK.
+Connected DS1 pin 10 to unconnected-(DS1-SDCS-Pad10).
+Add net unconnected-(DS1-SDCS-Pad10).
+Updated D3 sheetfile to 'Energy_Meter.kicad_sch'.
+Connected DS1 pin 3 to GND.
+Connected DS1 pin 5 to /TFT_MISO.
+Add net /TFT_MISO.
+Connected DS1 pin 2 to unconnected-(DS1-3VO-Pad2).
+Add net unconnected-(DS1-3VO-Pad2).
+Connected DS1 pin 7 to /TFT_CS.
+Add net /TFT_CS.
+Connected DS1 pin 11 to /TFT_BLK.
+Updated DS1 unit metadata.
+Connected DS1 pin 1 to 3.3VD.
+Connected DS1 pin 6 to /TFT_MOSI.
+Add net /TFT_MOSI.
+Connected DS1 pin 8 to /TFT_RST.
+Connected DS1 pin 9 to /TFT_DC.
+Add net /TFT_DC.
+Connected DS1 pin 4 to /TFT_SCK.
+Add net /TFT_SCK.
+Updated D3 footprint filters to 'LED* LED_SMD:* LED_THT:*'.
+Updated DS1 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated FB1 unit metadata.
+Connected J1 pin 2 to Net-(J1-Pad2).
+Add net Net-(J1-Pad2).
+Updated J1 footprint filters to '*CUI?SJ?3523?SMT?TR*'.
+Updated J1 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated J1 sheetname to '/'.
+Updated J1 fields.
+Updated J1 symbol association from  to /b2e00ff7-003a-487e-940a-d7fe980c2564.
+Changed J1 value from Conn_Jack_Stereo_3.5mm_CUI_SJ-3523-SMT-TR to Conn_Jack_Stereo_3.5mm_SMD_RA.
+Changed REF** reference designator to J1.
+Added J1 (footprint 'PCM_fab:Conn_Jack_Stereo_3.5mm_CUI_SJ-3523-SMT-TR').
+Updated DS1 sheetname to '/'.
+Connected FB1 pin 1 to 3.3VA.
+Connected FB1 pin 2 to 3.3VD.
+Updated FB1 footprint filters to 'Inductor_* L_* *Ferrite*'.
+Updated FB1 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated FB1 sheetname to '/'.
+Updated FB1 fields.
+Updated FB1 symbol association from  to /9db36ca0-83f1-4229-a7c4-a9959b71ec74.
+Changed FB1 value from Ferrite_0805_2012Metric to FerriteBead.
+Changed REF** reference designator to FB1.
+Added FB1 (footprint 'PCM_Ferrite_SMD_AKL:Ferrite_0805_2012Metric').
+Connected D4 pin 1 to Net-(D3-A).
+Connected D6 pin 2 to GND.
+Updated D6 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Updated D6 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated D6 sheetname to '/'.
+Updated D6 fields.
+Updated D6 symbol association from  to /f92d3f83-5c8d-4587-9d5c-0e3fc6d8d62b.
+Changed D6 value from D_SOD-523 to ESD5Z3V3.
+Changed REF** reference designator to D6.
+Added D6 (footprint 'PCM_Diode_SMD_AKL:D_SOD-523').
+Updated D4 unit metadata.
+Connected D4 pin 2 to Net-(D1-K).
+Add net ADC1.
+Updated D4 footprint filters to 'LED* LED_SMD:* LED_THT:*'.
+Updated D4 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated D4 sheetname to '/'.
+Updated D4 fields.
+Updated D4 symbol association from  to /0d1dff0e-f1d7-40da-b704-63afc04dd932.
+Changed D4 value from LED_1206_3216Metric to Blue LED.
+Changed REF** reference designator to D4.
+Added D4 (footprint 'LED_SMD:LED_1206_3216Metric').
+Updated D3 unit metadata.
+Connected D3 pin 2 to Net-(D3-A).
+Updated D7 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated DS1 fields.
+Updated DS1 symbol association from  to /1132e648-2121-4ea4-964b-20dc4785841e.
+Changed DS1 value from MODULE_4311 to 4311.
+Changed REF** reference designator to DS1.
+Added DS1 (footprint 'Components_Footprint:MODULE_4311').
+Updated D7 unit metadata.
+Connected D7 pin 1 to ADC2.
+Add net ADC2.
+Connected D7 pin 2 to GND.
+Updated D7 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Add net unconnected-(J1-Pad3).
+Updated D7 sheetname to '/'.
+Updated D7 fields.
+Updated D7 symbol association from  to /5bce2f66-3f52-419e-b147-337d9c49d3e1.
+Connected D3 pin 1 to Net-(D1-K).
+Changed D7 value from D_SOD-523 to ESD5Z3V3.
+Add net Net-(D3-A).
+Changed REF** reference designator to D7.
+Added D7 (footprint 'PCM_Diode_SMD_AKL:D_SOD-523').
+Updated D6 unit metadata.
+Connected D6 pin 1 to ADC1.
+Added J5 (footprint 'Components_Footprint:POMONA_73096-2').
+Updated J5 footprint filters to 'Connector*:*_1x??-1SH*'.
+Updated J5 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated J5 sheetname to '/'.
+Updated J5 fields.
+Updated J5 symbol association from  to /72d27712-ce66-4d34-9d0d-5de89d4f95aa.
+Changed J5 value from POMONA_73096-2 to Conn_01x01_Shielded.
+Changed D3 value from LED_1206_3216Metric to Blue LED.
+Updated D3 symbol association from  to /2a45ce26-1b18-4c6a-91bc-e306b4f0d228.
+Changed REF** reference designator to J5.
+Updated D3 fields.
+Updated D3 sheetname to '/'.
+Add net AC_L.
+Updated J3 unit metadata.
+Connected J3 pin VBUS to /VBUS.
+Connected J3 pin A5 to Net-(J3-CC1).
+Add net Net-(J3-CC1).
+Connected J3 pin VBUS to /VBUS.
+Connected J3 pin S to GND.
+Connected J3 pin NC2 to unconnected-(J3-NC-PadNC2).
+Add net unconnected-(J3-NC-PadNC2).
+Connected J3 pin GND to GND.
+Connected J3 pin B8 to unconnected-(J3-NC-PadB8).
+Added J6 (footprint 'Components_Footprint:POMONA_73096-2').
+Changed REF** reference designator to D2.
+Updated D2 symbol association from  to /726f907e-80c6-43a1-adb4-94b830b05096.
+Updated J6 footprint filters to 'Connector*:*_1x??-1SH*'.
+Updated J6 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated D2 fields.
+Updated J6 sheetname to '/'.
+Updated J6 fields.
+Updated J6 symbol association from  to /9a73f045-67a3-4c15-b3a9-6a1395e411d7.
+Changed J6 value from POMONA_73096-2 to Conn_01x01_Shielded.
+Changed REF** reference designator to J6.
+Add net unconnected-(J3-NC-PadB8).
+Updated J5 unit metadata.
+Updated D2 sheetname to '/'.
+Updated D2 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated D2 footprint filters to 'LED* LED_SMD:* LED_THT:*'.
+Connected D2 pin 1 to Net-(D1-A).
+Connected D2 pin 2 to Net-(D1-K).
+Updated D2 unit metadata.
+Added D3 (footprint 'LED_SMD:LED_1206_3216Metric').
+Changed REF** reference designator to D3.
+Connected J5 pin 1 to AC_L.
+Updated J2 sheetname to '/'.
+Added J3 (footprint 'PCM_SparkFun-Connector:USB-C_16').
+Updated J2 unit metadata.
+Connected J2 pin 2 to /SWDIO.
+Add net /SWDIO.
+Connected J2 pin 4 to GND.
+Connected J2 pin 1 to 3.3VD.
+Connected J2 pin 3 to /SWCLK.
+Add net /SWCLK.
+Updated J2 footprint filters to 'Connector*:*_1x??_*'.
+Updated J2 sheetfile to 'Energy_Meter.kicad_sch'.
+Changed REF** reference designator to J3.
+Updated J2 fields.
+Updated J2 symbol association from  to /1db41e04-ab2b-4bfe-b724-95b9444f2672.
+Changed J2 value from PinHeader_1x04_P2.54mm_Horizontal to Conn_01x04_Pin.
+Changed REF** reference designator to J2.
+Added J2 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Horizontal').
+Updated J1 unit metadata.
+Connected J1 pin 2 to Net-(J1-Pad2).
+Connected J1 pin 1 to Net-(C8-Pad1).
+Connected J1 pin 2 to Net-(J1-Pad2).
+Connected J1 pin 3 to unconnected-(J1-Pad3).
+Add net unconnected-(J3-NC-PadA8).
+Connected J3 pin GND to GND.
+Connected J3 pin A7 to /USB_C-.
+Connected J3 pin B6 to /USB_C+.
+Connected J3 pin NC1 to unconnected-(J3-NC-PadNC1).
+Add net unconnected-(J3-NC-PadNC1).
+Connected J3 pin NC3 to unconnected-(J3-NC-PadNC3).
+Add net unconnected-(J3-NC-PadNC3).
+Connected J3 pin B5 to Net-(J3-CC2).
+Add net Net-(J3-CC2).
+Connected J3 pin A8 to unconnected-(J3-NC-PadA8).
+Connected J3 pin B7 to /USB_C-.
+Add net /USB_C-.
+Connected J3 pin A6 to /USB_C+.
+Add net /USB_C+.
+Updated J3 footprint filters to 'USB*C*Receptacle*'.
+Updated J3 sheetfile to 'Energy_Meter.kicad_sch'.
+Updated J3 sheetname to '/'.
+Updated J3 fields.
+Updated J3 symbol association from  to /64ae0d8f-e10a-405a-8812-469545ec49ea.
+Changed J3 value from USB-C_16 to USB_C_Receptacle.
 Warning: No net found for component J6 pad SH3 (no pin SH3 in symbol).
+Warning: No net found for component SW4 pad 7 (no pin 7 in symbol).
+Warning: No net found for component J6 pad SH4 (no pin SH4 in symbol).
+Warning: No net found for component J6 pad SH1 (no pin SH1 in symbol).
+Warning: No net found for component J6 pad SH2 (no pin SH2 in symbol).
+Warning: No net found for component J5 pad SH4 (no pin SH4 in symbol).
+Warning: No net found for component J5 pad SH1 (no pin SH1 in symbol).
+Warning: No net found for component J5 pad SH2 (no pin SH2 in symbol).
+Warning: No net found for component J7 pad SH3 (no pin SH3 in symbol).
+Warning: No net found for component J7 pad SH1 (no pin SH1 in symbol).
+Warning: No net found for component J7 pad SH2 (no pin SH2 in symbol).
+Warning: No net found for component J7 pad SH4 (no pin SH4 in symbol).
+Warning: No net found for component J5 pad SH3 (no pin SH3 in symbol).
+Warning: No net found for component J8 pad SH1 (no pin SH1 in symbol).
+Warning: No net found for component J8 pad SH2 (no pin SH2 in symbol).
+Warning: No net found for component J8 pad SH4 (no pin SH4 in symbol).
+Warning: No net found for component J8 pad SH3 (no pin SH3 in symbol).
+Warning: No net found for component DS1 pad SH1 (no pin SH1 in symbol).
+Warning: No net found for component DS1 pad SH2 (no pin SH2 in symbol).
+Warning: No net found for component SW4 pad 6 (no pin 6 in symbol).
+Error: J5 pad SH not found in Components_Footprint:POMONA_73096-2.
+Error: J6 pad SH not found in Components_Footprint:POMONA_73096-2.
+Error: J7 pad SH not found in Components_Footprint:POMONA_73096-2.
+Error: J8 pad SH not found in Components_Footprint:POMONA_73096-2.
 
 
-Info: Total warnings: 20, errors: 0.
+Info: Total warnings: 20, errors: 4.
