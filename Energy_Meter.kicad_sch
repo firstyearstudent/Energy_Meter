@@ -1163,7 +1163,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Connector_Generic_Shielded:Conn_01x01_Shielded"
+		(symbol "Connector_Generic:Conn_01x01"
 			(pin_names
 				(offset 1.016)
 				(hide yes)
@@ -1174,7 +1174,7 @@
 			(in_pos_files yes)
 			(duplicate_pin_numbers_are_jumpers no)
 			(property "Reference" "J"
-				(at 0.254 2.286 0)
+				(at 0 2.54 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
@@ -1183,15 +1183,14 @@
 					)
 				)
 			)
-			(property "Value" "Conn_01x01_Shielded"
-				(at 1.016 -2.286 0)
+			(property "Value" "Conn_01x01"
+				(at 0 -2.54 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left)
 				)
 			)
 			(property "Footprint" ""
@@ -1216,7 +1215,7 @@
 					)
 				)
 			)
-			(property "Description" "Generic shielded connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1238,7 +1237,7 @@
 					)
 				)
 			)
-			(property "ki_fp_filters" "Connector*:*_1x??-1SH*"
+			(property "ki_fp_filters" "Connector*:*_1x??_*"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1249,21 +1248,10 @@
 					)
 				)
 			)
-			(symbol "Conn_01x01_Shielded_1_1"
+			(symbol "Conn_01x01_1_1"
 				(rectangle
 					(start -1.27 1.27)
 					(end 1.27 -1.27)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.016 1.016)
-					(end 1.016 -1.016)
 					(stroke
 						(width 0.254)
 						(type default)
@@ -1273,8 +1261,8 @@
 					)
 				)
 				(rectangle
-					(start -1.016 0.127)
-					(end 0.254 -0.127)
+					(start -1.27 0.127)
+					(end 0 -0.127)
 					(stroke
 						(width 0.1524)
 						(type default)
@@ -1285,7 +1273,7 @@
 				)
 				(pin passive line
 					(at -5.08 0 0)
-					(length 4.064)
+					(length 3.81)
 					(name "Pin_1"
 						(effects
 							(font
@@ -1294,24 +1282,6 @@
 						)
 					)
 					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -5.08 90)
-					(length 3.81)
-					(name "Shield"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "SH"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -14223,14 +14193,6 @@
 		(uuid "1fdbf280-a065-4afa-99a2-a70d978a5b4c")
 	)
 	(no_connect
-		(at 34.29 212.09)
-		(uuid "1fdbf9de-7d70-4c53-bb0c-469ffad4f7c4")
-	)
-	(no_connect
-		(at 78.74 212.09)
-		(uuid "290de1c9-a1e8-45d1-bb77-6adb5a6a196e")
-	)
-	(no_connect
 		(at 193.04 228.6)
 		(uuid "2f2c6ebc-4437-4c56-ac44-b742c35e363d")
 	)
@@ -14271,10 +14233,6 @@
 		(uuid "a567a2d3-cbc2-447d-8376-cdf628cb3b93")
 	)
 	(no_connect
-		(at 110.49 66.04)
-		(uuid "a6417f08-5464-4f06-83f7-96ec57e21cbf")
-	)
-	(no_connect
 		(at 228.6 228.6)
 		(uuid "aa1d55d9-6570-40a5-9812-603c6d2fa534")
 	)
@@ -14301,10 +14259,6 @@
 	(no_connect
 		(at 193.04 226.06)
 		(uuid "eb5a2150-56d4-41d1-a302-eb6d87131ce9")
-	)
-	(no_connect
-		(at 66.04 66.04)
-		(uuid "eb968801-c6b9-4942-82e7-10d2c2171298")
 	)
 	(no_connect
 		(at 344.17 158.75)
@@ -19171,6 +19125,85 @@
 			(project "Energy_Meter"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "R19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 66.04 60.96 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0190f16a-f724-4c17-8cd4-265979eb8abe")
+		(property "Reference" "J4"
+			(at 68.58 59.69 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 68.58 62.23 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Components_Footprint:POMONA_73096-2"
+			(at 66.04 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 66.04 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 66.04 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "0f5d96f0-eff0-4113-995a-54140f27a319")
+		)
+		(instances
+			(project "Energy_Meter"
+				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
+					(reference "J4")
 					(unit 1)
 				)
 			)
@@ -26873,88 +26906,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector_Generic_Shielded:Conn_01x01_Shielded")
-		(at 78.74 207.01 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "70b5dbf1-c73e-4ddd-a099-d09b9ba34176")
-		(property "Reference" "J8"
-			(at 81.28 205.7399 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_01x01_Shielded"
-			(at 81.28 208.2799 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Components_Footprint:POMONA_73096-2"
-			(at 78.74 207.01 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 78.74 207.01 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Generic shielded connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 78.74 207.01 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "737dfb5b-6ad9-48ef-b54e-eace01b65f53")
-		)
-		(pin "SH"
-			(uuid "9b19ceb4-a480-4d1b-a8aa-8769df8f420a")
-		)
-		(instances
-			(project "Energy_Meter"
-				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
-					(reference "J8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:LED")
 		(at 321.31 49.53 270)
 		(unit 1)
@@ -27063,88 +27014,6 @@
 			(project "Energy_Meter"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "D2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic_Shielded:Conn_01x01_Shielded")
-		(at 66.04 60.96 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "72d27712-ce66-4d34-9d0d-5de89d4f95aa")
-		(property "Reference" "J5"
-			(at 68.58 59.6899 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_01x01_Shielded"
-			(at 68.58 62.2299 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Components_Footprint:POMONA_73096-2"
-			(at 66.04 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 66.04 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Generic shielded connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 66.04 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "e923ff49-1978-4669-a2cc-ebda47275e4e")
-		)
-		(pin "SH"
-			(uuid "32644e7b-1383-4b39-a650-399e8fefa762")
-		)
-		(instances
-			(project "Energy_Meter"
-				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
-					(reference "J5")
 					(unit 1)
 				)
 			)
@@ -29247,6 +29116,85 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 110.49 60.96 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "913fcaad-b8bb-4edd-b969-52965cd72345")
+		(property "Reference" "J10"
+			(at 113.03 59.69 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 113.03 62.23 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Components_Footprint:POMONA_73096-2"
+			(at 110.49 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 110.49 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 110.49 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "0f5d96f0-eff0-4113-995a-54140f27a319")
+		)
+		(instances
+			(project "Energy_Meter"
+				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
+					(reference "J10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "PCM_SparkFun-PowerSymbol:GND")
 		(at 78.74 267.97 0)
 		(unit 1)
@@ -30093,88 +30041,6 @@
 			(project "Energy_Meter"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "#PWR023")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic_Shielded:Conn_01x01_Shielded")
-		(at 110.49 60.96 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9a73f045-67a3-4c15-b3a9-6a1395e411d7")
-		(property "Reference" "J6"
-			(at 113.03 59.6899 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_01x01_Shielded"
-			(at 113.03 62.2299 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Components_Footprint:POMONA_73096-2"
-			(at 110.49 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 110.49 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Generic shielded connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 110.49 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "e923ff49-1978-4669-a2cc-ebda47275e4f")
-		)
-		(pin "SH"
-			(uuid "32644e7b-1383-4b39-a650-399e8fefa763")
-		)
-		(instances
-			(project "Energy_Meter"
-				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
-					(reference "J6")
 					(unit 1)
 				)
 			)
@@ -32735,88 +32601,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector_Generic_Shielded:Conn_01x01_Shielded")
-		(at 34.29 207.01 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "cf8ee4c5-430d-492c-81a7-2ca75d5b22b2")
-		(property "Reference" "J7"
-			(at 36.83 205.7399 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_01x01_Shielded"
-			(at 36.83 208.2799 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Components_Footprint:POMONA_73096-2"
-			(at 34.29 207.01 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 34.29 207.01 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Generic shielded connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 34.29 207.01 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "67651993-b536-49dd-b911-031d1676ee7a")
-		)
-		(pin "SH"
-			(uuid "2d67fb6a-6cbc-4a5d-be8e-b4a04d554028")
-		)
-		(instances
-			(project "Energy_Meter"
-				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
-					(reference "J7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "PCM_SparkFun-Connector:TestPoint_0.5mm")
 		(at 179.07 30.48 180)
 		(unit 1)
@@ -33987,6 +33771,85 @@
 			(project "Energy_Meter"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "C9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 34.29 207.01 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "dfe46183-af5d-4247-b61b-2f0ccc1fe6b8")
+		(property "Reference" "J5"
+			(at 36.83 205.74 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 36.83 208.28 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Components_Footprint:POMONA_73096-2"
+			(at 34.29 207.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 34.29 207.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 34.29 207.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "84e4f1cc-599c-4a9d-bda6-d3d4b53372d8")
+		)
+		(instances
+			(project "Energy_Meter"
+				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
+					(reference "J5")
 					(unit 1)
 				)
 			)
@@ -36165,6 +36028,85 @@
 			(project "Energy_Meter"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "R15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x01")
+		(at 78.74 207.01 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f9f2a670-1961-47b2-8ecd-ff04f81acbd7")
+		(property "Reference" "J6"
+			(at 81.28 205.74 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x01"
+			(at 81.28 208.28 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Components_Footprint:POMONA_73096-2"
+			(at 78.74 207.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 78.74 207.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 78.74 207.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "e2e68616-3dc9-48bb-874a-ac72ad3f90eb")
+		)
+		(instances
+			(project "Energy_Meter"
+				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
+					(reference "J6")
 					(unit 1)
 				)
 			)
