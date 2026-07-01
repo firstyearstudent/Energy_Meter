@@ -504,7 +504,26 @@
         "microvia_drill": 0.1,
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 2147483647,
+        "priority": -1,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.2,
+        "tuning_profile": "",
+        "via_diameter": 0.6,
+        "via_drill": 0.3,
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.2,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "All Nets",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": -1,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.2,
         "tuning_profile": "",
@@ -540,9 +559,9 @@
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
-      "keep_line_breaks": false,
-      "keep_tabs": false,
-      "name": "CSV",
+      "keep_line_breaks": true,
+      "keep_tabs": true,
+      "name": "---",
       "ref_delimiter": ",",
       "ref_range_delimiter": "",
       "string_delimiter": "\""
@@ -780,7 +799,7 @@
         "uuid": "f1165764-c0ad-44d1-803d-0af7aad26c11"
       }
     ],
-    "used_designators": "X1-2,DS1-2,SW4-6,C26-35,Y1-2,#PWR25-26,#PWR43-60,U3,U5,U7-8,J2,J4-6,J9-11,TP1-21,R10_Burden1,R4,R10,R28-34",
+    "used_designators": "L2,R4,R10,R28-35,R10_Burden1,TP1-24,J2,J4-6,J9-11,U3,U5,U7-8,#PWR25-26,#PWR43-68,Y1-2,D5,D8-10,C26-40,SW4-6,DS1-2,X1-2",
     "variants": []
   },
   "sheets": [
@@ -789,7 +808,9 @@
       "Energy_Meter.recovered.2026-06-18_162926"
     ]
   ],
-  "text_variables": {},
+  "text_variables": {
+    "SHEETTOTAL": "1"
+  },
   "tuning_profiles": {
     "meta": {
       "version": 0
