@@ -13308,6 +13308,10 @@
 		(uuid "fe34f205-efc8-4be2-b94e-c12ad0bf03a3")
 	)
 	(no_connect
+		(at 193.04 243.84)
+		(uuid "008b6993-6858-4f9f-814a-f93dc9ff4b28")
+	)
+	(no_connect
 		(at 364.49 168.91)
 		(uuid "1c4ad837-d635-47af-a93f-80ad1de80b33")
 	)
@@ -13318,6 +13322,10 @@
 	(no_connect
 		(at 228.6 200.66)
 		(uuid "1fdbf280-a065-4afa-99a2-a70d978a5b4c")
+	)
+	(no_connect
+		(at 193.04 246.38)
+		(uuid "254ad4e4-cdc0-4a2d-85fc-b128948d5a4d")
 	)
 	(no_connect
 		(at 193.04 228.6)
@@ -14217,16 +14225,6 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 243.84) (xy 193.04 243.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "41644e08-9046-4e3f-84aa-949959b6197e")
-	)
-	(wire
-		(pts
 			(xy 58.42 173.99) (xy 57.15 173.99)
 		)
 		(stroke
@@ -14884,16 +14882,6 @@
 			(type default)
 		)
 		(uuid "7320ca72-f616-418b-934f-51b820317e3b")
-	)
-	(wire
-		(pts
-			(xy 182.88 246.38) (xy 193.04 246.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "73efcb98-36b5-4066-a214-f3ad82d76b0a")
 	)
 	(wire
 		(pts
@@ -17425,16 +17413,6 @@
 		)
 		(uuid "2f220809-db3f-476f-8ac0-005d72d24d33")
 	)
-	(label "SDA2"
-		(at 182.88 246.38 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "3429b6d7-e854-4b48-b006-a00a58372215")
-	)
 	(label "TFT_CS"
 		(at 182.88 238.76 0)
 		(effects
@@ -17546,7 +17524,7 @@
 		(uuid "5cf9ca89-7073-4671-9fe6-784734304b05")
 	)
 	(label "EC_B"
-		(at 233.68 208.28 0)
+		(at 233.68 205.74 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -17595,16 +17573,6 @@
 		)
 		(uuid "6f429669-1212-4319-b83c-80a04d4c1bbe")
 	)
-	(label "SCL2"
-		(at 182.88 243.84 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "72a7cabf-751b-4e4b-96c4-99c3e4c619b5")
-	)
 	(label "TFT_SCK"
 		(at 182.88 251.46 0)
 		(effects
@@ -17616,7 +17584,7 @@
 		(uuid "7f65ac97-d731-4ab9-b79c-0259404970f2")
 	)
 	(label "EC_A"
-		(at 233.68 205.74 0)
+		(at 233.68 208.28 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -22416,10 +22384,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "e9a39639-b61c-4a14-baba-2e5404163db1")
+			(uuid "e9a39639-b61c-4a14-baba-2e5404163db2")
 		)
 		(pin "1"
-			(uuid "4449bd87-9a37-4a2c-9767-d60e153fe90d")
+			(uuid "4449bd87-9a37-4a2c-9767-d60e153fe90e")
 		)
 		(instances
 			(project "Energy_Meter"
@@ -22657,10 +22625,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "78a0b9f6-e897-40fd-a505-e41e142ebedd")
+			(uuid "78a0b9f6-e897-40fd-a505-e41e142ebede")
 		)
 		(pin "1"
-			(uuid "86382c68-b02a-4516-9f76-3edff1e27507")
+			(uuid "86382c68-b02a-4516-9f76-3edff1e27508")
 		)
 		(instances
 			(project "Energy_Meter"
@@ -23102,10 +23070,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "78a0b9f6-e897-40fd-a505-e41e142ebedd")
+			(uuid "78a0b9f6-e897-40fd-a505-e41e142ebedf")
 		)
 		(pin "1"
-			(uuid "86382c68-b02a-4516-9f76-3edff1e27507")
+			(uuid "86382c68-b02a-4516-9f76-3edff1e27509")
 		)
 		(instances
 			(project "Energy_Meter"
@@ -23421,10 +23389,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "9096aaf7-b694-4d4f-b949-bae6b8584ce9")
+			(uuid "9096aaf7-b694-4d4f-b949-bae6b8584cea")
 		)
 		(pin "2"
-			(uuid "fa6bb066-854a-4486-9343-ca2d614fdac9")
+			(uuid "fa6bb066-854a-4486-9343-ca2d614fdaca")
 		)
 		(instances
 			(project "Energy_Meter"
@@ -23695,10 +23663,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "78a0b9f6-e897-40fd-a505-e41e142ebedd")
+			(uuid "78a0b9f6-e897-40fd-a505-e41e142ebee0")
 		)
 		(pin "1"
-			(uuid "86382c68-b02a-4516-9f76-3edff1e27507")
+			(uuid "86382c68-b02a-4516-9f76-3edff1e2750a")
 		)
 		(instances
 			(project "Energy_Meter"
@@ -28169,10 +28137,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "8fe78987-ef30-4a26-b3b2-c910e14f25e5")
+			(uuid "8fe78987-ef30-4a26-b3b2-c910e14f25e6")
 		)
 		(pin "1"
-			(uuid "3063a911-3cec-42a2-82bf-1e383a3355b8")
+			(uuid "3063a911-3cec-42a2-82bf-1e383a3355b9")
 		)
 		(instances
 			(project "Energy_Meter"
@@ -29571,10 +29539,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "e5148029-4d15-466c-8726-2c767126d087")
+			(uuid "e5148029-4d15-466c-8726-2c767126d088")
 		)
 		(pin "1"
-			(uuid "d176cc67-171b-4e27-8eeb-5e40bd23d299")
+			(uuid "d176cc67-171b-4e27-8eeb-5e40bd23d29a")
 		)
 		(instances
 			(project "Energy_Meter"
@@ -30108,10 +30076,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "9096aaf7-b694-4d4f-b949-bae6b8584ce9")
+			(uuid "9096aaf7-b694-4d4f-b949-bae6b8584ceb")
 		)
 		(pin "2"
-			(uuid "fa6bb066-854a-4486-9343-ca2d614fdac9")
+			(uuid "fa6bb066-854a-4486-9343-ca2d614fdacb")
 		)
 		(instances
 			(project "Energy_Meter"
@@ -33183,10 +33151,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "4b92d34f-c30d-4f01-8a4c-dc2d7f2b8e42")
+			(uuid "4b92d34f-c30d-4f01-8a4c-dc2d7f2b8e43")
 		)
 		(pin "1"
-			(uuid "29cf5ef8-a563-431f-ab17-abd26e5d2c5e")
+			(uuid "29cf5ef8-a563-431f-ab17-abd26e5d2c5f")
 		)
 		(instances
 			(project "Energy_Meter"
@@ -33275,10 +33243,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "4b92d34f-c30d-4f01-8a4c-dc2d7f2b8e42")
+			(uuid "4b92d34f-c30d-4f01-8a4c-dc2d7f2b8e44")
 		)
 		(pin "1"
-			(uuid "29cf5ef8-a563-431f-ab17-abd26e5d2c5e")
+			(uuid "29cf5ef8-a563-431f-ab17-abd26e5d2c60")
 		)
 		(instances
 			(project "Energy_Meter"
@@ -33516,10 +33484,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "e5148029-4d15-466c-8726-2c767126d087")
+			(uuid "e5148029-4d15-466c-8726-2c767126d089")
 		)
 		(pin "1"
-			(uuid "d176cc67-171b-4e27-8eeb-5e40bd23d299")
+			(uuid "d176cc67-171b-4e27-8eeb-5e40bd23d29b")
 		)
 		(instances
 			(project "Energy_Meter"
@@ -34127,10 +34095,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "78a0b9f6-e897-40fd-a505-e41e142ebedd")
+			(uuid "78a0b9f6-e897-40fd-a505-e41e142ebee1")
 		)
 		(pin "1"
-			(uuid "86382c68-b02a-4516-9f76-3edff1e27507")
+			(uuid "86382c68-b02a-4516-9f76-3edff1e2750b")
 		)
 		(instances
 			(project "Energy_Meter"
@@ -35160,10 +35128,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "8fe78987-ef30-4a26-b3b2-c910e14f25e5")
+			(uuid "8fe78987-ef30-4a26-b3b2-c910e14f25e7")
 		)
 		(pin "1"
-			(uuid "3063a911-3cec-42a2-82bf-1e383a3355b8")
+			(uuid "3063a911-3cec-42a2-82bf-1e383a3355ba")
 		)
 		(instances
 			(project "Energy_Meter"
@@ -35407,10 +35375,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "e5148029-4d15-466c-8726-2c767126d087")
+			(uuid "e5148029-4d15-466c-8726-2c767126d08a")
 		)
 		(pin "1"
-			(uuid "d176cc67-171b-4e27-8eeb-5e40bd23d299")
+			(uuid "d176cc67-171b-4e27-8eeb-5e40bd23d29c")
 		)
 		(instances
 			(project "Energy_Meter"
@@ -36648,10 +36616,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "9096aaf7-b694-4d4f-b949-bae6b8584ce9")
+			(uuid "9096aaf7-b694-4d4f-b949-bae6b8584cec")
 		)
 		(pin "2"
-			(uuid "fa6bb066-854a-4486-9343-ca2d614fdac9")
+			(uuid "fa6bb066-854a-4486-9343-ca2d614fdacc")
 		)
 		(instances
 			(project "Energy_Meter"
@@ -37289,10 +37257,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "78a0b9f6-e897-40fd-a505-e41e142ebedd")
+			(uuid "78a0b9f6-e897-40fd-a505-e41e142ebee2")
 		)
 		(pin "1"
-			(uuid "86382c68-b02a-4516-9f76-3edff1e27507")
+			(uuid "86382c68-b02a-4516-9f76-3edff1e2750c")
 		)
 		(instances
 			(project "Energy_Meter"
@@ -38160,10 +38128,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "78a0b9f6-e897-40fd-a505-e41e142ebedd")
+			(uuid "78a0b9f6-e897-40fd-a505-e41e142ebee3")
 		)
 		(pin "1"
-			(uuid "86382c68-b02a-4516-9f76-3edff1e27507")
+			(uuid "86382c68-b02a-4516-9f76-3edff1e2750d")
 		)
 		(instances
 			(project "Energy_Meter"
@@ -40001,10 +39969,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "4b92d34f-c30d-4f01-8a4c-dc2d7f2b8e42")
+			(uuid "4b92d34f-c30d-4f01-8a4c-dc2d7f2b8e45")
 		)
 		(pin "1"
-			(uuid "29cf5ef8-a563-431f-ab17-abd26e5d2c5e")
+			(uuid "29cf5ef8-a563-431f-ab17-abd26e5d2c61")
 		)
 		(instances
 			(project "Energy_Meter"
