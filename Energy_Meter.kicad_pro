@@ -549,24 +549,7 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": [
-      {
-        "netclass": "POWER",
-        "pattern": "3.3VD"
-      },
-      {
-        "netclass": "POWER",
-        "pattern": "5V"
-      },
-      {
-        "netclass": "POWER",
-        "pattern": "3.3VA"
-      },
-      {
-        "netclass": "POWER",
-        "pattern": "/BAT"
-      }
-    ]
+    "netclass_patterns": []
   },
   "pcbnew": {
     "last_paths": {
