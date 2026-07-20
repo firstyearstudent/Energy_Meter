@@ -1856,6 +1856,352 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Energy_Meter_Sym_Lib:ERA8ARB203V"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "R"
+				(at -7.624 2.541 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "20k_1206"
+				(at -7.624 -5.087 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "ERA8ARB203V:RES_ERA8ARB203V"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "RES SMD 20K OHM 0.1% 1/4W 1206"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "MF" "Panasonic"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "MAXIMUM_PACKAGE_HEIGHT" "0.6 mm"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Package" "3216-2 Panasonic"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Price" "None"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Check_prices" "https://www.snapeda.com/parts/ERA8ARB203V/Panasonic/view-part/?ref=eda"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "STANDARD" "Manufacturer Recommendations"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "PARTREV" "3/1/2020"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "SnapEDA_Link" "https://www.snapeda.com/parts/ERA8ARB203V/Panasonic/view-part/?ref=snap"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "MP" "ERA8ARB203V"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Availability" "In Stock"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(property "MANUFACTURER" "Panasonic"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+				)
+			)
+			(symbol "ERA8ARB203V_0_0"
+				(polyline
+					(pts
+						(xy -5.08 0) (xy -4.445 1.905)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -4.445 1.905) (xy -3.175 -1.905)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.175 -1.905) (xy -1.905 1.905)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.905 1.905) (xy -0.635 -1.905)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.635 -1.905) (xy 0.635 1.905)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.635 1.905) (xy 1.905 -1.905)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.905 -1.905) (xy 3.175 1.905)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.175 1.905) (xy 4.445 -1.905)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 4.445 -1.905) (xy 5.08 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -10.16 0 0)
+					(length 5.08)
+					(name ""
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 10.16 0 180)
+					(length 5.08)
+					(name ""
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Energy_Meter_Sym_Lib:RC1206FR-07360RL"
 			(pin_names
 				(offset 1.016)
@@ -9036,302 +9382,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "RN73R2BTTD2002F25:RN73R2BTTD2002F25"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "R11"
-				(at 0 6.35 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "20k_1206_1%"
-				(at 0 3.81 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "RN73R2BTTD2002F25:RESC3216X70N"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "RES 20K OHM 1% 1/4W 1206"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "MF" "KOA Speer"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "Package" "1206 KOA"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "Price" "None"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "SnapEDA_Link" "https://www.snapeda.com/parts/RN73R2BTTD2002F25/KOA+Speer/view-part/?ref=snap"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "MP" "RN73R2BTTD2002F25"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "Availability" "In Stock"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(property "Check_prices" "https://www.snapeda.com/parts/RN73R2BTTD2002F25/KOA+Speer/view-part/?ref=eda"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-				)
-			)
-			(symbol "RN73R2BTTD2002F25_0_0"
-				(polyline
-					(pts
-						(xy -5.08 0) (xy -4.445 1.905)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -4.445 1.905) (xy -3.175 -1.905)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -3.175 -1.905) (xy -1.905 1.905)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.905 1.905) (xy -0.635 -1.905)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -0.635 -1.905) (xy 0.635 1.905)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.635 1.905) (xy 1.905 -1.905)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.905 -1.905) (xy 3.175 1.905)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 3.175 1.905) (xy 4.445 -1.905)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 4.445 -1.905) (xy 5.08 0)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -10.16 0 0)
-					(length 5.08)
-					(name ""
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 10.16 0 180)
-					(length 5.08)
-					(name ""
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "RNCP0805FTD4K75:RNCP0805FTD4K75"
 			(pin_names
 				(offset 1.016)
@@ -11246,7 +11296,7 @@
 	)
 	(text "Khối đo áp AC"
 		(exclude_from_sim no)
-		(at 85.344 17.272 0)
+		(at 109.474 17.272 0)
 		(effects
 			(font
 				(size 3 3)
@@ -11325,7 +11375,7 @@
 		(uuid "1f248afd-fdf8-4380-8473-be0fbd79d657")
 	)
 	(junction
-		(at 140.97 50.8)
+		(at 165.1 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2061c58a-3819-4430-a156-a602bb75f372")
@@ -11361,7 +11411,7 @@
 		(uuid "2a652853-8e44-45da-ba26-de5fa0e13793")
 	)
 	(junction
-		(at 154.94 20.32)
+		(at 179.07 20.32)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2bd4d858-f90b-4c11-833a-c18849dd31aa")
@@ -11415,6 +11465,12 @@
 		(uuid "3b9e4f35-a1e9-42ef-9fba-f4147d0b3922")
 	)
 	(junction
+		(at 168.91 109.22)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3ba72b41-4719-49fc-bcac-73a57f7f381e")
+	)
+	(junction
 		(at 57.15 95.25)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -11455,6 +11511,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "500624b8-75c9-46df-b159-5dfb706cbafb")
+	)
+	(junction
+		(at 88.9 101.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "51b7548e-4d1c-44c5-89ba-28ddafd4da1e")
 	)
 	(junction
 		(at 68.58 195.58)
@@ -11535,7 +11597,7 @@
 		(uuid "735054c1-4095-4fa2-9012-c0e83f9dd4e9")
 	)
 	(junction
-		(at 146.05 30.48)
+		(at 170.18 30.48)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7707ac4e-929b-42b2-b421-6d781b701c80")
@@ -11583,7 +11645,7 @@
 		(uuid "948d66da-9a9c-4b7b-9aef-34c404a1b770")
 	)
 	(junction
-		(at 88.9 40.64)
+		(at 113.03 40.64)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "96f6ea9d-c471-4281-a950-afe8de6afbf5")
@@ -11595,7 +11657,7 @@
 		(uuid "98e84f84-0fdf-4d03-94fa-7246f7c2d3eb")
 	)
 	(junction
-		(at 124.46 30.48)
+		(at 148.59 30.48)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9d3b5805-de89-4378-a3d9-a52a9da2c04b")
@@ -11619,13 +11681,19 @@
 		(uuid "ad7fcecf-8c88-4f9d-8171-64c0ef20d38d")
 	)
 	(junction
+		(at 88.9 104.14)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "aed82678-3274-4e2f-b0df-09012dfbdeaa")
+	)
+	(junction
 		(at 53.34 161.29)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b145f81f-d4f0-4057-b568-0b9ec8b2e61f")
 	)
 	(junction
-		(at 88.9 50.8)
+		(at 113.03 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b6fd27e9-8790-4359-b62a-76cfd1f6c2af")
@@ -11635,6 +11703,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b9694bb5-c0c3-4e25-8bea-8345acc48ad0")
+	)
+	(junction
+		(at 209.55 118.11)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ba97af89-a032-4074-b00c-c5d0ca484aab")
 	)
 	(junction
 		(at 353.06 48.26)
@@ -11715,13 +11789,13 @@
 		(uuid "da077fc3-cc82-4a5b-9242-44f0a81c94b3")
 	)
 	(junction
-		(at 151.13 62.23)
+		(at 175.26 62.23)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "db86053b-cb7b-4fce-b64d-4026f23d80c2")
 	)
 	(junction
-		(at 124.46 50.8)
+		(at 148.59 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dc8ff25d-7537-485f-a73a-a888e56aba4c")
@@ -11805,7 +11879,7 @@
 		(uuid "fbcd72a3-68f1-47c4-9981-4a6b3f25aba7")
 	)
 	(junction
-		(at 129.54 50.8)
+		(at 153.67 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fc1549ef-11a2-4d2b-91c4-8ef606164b15")
@@ -12028,16 +12102,6 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 40.64) (xy 66.04 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "089aa8f2-446d-46a9-8c06-98d5f421227b")
-	)
-	(wire
-		(pts
 			(xy 275.59 80.01) (xy 276.86 80.01)
 		)
 		(stroke
@@ -12058,7 +12122,7 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 50.8) (xy 151.13 53.34)
+			(xy 175.26 50.8) (xy 175.26 53.34)
 		)
 		(stroke
 			(width 0)
@@ -12078,7 +12142,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 50.8) (xy 151.13 50.8)
+			(xy 165.1 50.8) (xy 175.26 50.8)
 		)
 		(stroke
 			(width 0)
@@ -12158,7 +12222,7 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 30.48) (xy 130.81 30.48)
+			(xy 148.59 30.48) (xy 154.94 30.48)
 		)
 		(stroke
 			(width 0)
@@ -12168,7 +12232,7 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 38.1) (xy 88.9 38.1)
+			(xy 114.3 38.1) (xy 113.03 38.1)
 		)
 		(stroke
 			(width 0)
@@ -12368,7 +12432,17 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 40.64) (xy 97.79 40.64)
+			(xy 87.63 104.14) (xy 88.9 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "28690c8d-2433-4042-9bb0-b62a8248333d")
+	)
+	(wire
+		(pts
+			(xy 113.03 40.64) (xy 121.92 40.64)
 		)
 		(stroke
 			(width 0)
@@ -12385,16 +12459,6 @@
 			(type default)
 		)
 		(uuid "28a50b2e-6337-4d07-8a67-99c10e9351fe")
-	)
-	(wire
-		(pts
-			(xy 86.36 50.8) (xy 88.9 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "28f7df6b-cf44-4fa3-9d62-5250185032dc")
 	)
 	(wire
 		(pts
@@ -12415,6 +12479,26 @@
 			(type default)
 		)
 		(uuid "294f9758-d71d-4d2a-af76-5716c8043ae4")
+	)
+	(wire
+		(pts
+			(xy 54.61 50.8) (xy 59.69 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2964a3e3-3bed-4dde-a67c-3c17861f8d95")
+	)
+	(wire
+		(pts
+			(xy 54.61 40.64) (xy 59.69 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2972e268-5d40-4355-a388-794c54157986")
 	)
 	(wire
 		(pts
@@ -12618,16 +12702,6 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 50.8) (xy 66.04 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3912139a-bf90-47c7-873b-5e21b39ab93e")
-	)
-	(wire
-		(pts
 			(xy 57.15 173.99) (xy 57.15 186.69)
 		)
 		(stroke
@@ -12708,6 +12782,16 @@
 	)
 	(wire
 		(pts
+			(xy 168.91 109.22) (xy 170.18 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "409eac9c-957c-4bbe-8a49-47b104d5b4e5")
+	)
+	(wire
+		(pts
 			(xy 58.42 173.99) (xy 57.15 173.99)
 		)
 		(stroke
@@ -12745,6 +12829,16 @@
 			(type default)
 		)
 		(uuid "4518e08e-f76c-4ccc-8305-2b03c566913c")
+	)
+	(wire
+		(pts
+			(xy 80.01 40.64) (xy 83.82 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "459cd583-9b6a-4f3a-931f-f5bc41dc0c96")
 	)
 	(wire
 		(pts
@@ -13048,7 +13142,7 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 30.48) (xy 146.05 30.48)
+			(xy 162.56 30.48) (xy 170.18 30.48)
 		)
 		(stroke
 			(width 0)
@@ -13068,7 +13162,7 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 20.32) (xy 154.94 20.32)
+			(xy 177.8 20.32) (xy 179.07 20.32)
 		)
 		(stroke
 			(width 0)
@@ -13178,16 +13272,6 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 40.64) (xy 88.9 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6410a6a3-6852-434f-8c93-5bf685266c1c")
-	)
-	(wire
-		(pts
 			(xy 172.72 118.11) (xy 170.18 118.11)
 		)
 		(stroke
@@ -13238,6 +13322,16 @@
 	)
 	(wire
 		(pts
+			(xy 209.55 118.11) (xy 213.36 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "67e6dd17-5a9c-4aa7-86c0-d42fa3a423f4")
+	)
+	(wire
+		(pts
 			(xy 344.17 82.55) (xy 344.17 83.82)
 		)
 		(stroke
@@ -13268,7 +13362,7 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 40.64) (xy 113.03 30.48)
+			(xy 137.16 40.64) (xy 137.16 30.48)
 		)
 		(stroke
 			(width 0)
@@ -13458,7 +13552,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 49.53) (xy 140.97 50.8)
+			(xy 165.1 49.53) (xy 165.1 50.8)
 		)
 		(stroke
 			(width 0)
@@ -13468,7 +13562,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 48.26) (xy 88.9 50.8)
+			(xy 113.03 48.26) (xy 113.03 50.8)
 		)
 		(stroke
 			(width 0)
@@ -13488,7 +13582,7 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 58.42) (xy 151.13 62.23)
+			(xy 175.26 58.42) (xy 175.26 62.23)
 		)
 		(stroke
 			(width 0)
@@ -13658,6 +13752,16 @@
 	)
 	(wire
 		(pts
+			(xy 88.9 101.6) (xy 90.17 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "84ab294b-aa53-40f3-824c-9e49bacaf7d3")
+	)
+	(wire
+		(pts
 			(xy 288.29 81.28) (xy 288.29 80.01)
 		)
 		(stroke
@@ -13688,7 +13792,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 50.8) (xy 97.79 50.8)
+			(xy 113.03 50.8) (xy 121.92 50.8)
 		)
 		(stroke
 			(width 0)
@@ -13758,7 +13862,7 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 30.48) (xy 124.46 30.48)
+			(xy 137.16 30.48) (xy 148.59 30.48)
 		)
 		(stroke
 			(width 0)
@@ -13808,7 +13912,7 @@
 	)
 	(wire
 		(pts
-			(xy 87.63 104.14) (xy 88.9 104.14)
+			(xy 88.9 104.14) (xy 90.17 104.14)
 		)
 		(stroke
 			(width 0)
@@ -13838,7 +13942,7 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 109.22) (xy 170.18 109.22)
+			(xy 166.37 109.22) (xy 168.91 109.22)
 		)
 		(stroke
 			(width 0)
@@ -13938,7 +14042,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 20.32) (xy 154.94 22.86)
+			(xy 179.07 20.32) (xy 179.07 22.86)
 		)
 		(stroke
 			(width 0)
@@ -14018,6 +14122,16 @@
 	)
 	(wire
 		(pts
+			(xy 100.33 104.14) (xy 101.6 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "967cc469-de2b-443a-a778-c76e56a7cc0a")
+	)
+	(wire
+		(pts
 			(xy 335.28 53.34) (xy 353.06 53.34)
 		)
 		(stroke
@@ -14038,7 +14152,7 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 50.8) (xy 124.46 50.8)
+			(xy 137.16 50.8) (xy 148.59 50.8)
 		)
 		(stroke
 			(width 0)
@@ -14088,17 +14202,7 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 50.8) (xy 43.18 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9c1a1d4f-06ff-47da-b906-fccdc8823f85")
-	)
-	(wire
-		(pts
-			(xy 140.97 38.1) (xy 140.97 39.37)
+			(xy 165.1 38.1) (xy 165.1 39.37)
 		)
 		(stroke
 			(width 0)
@@ -14148,6 +14252,16 @@
 	)
 	(wire
 		(pts
+			(xy 80.01 50.8) (xy 83.82 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9d925814-be46-42f8-b3f8-8278cba8c671")
+	)
+	(wire
+		(pts
 			(xy 351.79 115.57) (xy 351.79 118.11)
 		)
 		(stroke
@@ -14168,7 +14282,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 101.6) (xy 110.49 101.6)
+			(xy 100.33 101.6) (xy 110.49 101.6)
 		)
 		(stroke
 			(width 0)
@@ -14468,7 +14582,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 38.1) (xy 88.9 40.64)
+			(xy 113.03 38.1) (xy 113.03 40.64)
 		)
 		(stroke
 			(width 0)
@@ -14528,7 +14642,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 50.8) (xy 140.97 52.07)
+			(xy 165.1 50.8) (xy 165.1 52.07)
 		)
 		(stroke
 			(width 0)
@@ -14555,16 +14669,6 @@
 			(type default)
 		)
 		(uuid "ba2964f7-b548-401b-8137-4c436eadccf7")
-	)
-	(wire
-		(pts
-			(xy 99.06 104.14) (xy 101.6 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ba3963b8-0527-4e19-b5b7-0d9c9392cc77")
 	)
 	(wire
 		(pts
@@ -14828,7 +14932,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 118.11) (xy 213.36 118.11)
+			(xy 208.28 118.11) (xy 209.55 118.11)
 		)
 		(stroke
 			(width 0)
@@ -14968,7 +15072,7 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 48.26) (xy 129.54 50.8)
+			(xy 153.67 48.26) (xy 153.67 50.8)
 		)
 		(stroke
 			(width 0)
@@ -15148,7 +15252,7 @@
 	)
 	(wire
 		(pts
-			(xy 19.05 40.64) (xy 20.32 40.64)
+			(xy 27.94 40.64) (xy 34.29 40.64)
 		)
 		(stroke
 			(width 0)
@@ -15298,7 +15402,7 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 62.23) (xy 140.97 62.23)
+			(xy 175.26 62.23) (xy 165.1 62.23)
 		)
 		(stroke
 			(width 0)
@@ -15365,16 +15469,6 @@
 			(type default)
 		)
 		(uuid "ebf8202e-71c8-4d37-b2ad-596f198aaa8f")
-	)
-	(wire
-		(pts
-			(xy 40.64 40.64) (xy 43.18 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ecb0b536-b561-4c3f-bda8-0b9816f48260")
 	)
 	(wire
 		(pts
@@ -15508,7 +15602,7 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 50.8) (xy 140.97 50.8)
+			(xy 153.67 50.8) (xy 165.1 50.8)
 		)
 		(stroke
 			(width 0)
@@ -15548,7 +15642,7 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 30.48) (xy 148.59 30.48)
+			(xy 170.18 30.48) (xy 172.72 30.48)
 		)
 		(stroke
 			(width 0)
@@ -15558,7 +15652,7 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 20.32) (xy 146.05 30.48)
+			(xy 170.18 20.32) (xy 170.18 30.48)
 		)
 		(stroke
 			(width 0)
@@ -15588,7 +15682,7 @@
 	)
 	(wire
 		(pts
-			(xy 19.05 50.8) (xy 20.32 50.8)
+			(xy 27.94 50.8) (xy 34.29 50.8)
 		)
 		(stroke
 			(width 0)
@@ -15608,7 +15702,7 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 50.8) (xy 129.54 50.8)
+			(xy 148.59 50.8) (xy 153.67 50.8)
 		)
 		(stroke
 			(width 0)
@@ -15708,6 +15802,16 @@
 	)
 	(wire
 		(pts
+			(xy 104.14 40.64) (xy 113.03 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "faba935a-b906-4c5f-88f4-56f92778cbb6")
+	)
+	(wire
+		(pts
 			(xy 182.88 238.76) (xy 193.04 238.76)
 		)
 		(stroke
@@ -15728,13 +15832,23 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 48.26) (xy 88.9 48.26)
+			(xy 114.3 48.26) (xy 113.03 48.26)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "fb41e94c-27a1-44cf-824f-1b6cf9d4e1fd")
+	)
+	(wire
+		(pts
+			(xy 104.14 50.8) (xy 113.03 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fb8fd31c-4753-465b-bfb7-f6f5b757eff2")
 	)
 	(wire
 		(pts
@@ -16228,7 +16342,7 @@
 	)
 	(global_label "AC_N"
 		(shape input)
-		(at 19.05 50.8 180)
+		(at 27.94 50.8 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -16238,7 +16352,7 @@
 		)
 		(uuid "082f7702-bd6e-4429-9d35-5cce0905a823")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 11.4081 50.8 0)
+			(at 20.2981 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16324,7 +16438,7 @@
 	)
 	(global_label "AC_L"
 		(shape input)
-		(at 74.93 63.5 180)
+		(at 99.06 63.5 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -16334,7 +16448,7 @@
 		)
 		(uuid "7c36a4cc-aad7-4c3d-9c26-0cff8c1d7622")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 67.904 63.5 0)
+			(at 92.034 63.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16420,7 +16534,7 @@
 	)
 	(global_label "AC_L"
 		(shape input)
-		(at 19.05 40.64 180)
+		(at 27.94 40.64 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -16430,7 +16544,7 @@
 		)
 		(uuid "bc1e6c6e-4b4a-4d27-a32c-d774c268af57")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 11.7105 40.64 0)
+			(at 20.6005 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16468,7 +16582,7 @@
 	)
 	(global_label "AC_N"
 		(shape input)
-		(at 105.41 63.5 180)
+		(at 129.54 63.5 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -16478,7 +16592,7 @@
 		)
 		(uuid "f5a5b4e1-deea-4ccc-9ba9-b6e08181a6d1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 97.7681 63.5 0)
+			(at 121.8981 63.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16492,7 +16606,7 @@
 	)
 	(global_label "ADC2"
 		(shape input)
-		(at 148.59 30.48 0)
+		(at 172.72 30.48 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -16502,7 +16616,7 @@
 		)
 		(uuid "f8e4e70a-14c1-4d99-b547-be30a56ed1ff")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 156.4133 30.48 0)
+			(at 180.5433 30.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16673,7 +16787,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x01")
-		(at 80.01 63.5 0)
+		(at 104.14 63.5 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -16684,7 +16798,7 @@
 		(fields_autoplaced yes)
 		(uuid "0190f16a-f724-4c17-8cd4-265979eb8abe")
 		(property "Reference" "J4"
-			(at 82.55 62.23 0)
+			(at 106.68 62.23 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16695,7 +16809,7 @@
 			)
 		)
 		(property "Value" "Conn_01x01"
-			(at 82.55 64.77 0)
+			(at 106.68 64.77 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16705,8 +16819,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_4.3mm_M4_Pad_Via"
-			(at 80.01 63.5 0)
+		(property "Footprint" "MountingHole:MountingHole_4.3mm_M4_Pad"
+			(at 104.14 63.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16717,7 +16831,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 80.01 63.5 0)
+			(at 104.14 63.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16728,7 +16842,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 80.01 63.5 0)
+			(at 104.14 63.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16751,8 +16865,8 @@
 		)
 	)
 	(symbol
-		(lib_id "RN73R2BTTD2002F25:RN73R2BTTD2002F25")
-		(at 53.34 50.8 0)
+		(lib_id "Energy_Meter_Sym_Lib:ERA8ARB203V")
+		(at 93.98 50.8 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -16761,9 +16875,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "02ef662e-2f5e-4659-aff7-f267266ba225")
-		(property "Reference" "R13"
-			(at 53.34 44.45 0)
+		(uuid "03edf0d1-2886-4390-ad01-5d0bda2eb6df")
+		(property "Reference" "R14"
+			(at 93.98 44.45 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16772,8 +16886,8 @@
 				)
 			)
 		)
-		(property "Value" "20k_1206_1%"
-			(at 53.34 46.99 0)
+		(property "Value" "20k_1206"
+			(at 93.98 46.99 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16782,8 +16896,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Components_Footprint:RESC3216X70N"
-			(at 53.34 50.8 0)
+		(property "Footprint" "Components_Footprint:RES_ERA8ARB203V"
+			(at 93.98 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16795,7 +16909,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 53.34 50.8 0)
+			(at 93.98 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16805,20 +16919,8 @@
 				)
 			)
 		)
-		(property "Description" "RES 20K OHM 1% 1/4W 1206"
-			(at 53.34 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MF" "KOA Speer"
-			(at 53.34 50.8 0)
+		(property "Description" "RES SMD 20K OHM 0.1% 1/4W 1206"
+			(at 93.98 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16829,8 +16931,32 @@
 				(justify bottom)
 			)
 		)
-		(property "Package" "1206 KOA"
-			(at 53.34 50.8 0)
+		(property "MF" "Panasonic"
+			(at 93.98 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "0.6 mm"
+			(at 93.98 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Package" "3216-2 Panasonic"
+			(at 93.98 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16842,7 +16968,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 53.34 50.8 0)
+			(at 93.98 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16853,8 +16979,8 @@
 				(justify bottom)
 			)
 		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/RN73R2BTTD2002F25/KOA+Speer/view-part/?ref=snap"
-			(at 53.34 50.8 0)
+		(property "Check_prices" "https://www.snapeda.com/parts/ERA8ARB203V/Panasonic/view-part/?ref=eda"
+			(at 93.98 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16865,8 +16991,44 @@
 				(justify bottom)
 			)
 		)
-		(property "MP" "RN73R2BTTD2002F25"
-			(at 53.34 50.8 0)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 93.98 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "PARTREV" "3/1/2020"
+			(at 93.98 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/ERA8ARB203V/Panasonic/view-part/?ref=snap"
+			(at 93.98 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MP" "ERA8ARB203V"
+			(at 93.98 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16878,7 +17040,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 53.34 50.8 0)
+			(at 93.98 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16889,8 +17051,8 @@
 				(justify bottom)
 			)
 		)
-		(property "Check_prices" "https://www.snapeda.com/parts/RN73R2BTTD2002F25/KOA+Speer/view-part/?ref=eda"
-			(at 53.34 50.8 0)
+		(property "MANUFACTURER" "Panasonic"
+			(at 93.98 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16902,15 +17064,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "b990f9c3-d8ad-483d-955b-c5421175778c")
+			(uuid "b4727aee-10e1-410f-9155-8a533c6adca0")
 		)
 		(pin "2"
-			(uuid "821e0cde-259b-4055-ad89-7d55dec1f16c")
+			(uuid "3f9726aa-da33-427a-8687-a800dd68a3a6")
 		)
 		(instances
 			(project "Energy_Meter"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
-					(reference "R13")
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -18195,6 +18357,84 @@
 		)
 	)
 	(symbol
+		(lib_id "PCM_SparkFun-Connector:TestPoint_0.5mm")
+		(at 209.55 118.11 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "15c60f08-f846-41c0-af82-b9776ec807af")
+		(property "Reference" "TP26"
+			(at 209.55 123.19 0)
+			(show_name no)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0.5mm"
+			(at 209.55 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "PCM_SparkFun-Connector:TestPoint-0.5mm"
+			(at 209.55 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 209.55 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Test Point"
+			(at 209.55 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "93f3aac8-c4e0-40e1-9ff3-01473b1b2515")
+		)
+		(instances
+			(project "Energy_Meter"
+				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
+					(reference "TP26")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "WSLF25121L000FEA:WSLF25121L000FEA")
 		(at 26.67 185.42 90)
 		(unit 1)
@@ -18682,172 +18922,6 @@
 			(project "Energy_Meter"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "SW4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "RN73R2BTTD2002F25:RN73R2BTTD2002F25")
-		(at 30.48 50.8 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1be7f9c2-0918-4cad-b83b-31555299069c")
-		(property "Reference" "R12"
-			(at 30.48 44.45 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "20k_1206_1%"
-			(at 30.48 46.99 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Components_Footprint:RESC3216X70N"
-			(at 30.48 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Datasheet" ""
-			(at 30.48 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "RES 20K OHM 1% 1/4W 1206"
-			(at 30.48 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MF" "KOA Speer"
-			(at 30.48 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Package" "1206 KOA"
-			(at 30.48 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Price" "None"
-			(at 30.48 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/RN73R2BTTD2002F25/KOA+Speer/view-part/?ref=snap"
-			(at 30.48 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MP" "RN73R2BTTD2002F25"
-			(at 30.48 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 30.48 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/RN73R2BTTD2002F25/KOA+Speer/view-part/?ref=eda"
-			(at 30.48 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(pin "1"
-			(uuid "c23e44c9-40df-4a0a-bb15-b05b6aff5ceb")
-		)
-		(pin "2"
-			(uuid "bca75035-3650-48fd-87d9-b4ac5bd25cd0")
-		)
-		(instances
-			(project "Energy_Meter"
-				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
-					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -19456,7 +19530,7 @@
 	)
 	(symbol
 		(lib_id "PCM_Resistor_AKL:R_2512")
-		(at 134.62 30.48 90)
+		(at 158.75 30.48 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -19467,7 +19541,7 @@
 		(fields_autoplaced yes)
 		(uuid "29a77758-5dd7-4b94-a84e-1a25c3cb1f6f")
 		(property "Reference" "R8"
-			(at 134.62 24.13 90)
+			(at 158.75 24.13 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19477,7 +19551,7 @@
 			)
 		)
 		(property "Value" "1k_2512"
-			(at 134.62 26.67 90)
+			(at 158.75 26.67 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19487,7 +19561,7 @@
 			)
 		)
 		(property "Footprint" "PCM_Resistor_SMD_AKL:R_2512_6332Metric"
-			(at 146.05 30.48 0)
+			(at 170.18 30.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19498,7 +19572,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 134.62 30.48 0)
+			(at 158.75 30.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19509,7 +19583,7 @@
 			)
 		)
 		(property "Description" "SMD 2512 Chip Resistor, European Symbol, Alternate KiCad Library"
-			(at 134.62 30.48 0)
+			(at 158.75 30.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19529,6 +19603,220 @@
 			(project "Energy_Meter"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "R8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Energy_Meter_Sym_Lib:ERA8ARB203V")
+		(at 93.98 40.64 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2a97da1f-e769-4961-b4d0-e2a1f1c907f0")
+		(property "Reference" "R11"
+			(at 93.98 34.29 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "20k_1206"
+			(at 93.98 36.83 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Components_Footprint:RES_ERA8ARB203V"
+			(at 93.98 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 93.98 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "RES SMD 20K OHM 0.1% 1/4W 1206"
+			(at 93.98 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MF" "Panasonic"
+			(at 93.98 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "0.6 mm"
+			(at 93.98 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Package" "3216-2 Panasonic"
+			(at 93.98 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Price" "None"
+			(at 93.98 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/ERA8ARB203V/Panasonic/view-part/?ref=eda"
+			(at 93.98 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 93.98 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "PARTREV" "3/1/2020"
+			(at 93.98 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/ERA8ARB203V/Panasonic/view-part/?ref=snap"
+			(at 93.98 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MP" "ERA8ARB203V"
+			(at 93.98 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 93.98 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MANUFACTURER" "Panasonic"
+			(at 93.98 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(pin "1"
+			(uuid "b4727aee-10e1-410f-9155-8a533c6adca0")
+		)
+		(pin "2"
+			(uuid "3f9726aa-da33-427a-8687-a800dd68a3a6")
+		)
+		(instances
+			(project "Energy_Meter"
+				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -20575,7 +20863,7 @@
 	)
 	(symbol
 		(lib_id "PCM_fab:R_1206")
-		(at 140.97 57.15 0)
+		(at 165.1 57.15 0)
 		(mirror x)
 		(unit 1)
 		(body_style 1)
@@ -20586,7 +20874,7 @@
 		(dnp no)
 		(uuid "34a3bfb5-bae4-4155-b3f1-2fea8ea44304")
 		(property "Reference" "R33"
-			(at 138.43 55.88 0)
+			(at 162.56 55.88 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20597,7 +20885,7 @@
 			)
 		)
 		(property "Value" "470k_1206"
-			(at 138.43 58.42 0)
+			(at 162.56 58.42 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20608,7 +20896,7 @@
 			)
 		)
 		(property "Footprint" "PCM_fab:R_1206"
-			(at 140.97 57.15 90)
+			(at 165.1 57.15 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20619,7 +20907,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 140.97 57.15 0)
+			(at 165.1 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20630,7 +20918,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 140.97 57.15 0)
+			(at 165.1 57.15 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21360,6 +21648,220 @@
 		)
 	)
 	(symbol
+		(lib_id "Energy_Meter_Sym_Lib:ERA8ARB203V")
+		(at 69.85 50.8 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "44ae2a64-b84b-46e4-8123-a2181aab6d4a")
+		(property "Reference" "R13"
+			(at 69.85 44.45 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "20k_1206"
+			(at 69.85 46.99 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Components_Footprint:RES_ERA8ARB203V"
+			(at 69.85 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 69.85 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "RES SMD 20K OHM 0.1% 1/4W 1206"
+			(at 69.85 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MF" "Panasonic"
+			(at 69.85 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "0.6 mm"
+			(at 69.85 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Package" "3216-2 Panasonic"
+			(at 69.85 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Price" "None"
+			(at 69.85 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/ERA8ARB203V/Panasonic/view-part/?ref=eda"
+			(at 69.85 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 69.85 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "PARTREV" "3/1/2020"
+			(at 69.85 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/ERA8ARB203V/Panasonic/view-part/?ref=snap"
+			(at 69.85 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MP" "ERA8ARB203V"
+			(at 69.85 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 69.85 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MANUFACTURER" "Panasonic"
+			(at 69.85 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(pin "1"
+			(uuid "b4727aee-10e1-410f-9155-8a533c6adca0")
+		)
+		(pin "2"
+			(uuid "3f9726aa-da33-427a-8687-a800dd68a3a6")
+		)
+		(instances
+			(project "Energy_Meter"
+				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
+					(reference "R13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "PCM_SparkFun-Connector:TestPoint_0.5mm")
 		(at 30.48 118.11 180)
 		(unit 1)
@@ -21882,7 +22384,7 @@
 	)
 	(symbol
 		(lib_id "PCM_SparkFun-PowerSymbol:3.3V")
-		(at 140.97 38.1 0)
+		(at 165.1 38.1 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -21893,7 +22395,7 @@
 		(fields_autoplaced yes)
 		(uuid "4c5be445-2ecb-4af0-a384-e8ff39e906ee")
 		(property "Reference" "#PWR012"
-			(at 140.97 41.91 0)
+			(at 165.1 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21904,7 +22406,7 @@
 			)
 		)
 		(property "Value" "3.3VA"
-			(at 140.97 34.29 0)
+			(at 165.1 34.29 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -21914,7 +22416,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 140.97 38.1 0)
+			(at 165.1 38.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21925,7 +22427,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 140.97 38.1 0)
+			(at 165.1 38.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21936,7 +22438,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"3.3V\""
-			(at 140.97 44.45 0)
+			(at 165.1 44.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22474,172 +22976,6 @@
 			(project "Energy_Meter"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "TP7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "RN73R2BTTD2002F25:RN73R2BTTD2002F25")
-		(at 53.34 40.64 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "56d4157c-5fac-42f3-8404-bf088ff2e406")
-		(property "Reference" "R15"
-			(at 53.34 34.29 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "20k_1206_1%"
-			(at 53.34 36.83 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Components_Footprint:RESC3216X70N"
-			(at 53.34 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Datasheet" ""
-			(at 53.34 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "RES 20K OHM 1% 1/4W 1206"
-			(at 53.34 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MF" "KOA Speer"
-			(at 53.34 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Package" "1206 KOA"
-			(at 53.34 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Price" "None"
-			(at 53.34 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/RN73R2BTTD2002F25/KOA+Speer/view-part/?ref=snap"
-			(at 53.34 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MP" "RN73R2BTTD2002F25"
-			(at 53.34 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 53.34 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/RN73R2BTTD2002F25/KOA+Speer/view-part/?ref=eda"
-			(at 53.34 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(pin "1"
-			(uuid "66c767a1-52f6-4978-af13-39549d88671c")
-		)
-		(pin "2"
-			(uuid "b08eaaad-c22c-4b80-ab8e-11af9e64445c")
-		)
-		(instances
-			(project "Energy_Meter"
-				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
-					(reference "R15")
 					(unit 1)
 				)
 			)
@@ -23862,6 +24198,220 @@
 		)
 	)
 	(symbol
+		(lib_id "Energy_Meter_Sym_Lib:ERA8ARB203V")
+		(at 44.45 50.8 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6f729a10-e747-497d-b0e8-f7aa131ed262")
+		(property "Reference" "R12"
+			(at 44.45 44.45 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "20k_1206"
+			(at 44.45 46.99 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Components_Footprint:RES_ERA8ARB203V"
+			(at 44.45 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 44.45 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "RES SMD 20K OHM 0.1% 1/4W 1206"
+			(at 44.45 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MF" "Panasonic"
+			(at 44.45 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "0.6 mm"
+			(at 44.45 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Package" "3216-2 Panasonic"
+			(at 44.45 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Price" "None"
+			(at 44.45 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/ERA8ARB203V/Panasonic/view-part/?ref=eda"
+			(at 44.45 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 44.45 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "PARTREV" "3/1/2020"
+			(at 44.45 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/ERA8ARB203V/Panasonic/view-part/?ref=snap"
+			(at 44.45 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MP" "ERA8ARB203V"
+			(at 44.45 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 44.45 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MANUFACTURER" "Panasonic"
+			(at 44.45 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(pin "1"
+			(uuid "b4727aee-10e1-410f-9155-8a533c6adca0")
+		)
+		(pin "2"
+			(uuid "3f9726aa-da33-427a-8687-a800dd68a3a6")
+		)
+		(instances
+			(project "Energy_Meter"
+				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
+					(reference "R12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "PCM_Capacitor_AKL:C_0805")
 		(at 344.17 87.63 0)
 		(mirror y)
@@ -24528,7 +25078,7 @@
 	)
 	(symbol
 		(lib_id "PCM_fab:R_1206")
-		(at 93.98 101.6 90)
+		(at 95.25 101.6 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -24539,7 +25089,7 @@
 		(fields_autoplaced yes)
 		(uuid "7bdcf49e-1a50-438e-b319-2ba1a5f3c833")
 		(property "Reference" "R22"
-			(at 93.98 95.25 90)
+			(at 95.25 95.25 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24549,7 +25099,7 @@
 			)
 		)
 		(property "Value" "100R_1206"
-			(at 93.98 97.79 90)
+			(at 95.25 97.79 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24559,7 +25109,7 @@
 			)
 		)
 		(property "Footprint" "PCM_fab:R_1206"
-			(at 93.98 101.6 90)
+			(at 95.25 101.6 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24570,7 +25120,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 93.98 101.6 0)
+			(at 95.25 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24581,7 +25131,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 93.98 101.6 0)
+			(at 95.25 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25057,8 +25607,86 @@
 		)
 	)
 	(symbol
+		(lib_id "PCM_SparkFun-Connector:TestPoint_0.5mm")
+		(at 88.9 101.6 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "84d0a3d0-2f97-4bf0-aff0-bac48c55c5ef")
+		(property "Reference" "TP18"
+			(at 88.9 96.52 0)
+			(show_name no)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0.5mm"
+			(at 88.9 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "PCM_SparkFun-Connector:TestPoint-0.5mm"
+			(at 88.9 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 88.9 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Test Point"
+			(at 88.9 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "93f3aac8-c4e0-40e1-9ff3-01473b1b2515")
+		)
+		(instances
+			(project "Energy_Meter"
+				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
+					(reference "TP18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "ZMPT101B:ZMPT101B")
-		(at 105.41 45.72 0)
+		(at 129.54 45.72 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -25069,7 +25697,7 @@
 		(fields_autoplaced yes)
 		(uuid "87a0423d-53e1-46c7-bd90-0382405e7eaa")
 		(property "Reference" "T1"
-			(at 106.7795 35.56 0)
+			(at 130.9095 35.56 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25079,7 +25707,7 @@
 			)
 		)
 		(property "Value" "ZMPT101B"
-			(at 106.7795 38.1 0)
+			(at 130.9095 38.1 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25089,7 +25717,7 @@
 			)
 		)
 		(property "Footprint" "Components_Footprint:XFMR_ZMPT101B"
-			(at 105.41 45.72 0)
+			(at 129.54 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25101,7 +25729,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 105.41 45.72 0)
+			(at 129.54 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25112,7 +25740,7 @@
 			)
 		)
 		(property "Description" "Current-type Voltage Transformer"
-			(at 105.41 45.72 0)
+			(at 129.54 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25124,7 +25752,7 @@
 			)
 		)
 		(property "MF" "Qingxian Zeming Langxi Electronic"
-			(at 105.41 45.72 0)
+			(at 129.54 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25136,7 +25764,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "18.8mm"
-			(at 105.41 45.72 0)
+			(at 129.54 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25148,7 +25776,7 @@
 			)
 		)
 		(property "Package" "None"
-			(at 105.41 45.72 0)
+			(at 129.54 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25160,7 +25788,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 105.41 45.72 0)
+			(at 129.54 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25172,7 +25800,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/ZMPT101B/Qingxian+Zeming+Langxi+Electronic/view-part/?ref=eda"
-			(at 105.41 45.72 0)
+			(at 129.54 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25184,7 +25812,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 105.41 45.72 0)
+			(at 129.54 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25196,7 +25824,7 @@
 			)
 		)
 		(property "PARTREV" "NA"
-			(at 105.41 45.72 0)
+			(at 129.54 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25208,7 +25836,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/ZMPT101B/Qingxian+Zeming+Langxi+Electronic/view-part/?ref=snap"
-			(at 105.41 45.72 0)
+			(at 129.54 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25220,7 +25848,7 @@
 			)
 		)
 		(property "MP" "ZMPT101B"
-			(at 105.41 45.72 0)
+			(at 129.54 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25232,7 +25860,7 @@
 			)
 		)
 		(property "Availability" "Not in stock"
-			(at 105.41 45.72 0)
+			(at 129.54 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25244,7 +25872,7 @@
 			)
 		)
 		(property "Manufacturer" "Qingxian Zeming Langxi Electronic"
-			(at 105.41 45.72 0)
+			(at 129.54 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26042,7 +26670,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x01")
-		(at 110.49 63.5 0)
+		(at 134.62 63.5 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -26053,7 +26681,7 @@
 		(fields_autoplaced yes)
 		(uuid "913fcaad-b8bb-4edd-b969-52965cd72345")
 		(property "Reference" "J10"
-			(at 113.03 62.23 0)
+			(at 137.16 62.23 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -26064,7 +26692,7 @@
 			)
 		)
 		(property "Value" "Conn_01x01"
-			(at 113.03 64.77 0)
+			(at 137.16 64.77 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -26074,8 +26702,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_4.3mm_M4_Pad_Via"
-			(at 110.49 63.5 0)
+		(property "Footprint" "MountingHole:MountingHole_4.3mm_M4_Pad"
+			(at 134.62 63.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26086,7 +26714,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 110.49 63.5 0)
+			(at 134.62 63.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26097,7 +26725,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 110.49 63.5 0)
+			(at 134.62 63.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26435,7 +27063,7 @@
 	)
 	(symbol
 		(lib_id "PCM_Diode_TVS_AKL:PESD5Z3.3")
-		(at 149.86 20.32 180)
+		(at 173.99 20.32 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -26446,7 +27074,7 @@
 		(fields_autoplaced yes)
 		(uuid "94b15829-483b-4351-a916-8968aad2db5c")
 		(property "Reference" "D5"
-			(at 149.86 13.97 0)
+			(at 173.99 13.97 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -26456,7 +27084,7 @@
 			)
 		)
 		(property "Value" "PESD5Z3.3"
-			(at 149.86 16.51 0)
+			(at 173.99 16.51 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -26466,7 +27094,7 @@
 			)
 		)
 		(property "Footprint" "PCM_Diode_SMD_AKL:D_SOD-523"
-			(at 149.86 20.32 0)
+			(at 173.99 20.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26477,7 +27105,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.tme.eu/Document/3c6a1b13f99e008797b9691fffda5f5d/PESD5ZX_SER.pdf"
-			(at 149.86 20.32 0)
+			(at 173.99 20.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26488,7 +27116,7 @@
 			)
 		)
 		(property "Description" "SOD-523 Unidirectional TVS diode, 3.3V, 260W, Alternate KiCAD Library"
-			(at 149.86 20.32 0)
+			(at 173.99 20.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27506,7 +28134,7 @@
 	)
 	(symbol
 		(lib_id "Energy_Meter_Sym_Lib:RC1206FR-07360RL")
-		(at 124.46 40.64 90)
+		(at 148.59 40.64 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -27517,7 +28145,7 @@
 		(fields_autoplaced yes)
 		(uuid "a1c53a40-ddd9-4150-bd09-f2bcd4526f58")
 		(property "Reference" "R9"
-			(at 128.27 39.37 90)
+			(at 152.4 39.37 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -27528,7 +28156,7 @@
 			)
 		)
 		(property "Value" "360_1206"
-			(at 128.27 41.91 90)
+			(at 152.4 41.91 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -27539,7 +28167,7 @@
 			)
 		)
 		(property "Footprint" "Components_Footprint:RESC3116X65N"
-			(at 124.46 40.64 0)
+			(at 148.59 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27551,7 +28179,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 124.46 40.64 0)
+			(at 148.59 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27562,7 +28190,7 @@
 			)
 		)
 		(property "Description" "360 Ohms ±1% 0.25W, 1/4W Chip Resistor 1206 (3216 Metric) Moisture Resistant Thick Film"
-			(at 124.46 40.64 0)
+			(at 148.59 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27574,7 +28202,7 @@
 			)
 		)
 		(property "MF" "Yageo"
-			(at 124.46 40.64 0)
+			(at 148.59 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27586,7 +28214,7 @@
 			)
 		)
 		(property "Package" "3116 Yageo"
-			(at 124.46 40.64 0)
+			(at 148.59 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27598,7 +28226,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 124.46 40.64 0)
+			(at 148.59 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27610,7 +28238,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/RC1206FR-07360RL/Yageo/view-part/?ref=snap"
-			(at 124.46 40.64 0)
+			(at 148.59 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27622,7 +28250,7 @@
 			)
 		)
 		(property "MP" "RC1206FR-07360RL"
-			(at 124.46 40.64 0)
+			(at 148.59 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27634,7 +28262,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 124.46 40.64 0)
+			(at 148.59 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27646,7 +28274,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/RC1206FR-07360RL/Yageo/view-part/?ref=eda"
-			(at 124.46 40.64 0)
+			(at 148.59 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28103,6 +28731,220 @@
 		)
 	)
 	(symbol
+		(lib_id "Energy_Meter_Sym_Lib:ERA8ARB203V")
+		(at 69.85 40.64 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ad872c7d-02c1-427a-bdb6-9a99a9ebc3f0")
+		(property "Reference" "R10"
+			(at 69.85 34.29 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "20k_1206"
+			(at 69.85 36.83 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Components_Footprint:RES_ERA8ARB203V"
+			(at 69.85 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 69.85 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "RES SMD 20K OHM 0.1% 1/4W 1206"
+			(at 69.85 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MF" "Panasonic"
+			(at 69.85 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "0.6 mm"
+			(at 69.85 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Package" "3216-2 Panasonic"
+			(at 69.85 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Price" "None"
+			(at 69.85 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/ERA8ARB203V/Panasonic/view-part/?ref=eda"
+			(at 69.85 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 69.85 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "PARTREV" "3/1/2020"
+			(at 69.85 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/ERA8ARB203V/Panasonic/view-part/?ref=snap"
+			(at 69.85 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MP" "ERA8ARB203V"
+			(at 69.85 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 69.85 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MANUFACTURER" "Panasonic"
+			(at 69.85 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(pin "1"
+			(uuid "b4727aee-10e1-410f-9155-8a533c6adca0")
+		)
+		(pin "2"
+			(uuid "3f9726aa-da33-427a-8687-a800dd68a3a6")
+		)
+		(instances
+			(project "Energy_Meter"
+				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
+					(reference "R10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_name "GND_2")
 		(lib_id "power:GND")
 		(at 267.97 90.17 0)
@@ -28258,6 +29100,298 @@
 			(project "Energy_Meter"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "J1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_SparkFun-Connector:TestPoint_0.5mm")
+		(at 168.91 109.22 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b41dc465-e28d-480f-a7c1-c6b9ed5f54ea")
+		(property "Reference" "TP27"
+			(at 168.91 114.3 0)
+			(show_name no)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0.5mm"
+			(at 168.91 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "PCM_SparkFun-Connector:TestPoint-0.5mm"
+			(at 168.91 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 168.91 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Test Point"
+			(at 168.91 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "96bc2160-3357-4c05-894b-c737485b502a")
+		)
+		(instances
+			(project "Energy_Meter"
+				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
+					(reference "TP27")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Energy_Meter_Sym_Lib:ERA8ARB203V")
+		(at 44.45 40.64 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b51eea60-66d8-4f16-883f-a705abeaad6b")
+		(property "Reference" "R5"
+			(at 44.45 34.29 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "20k_1206"
+			(at 44.45 36.83 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Components_Footprint:RES_ERA8ARB203V"
+			(at 44.45 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Datasheet" ""
+			(at 44.45 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "RES SMD 20K OHM 0.1% 1/4W 1206"
+			(at 44.45 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MF" "Panasonic"
+			(at 44.45 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "0.6 mm"
+			(at 44.45 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Package" "3216-2 Panasonic"
+			(at 44.45 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Price" "None"
+			(at 44.45 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/ERA8ARB203V/Panasonic/view-part/?ref=eda"
+			(at 44.45 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 44.45 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "PARTREV" "3/1/2020"
+			(at 44.45 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/ERA8ARB203V/Panasonic/view-part/?ref=snap"
+			(at 44.45 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MP" "ERA8ARB203V"
+			(at 44.45 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 44.45 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(property "MANUFACTURER" "Panasonic"
+			(at 44.45 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+			)
+		)
+		(pin "1"
+			(uuid "b4727aee-10e1-410f-9155-8a533c6adca0")
+		)
+		(pin "2"
+			(uuid "3f9726aa-da33-427a-8687-a800dd68a3a6")
+		)
+		(instances
+			(project "Energy_Meter"
+				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -28832,7 +29966,7 @@
 	)
 	(symbol
 		(lib_id "PCM_SparkFun-Connector:TestPoint_0.5mm")
-		(at 90.17 48.26 270)
+		(at 114.3 48.26 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -28842,7 +29976,7 @@
 		(dnp no)
 		(uuid "c1858074-0107-4fa6-bd4c-071769d8c430")
 		(property "Reference" "TP16"
-			(at 96.012 48.26 90)
+			(at 120.142 48.26 90)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -28852,7 +29986,7 @@
 			)
 		)
 		(property "Value" "0.5mm"
-			(at 86.36 48.26 0)
+			(at 110.49 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28863,7 +29997,7 @@
 			)
 		)
 		(property "Footprint" "PCM_SparkFun-Connector:TestPoint-0.5mm"
-			(at 83.82 48.26 0)
+			(at 107.95 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28874,7 +30008,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 82.55 48.26 0)
+			(at 106.68 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28885,7 +30019,7 @@
 			)
 		)
 		(property "Description" "Test Point"
-			(at 80.01 48.26 0)
+			(at 104.14 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29065,7 +30199,7 @@
 	(symbol
 		(lib_name "GND_1")
 		(lib_id "power:GND")
-		(at 151.13 62.23 0)
+		(at 175.26 62.23 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -29076,7 +30210,7 @@
 		(fields_autoplaced yes)
 		(uuid "c6ae21f5-fb21-48c4-8665-a8df5b5495a0")
 		(property "Reference" "#PWR017"
-			(at 151.13 68.58 0)
+			(at 175.26 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29087,7 +30221,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 151.13 67.31 0)
+			(at 175.26 67.31 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -29097,7 +30231,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 151.13 62.23 0)
+			(at 175.26 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29108,7 +30242,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 151.13 62.23 0)
+			(at 175.26 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29119,7 +30253,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 151.13 62.23 0)
+			(at 175.26 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29136,6 +30270,84 @@
 			(project "Energy_Meter"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "#PWR017")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_SparkFun-Connector:TestPoint_0.5mm")
+		(at 88.9 104.14 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c7e16935-178e-40e6-8339-676407257bce")
+		(property "Reference" "TP25"
+			(at 88.9 109.22 0)
+			(show_name no)
+			(do_not_autoplace yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0.5mm"
+			(at 88.9 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "PCM_SparkFun-Connector:TestPoint-0.5mm"
+			(at 88.9 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 88.9 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Test Point"
+			(at 88.9 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "93f3aac8-c4e0-40e1-9ff3-01473b1b2515")
+		)
+		(instances
+			(project "Energy_Meter"
+				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
+					(reference "TP25")
 					(unit 1)
 				)
 			)
@@ -29393,7 +30605,7 @@
 	)
 	(symbol
 		(lib_id "PCM_fab:R_1206")
-		(at 93.98 104.14 270)
+		(at 95.25 104.14 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -29403,7 +30615,7 @@
 		(dnp no)
 		(uuid "cad49965-dd52-46da-b5c8-81064cd62148")
 		(property "Reference" "R23"
-			(at 93.98 110.49 90)
+			(at 95.25 110.49 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -29413,7 +30625,7 @@
 			)
 		)
 		(property "Value" "100R_1206"
-			(at 93.98 107.95 90)
+			(at 95.25 107.95 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -29423,7 +30635,7 @@
 			)
 		)
 		(property "Footprint" "PCM_fab:R_1206"
-			(at 93.98 104.14 90)
+			(at 95.25 104.14 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29434,7 +30646,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 93.98 104.14 0)
+			(at 95.25 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29445,7 +30657,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 93.98 104.14 0)
+			(at 95.25 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29472,7 +30684,7 @@
 	)
 	(symbol
 		(lib_id "PCM_SparkFun-Connector:TestPoint_0.5mm")
-		(at 90.17 38.1 270)
+		(at 114.3 38.1 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -29482,7 +30694,7 @@
 		(dnp no)
 		(uuid "cadefd4d-be1b-45ca-a350-cdbf9d84d149")
 		(property "Reference" "TP13"
-			(at 96.012 38.1 90)
+			(at 120.142 38.1 90)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -29492,7 +30704,7 @@
 			)
 		)
 		(property "Value" "0.5mm"
-			(at 86.36 38.1 0)
+			(at 110.49 38.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29503,7 +30715,7 @@
 			)
 		)
 		(property "Footprint" "PCM_SparkFun-Connector:TestPoint-0.5mm"
-			(at 83.82 38.1 0)
+			(at 107.95 38.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29514,7 +30726,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 82.55 38.1 0)
+			(at 106.68 38.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29525,7 +30737,7 @@
 			)
 		)
 		(property "Description" "Test Point"
-			(at 80.01 38.1 0)
+			(at 104.14 38.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29708,7 +30920,7 @@
 	)
 	(symbol
 		(lib_id "PCM_SparkFun-Connector:TestPoint_0.5mm")
-		(at 146.05 30.48 180)
+		(at 170.18 30.48 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -29719,7 +30931,7 @@
 		(fields_autoplaced yes)
 		(uuid "d1444b62-7913-49b8-a09c-80821ec29a46")
 		(property "Reference" "TP1"
-			(at 146.05 35.56 0)
+			(at 170.18 35.56 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -29729,7 +30941,7 @@
 			)
 		)
 		(property "Value" "0.5mm"
-			(at 146.05 26.67 0)
+			(at 170.18 26.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29740,7 +30952,7 @@
 			)
 		)
 		(property "Footprint" "PCM_SparkFun-Connector:TestPoint-0.5mm"
-			(at 146.05 24.13 0)
+			(at 170.18 24.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29751,7 +30963,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 146.05 22.86 0)
+			(at 170.18 22.86 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29762,7 +30974,7 @@
 			)
 		)
 		(property "Description" "Test Point"
-			(at 146.05 20.32 0)
+			(at 170.18 20.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29965,7 +31177,7 @@
 	)
 	(symbol
 		(lib_id "PCM_fab:R_1206")
-		(at 140.97 44.45 0)
+		(at 165.1 44.45 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -29976,7 +31188,7 @@
 		(fields_autoplaced yes)
 		(uuid "d5915704-0517-4460-af99-b6eed80d0303")
 		(property "Reference" "R31"
-			(at 143.51 43.18 0)
+			(at 167.64 43.18 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -29987,7 +31199,7 @@
 			)
 		)
 		(property "Value" "470k_1206"
-			(at 143.51 45.72 0)
+			(at 167.64 45.72 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -29998,7 +31210,7 @@
 			)
 		)
 		(property "Footprint" "PCM_fab:R_1206"
-			(at 140.97 44.45 90)
+			(at 165.1 44.45 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30009,7 +31221,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 140.97 44.45 0)
+			(at 165.1 44.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30020,7 +31232,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 140.97 44.45 0)
+			(at 165.1 44.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30203,172 +31415,6 @@
 			(project "Energy_Meter"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "TP24")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "RN73R2BTTD2002F25:RN73R2BTTD2002F25")
-		(at 30.48 40.64 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d75bd1af-1f15-472b-b5e4-5ef3c205a8c7")
-		(property "Reference" "R11"
-			(at 30.48 34.29 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "20k_1206_1%"
-			(at 30.48 36.83 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Components_Footprint:RESC3216X70N"
-			(at 30.48 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Datasheet" ""
-			(at 30.48 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "RES 20K OHM 1% 1/4W 1206"
-			(at 30.48 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MF" "KOA Speer"
-			(at 30.48 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Package" "1206 KOA"
-			(at 30.48 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Price" "None"
-			(at 30.48 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/RN73R2BTTD2002F25/KOA+Speer/view-part/?ref=snap"
-			(at 30.48 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MP" "RN73R2BTTD2002F25"
-			(at 30.48 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 30.48 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/RN73R2BTTD2002F25/KOA+Speer/view-part/?ref=eda"
-			(at 30.48 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(pin "1"
-			(uuid "3d5860ea-ee72-4e7b-b145-d9ff5dd8c360")
-		)
-		(pin "2"
-			(uuid "79dcd10b-cbfc-4544-8a95-727bdb69b39a")
-		)
-		(instances
-			(project "Energy_Meter"
-				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
-					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -31405,7 +32451,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_4.3mm_M4_Pad_Via"
+		(property "Footprint" "MountingHole:MountingHole_4.3mm_M4_Pad"
 			(at 34.29 207.01 0)
 			(hide yes)
 			(show_name no)
@@ -31445,172 +32491,6 @@
 			(project "Energy_Meter"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "J5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "RN73R2BTTD2002F25:RN73R2BTTD2002F25")
-		(at 76.2 50.8 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e067d97c-6829-4c89-b8bd-0de3e5772cf7")
-		(property "Reference" "R29"
-			(at 76.2 44.45 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "20k_1206_1%"
-			(at 76.2 46.99 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Components_Footprint:RESC3216X70N"
-			(at 76.2 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Datasheet" ""
-			(at 76.2 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "RES 20K OHM 1% 1/4W 1206"
-			(at 76.2 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MF" "KOA Speer"
-			(at 76.2 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Package" "1206 KOA"
-			(at 76.2 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Price" "None"
-			(at 76.2 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/RN73R2BTTD2002F25/KOA+Speer/view-part/?ref=snap"
-			(at 76.2 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MP" "RN73R2BTTD2002F25"
-			(at 76.2 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 76.2 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/RN73R2BTTD2002F25/KOA+Speer/view-part/?ref=eda"
-			(at 76.2 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(pin "1"
-			(uuid "3a2c1297-31cb-45fd-9602-1bf4566f3f46")
-		)
-		(pin "2"
-			(uuid "7d60b8f6-cdf2-4978-8fb2-8301caf1729d")
-		)
-		(instances
-			(project "Energy_Meter"
-				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
-					(reference "R29")
 					(unit 1)
 				)
 			)
@@ -31868,7 +32748,7 @@
 	)
 	(symbol
 		(lib_id "PCM_SparkFun-PowerSymbol:GND")
-		(at 154.94 22.86 0)
+		(at 179.07 22.86 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -31879,7 +32759,7 @@
 		(fields_autoplaced yes)
 		(uuid "e299be97-5146-495c-b263-8585918793f8")
 		(property "Reference" "#PWR018"
-			(at 154.94 29.21 0)
+			(at 179.07 29.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31890,7 +32770,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 154.94 26.67 0)
+			(at 179.07 26.67 0)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -31900,7 +32780,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 154.94 22.86 0)
+			(at 179.07 22.86 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31911,7 +32791,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 154.94 22.86 0)
+			(at 179.07 22.86 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31922,7 +32802,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 154.94 31.75 0)
+			(at 179.07 31.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31946,7 +32826,7 @@
 	)
 	(symbol
 		(lib_id "PCM_SparkFun-Connector:TestPoint_0.5mm")
-		(at 129.54 48.26 270)
+		(at 153.67 48.26 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -31956,7 +32836,7 @@
 		(dnp no)
 		(uuid "e2f025a5-778d-404c-b3a6-f643b70ebfd4")
 		(property "Reference" "TP2"
-			(at 135.382 48.26 90)
+			(at 159.512 48.26 90)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -31966,7 +32846,7 @@
 			)
 		)
 		(property "Value" "0.5mm"
-			(at 125.73 48.26 0)
+			(at 149.86 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31977,7 +32857,7 @@
 			)
 		)
 		(property "Footprint" "PCM_SparkFun-Connector:TestPoint-0.5mm"
-			(at 123.19 48.26 0)
+			(at 147.32 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31988,7 +32868,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 121.92 48.26 0)
+			(at 146.05 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31999,7 +32879,7 @@
 			)
 		)
 		(property "Description" "Test Point"
-			(at 119.38 48.26 0)
+			(at 143.51 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32537,172 +33417,6 @@
 		)
 	)
 	(symbol
-		(lib_id "RN73R2BTTD2002F25:RN73R2BTTD2002F25")
-		(at 76.2 40.64 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "eaef5c4d-375f-4588-aec6-1dd425e8b20d")
-		(property "Reference" "R26"
-			(at 76.2 34.29 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "20k_1206_1%"
-			(at 76.2 36.83 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Components_Footprint:RESC3216X70N"
-			(at 76.2 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Datasheet" ""
-			(at 76.2 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "RES 20K OHM 1% 1/4W 1206"
-			(at 76.2 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MF" "KOA Speer"
-			(at 76.2 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Package" "1206 KOA"
-			(at 76.2 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Price" "None"
-			(at 76.2 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/RN73R2BTTD2002F25/KOA+Speer/view-part/?ref=snap"
-			(at 76.2 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "MP" "RN73R2BTTD2002F25"
-			(at 76.2 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Availability" "In Stock"
-			(at 76.2 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Check_prices" "https://www.snapeda.com/parts/RN73R2BTTD2002F25/KOA+Speer/view-part/?ref=eda"
-			(at 76.2 40.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(pin "1"
-			(uuid "b0b435d4-256b-4b8d-a151-2f01960c8708")
-		)
-		(pin "2"
-			(uuid "a4a0824d-66cc-46e3-b62a-63072cdbb045")
-		)
-		(instances
-			(project "Energy_Meter"
-				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
-					(reference "R26")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_name "GND_6")
 		(lib_id "power:GND")
 		(at 344.17 93.98 0)
@@ -32862,7 +33576,7 @@
 	)
 	(symbol
 		(lib_id "PCM_SparkFun-Connector:TestPoint_0.5mm")
-		(at 154.94 20.32 270)
+		(at 179.07 20.32 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -32872,7 +33586,7 @@
 		(dnp no)
 		(uuid "f1f94119-a13d-4731-88ad-48124542f785")
 		(property "Reference" "TP3"
-			(at 160.782 20.32 90)
+			(at 184.912 20.32 90)
 			(show_name no)
 			(do_not_autoplace yes)
 			(effects
@@ -32882,7 +33596,7 @@
 			)
 		)
 		(property "Value" "0.5mm"
-			(at 151.13 20.32 0)
+			(at 175.26 20.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32893,7 +33607,7 @@
 			)
 		)
 		(property "Footprint" "PCM_SparkFun-Connector:TestPoint-0.5mm"
-			(at 148.59 20.32 0)
+			(at 172.72 20.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32904,7 +33618,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 147.32 20.32 0)
+			(at 171.45 20.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32915,7 +33629,7 @@
 			)
 		)
 		(property "Description" "Test Point"
-			(at 144.78 20.32 0)
+			(at 168.91 20.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32939,7 +33653,7 @@
 	)
 	(symbol
 		(lib_id "PCM_SparkFun-Capacitor:10uF_0805_25V_10%")
-		(at 151.13 55.88 0)
+		(at 175.26 55.88 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -32950,7 +33664,7 @@
 		(fields_autoplaced yes)
 		(uuid "f2f38357-b122-43b6-b056-bdb00ef045d3")
 		(property "Reference" "C41"
-			(at 153.67 52.0763 0)
+			(at 177.8 52.0763 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -32961,7 +33675,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 153.67 54.6163 0)
+			(at 177.8 54.6163 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -32972,7 +33686,7 @@
 			)
 		)
 		(property "Footprint" "PCM_SparkFun-Capacitor:C_0805_2012Metric"
-			(at 151.13 67.31 0)
+			(at 175.26 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32983,7 +33697,7 @@
 			)
 		)
 		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/4888/TMK212BBJ106KG-T_SS.pdf"
-			(at 151.13 72.39 0)
+			(at 175.26 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32994,7 +33708,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 151.13 74.93 0)
+			(at 175.26 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33005,7 +33719,7 @@
 			)
 		)
 		(property "PROD_ID" "CAP-14259"
-			(at 149.86 69.85 0)
+			(at 173.99 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33016,7 +33730,7 @@
 			)
 		)
 		(property "Voltage" "25V"
-			(at 153.67 57.1563 0)
+			(at 177.8 57.1563 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -33027,7 +33741,7 @@
 			)
 		)
 		(property "Tolerance" "10%"
-			(at 153.67 59.6963 0)
+			(at 177.8 59.6963 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -33242,7 +33956,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_4.3mm_M4_Pad_Via"
+		(property "Footprint" "MountingHole:MountingHole_4.3mm_M4_Pad"
 			(at 78.74 207.01 0)
 			(hide yes)
 			(show_name no)
