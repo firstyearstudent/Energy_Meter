@@ -615,6 +615,7 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
+      "step": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -819,6 +820,18 @@
           "label": "#",
           "name": "${ITEM_NUMBER}",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Current",
+          "name": "Current",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MANUFACTURER",
+          "name": "MANUFACTURER",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -869,7 +882,7 @@
         "uuid": "f1165764-c0ad-44d1-803d-0af7aad26c11"
       }
     ],
-    "used_designators": "J2,J4-6,J9-11,R10_Burden1,R3-43,TP1-27,L1-2,DZ1-3,SW4-8,X1-2,DS1-2,C1-48,D1-11,U3,U5-8,#PWR25-26,#PWR43-68,Y1-2",
+    "used_designators": "J2,J4-11,R10_Burden1,R3-43,TP1-28,L1-2,DZ1-3,SW4-8,X1-2,DS1-2,C1-48,D1-11,U2-3,U5-8,#PWR3,#PWR15,#PWR25-26,#PWR43-68,Y1-2",
     "variants": []
   },
   "sheets": [
