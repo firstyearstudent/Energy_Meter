@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "10.0.5-1.fc43"
     },
-    "CreationDate": "2026-07-27T16:48:14+07:00"
+    "CreationDate": "2026-07-27T17:07:38+07:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -34,47 +34,47 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "Energy_Meter-F_Cu.gtl",
+      "Path": "Energy_Meter-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Energy_Meter-B_Cu.gbl",
+      "Path": "Energy_Meter-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Energy_Meter-F_Paste.gtp",
+      "Path": "Energy_Meter-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Energy_Meter-B_Paste.gbp",
+      "Path": "Energy_Meter-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Energy_Meter-F_Silkscreen.gto",
+      "Path": "Energy_Meter-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Energy_Meter-B_Silkscreen.gbo",
+      "Path": "Energy_Meter-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "Energy_Meter-F_Mask.gts",
+      "Path": "Energy_Meter-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "Energy_Meter-B_Mask.gbs",
+      "Path": "Energy_Meter-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "Energy_Meter-Edge_Cuts.gm1",
+      "Path": "Energy_Meter-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
