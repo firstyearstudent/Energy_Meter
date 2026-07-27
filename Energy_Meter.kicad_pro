@@ -146,7 +146,7 @@
       },
       "rules": {
         "max_error": 0.005,
-        "min_clearance": 0.2,
+        "min_clearance": 0.15,
         "min_connection": 0.0,
         "min_copper_edge_clearance": 1.5,
         "min_groove_width": 0.0,
@@ -244,7 +244,7 @@
           "drill": 0.0
         },
         {
-          "diameter": 0.6,
+          "diameter": 0.7,
           "drill": 0.3
         }
       ],
@@ -512,7 +512,7 @@
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 0.2,
+        "clearance": 0.15,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -882,7 +882,7 @@
         "uuid": "f1165764-c0ad-44d1-803d-0af7aad26c11"
       }
     ],
-    "used_designators": "J2,J4-11,R10_Burden1,R3-43,TP1-28,L1-2,DZ1-3,SW4-8,X1-2,DS1-2,C1-48,D1-11,U2-3,U5-8,#PWR3,#PWR15,#PWR25-26,#PWR43-68,Y1-2",
+    "used_designators": "J2,J4-11,R10_Burden1,R3-43,TP1-28,L1-2,DZ1-3,SW4-8,X1-2,DS1-2,C1-48,D1-11,U2-3,U5-8,Y1-2,#PWR3,#PWR15,#PWR25-26,#PWR43-68",
     "variants": []
   },
   "sheets": [

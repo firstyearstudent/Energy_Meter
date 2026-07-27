@@ -1,0 +1,46 @@
+### Missing 3D models - created on 2026-07-27 15:13
+### Printed by checking_3D_models plugin
+Board file: /home/manhquan/KiCAD_Projects/Energy_Meter/Energy_Meter.kicad_pcb
+3D missing models written to:
+/home/manhquan/KiCAD_Projects/Energy_Meter/Energy_Meter_missing3Dmodels.txt
+-------
+('R19', '${KICAD9_3RD_PARTY}/3dmodels/org_fabcloud_gitlab_electronics_kicad/fab.3dshapes/Resistor-1206.step')
+('R23', '${KICAD9_3RD_PARTY}/3dmodels/org_fabcloud_gitlab_electronics_kicad/fab.3dshapes/Resistor-1206.step')
+('R31', '${KICAD9_3RD_PARTY}/3dmodels/org_fabcloud_gitlab_electronics_kicad/fab.3dshapes/Resistor-1206.step')
+('R42', '${KICAD9_3RD_PARTY}/3dmodels/org_fabcloud_gitlab_electronics_kicad/fab.3dshapes/Resistor-1206.step')
+('R37', '${KICAD9_3RD_PARTY}/3dmodels/org_fabcloud_gitlab_electronics_kicad/fab.3dshapes/Resistor-1206.step')
+('R21', '${KICAD9_3RD_PARTY}/3dmodels/org_fabcloud_gitlab_electronics_kicad/fab.3dshapes/Resistor-1206.step')
+('R38', '${KICAD9_3RD_PARTY}/3dmodels/org_fabcloud_gitlab_electronics_kicad/fab.3dshapes/Resistor-1206.step')
+('R3', '${KICAD9_3RD_PARTY}/3dmodels/com_github_sparkfun_SparkFun-KiCad-Libraries/Resistor.3dshapes/R_0603_1608Metric.step')
+('C43', '${KICAD9_3RD_PARTY}/3dmodels/com_github_sparkfun_SparkFun-KiCad-Libraries/Capacitor.3dshapes/C_0805_2012Metric.step')
+('R30', '${KICAD9_3RD_PARTY}/3dmodels/org_fabcloud_gitlab_electronics_kicad/fab.3dshapes/Resistor-1206.step')
+('R25', '${KICAD9_3RD_PARTY}/3dmodels/org_fabcloud_gitlab_electronics_kicad/fab.3dshapes/Resistor-1206.step')
+('R22', '${KICAD9_3RD_PARTY}/3dmodels/org_fabcloud_gitlab_electronics_kicad/fab.3dshapes/Resistor-1206.step')
+('R27', '${KICAD9_3RD_PARTY}/3dmodels/org_fabcloud_gitlab_electronics_kicad/fab.3dshapes/Resistor-1206.step')
+('R28', '${KICAD9_3RD_PARTY}/3dmodels/org_fabcloud_gitlab_electronics_kicad/fab.3dshapes/Resistor-1206.step')
+('C6', '${KICAD9_3RD_PARTY}/3dmodels/com_github_sparkfun_SparkFun-KiCad-Libraries/Capacitor.3dshapes/C_0805_2012Metric.step')
+('R24', '${KICAD9_3RD_PARTY}/3dmodels/org_fabcloud_gitlab_electronics_kicad/fab.3dshapes/Resistor-1206.step')
+('R33', '${KICAD9_3RD_PARTY}/3dmodels/org_fabcloud_gitlab_electronics_kicad/fab.3dshapes/Resistor-1206.step')
+('C41', '${KICAD9_3RD_PARTY}/3dmodels/com_github_sparkfun_SparkFun-KiCad-Libraries/Capacitor.3dshapes/C_0805_2012Metric.step')
+('D1', '${KICAD9_3RD_PARTY}/3dmodels/com_github_sparkfun_SparkFun-KiCad-Libraries/LED.3dshapes/LED_1206_3216Metric_Castellated_Red.step')
+('D2', '${KICAD9_3RD_PARTY}/3dmodels/com_github_sparkfun_SparkFun-KiCad-Libraries/LED.3dshapes/LED_1206_3216Metric_Castellated_Red.step')
+('C5', '${KICAD9_3RD_PARTY}/3dmodels/com_github_sparkfun_SparkFun-KiCad-Libraries/Capacitor.3dshapes/C_0805_2012Metric.step')
+('C39', '${KICAD9_3RD_PARTY}/3dmodels/com_github_sparkfun_SparkFun-KiCad-Libraries/Capacitor.3dshapes/C_0805_2012Metric.step')
+('J9', '${KICAD9_3RD_PARTY}/3dmodels/com_github_sparkfun_SparkFun-KiCad-Libraries/Connector.3dshapes/Screw_Terminal_3.5mm_2P_Black.step')
+('J3', '${KICAD9_3RD_PARTY}/3dmodels/com_github_sparkfun_SparkFun-KiCad-Libraries/Connector.3dshapes/USB-C_16.step')
+('C9', '${KICAD9_3RD_PARTY}/3dmodels/com_github_sparkfun_SparkFun-KiCad-Libraries/Capacitor.3dshapes/C_0805_2012Metric.step')
+('R36', '${KICAD9_3RD_PARTY}/3dmodels/org_fabcloud_gitlab_electronics_kicad/fab.3dshapes/Resistor-1206.step')
+('D3', '${KICAD9_3RD_PARTY}/3dmodels/com_github_sparkfun_SparkFun-KiCad-Libraries/LED.3dshapes/LED_1206_3216Metric_Castellated_Red.step')
+('C13', '${KICAD9_3RD_PARTY}/3dmodels/com_github_sparkfun_SparkFun-KiCad-Libraries/Capacitor.3dshapes/C_0805_2012Metric.step')
+('C3', '${KICAD9_3RD_PARTY}/3dmodels/com_github_sparkfun_SparkFun-KiCad-Libraries/Capacitor.3dshapes/C_0805_2012Metric.step')
+('D4', '${KICAD9_3RD_PARTY}/3dmodels/com_github_sparkfun_SparkFun-KiCad-Libraries/LED.3dshapes/LED_1206_3216Metric_Castellated_Red.step')
+('L1', '${KICAD9_3RD_PARTY}/3dmodels/com_github_sparkfun_SparkFun-KiCad-Libraries/Coil.3dshapes/L_0805_2012Metric.step')
+('C4', '${KICAD9_3RD_PARTY}/3dmodels/com_github_sparkfun_SparkFun-KiCad-Libraries/Capacitor.3dshapes/C_0805_2012Metric.step')
+('C38', '${KICAD9_3RD_PARTY}/3dmodels/com_github_sparkfun_SparkFun-KiCad-Libraries/Capacitor.3dshapes/C_0805_2012Metric.step')
+('C36', '${KICAD9_3RD_PARTY}/3dmodels/com_github_sparkfun_SparkFun-KiCad-Libraries/Capacitor.3dshapes/C_0805_2012Metric.step')
+('C37', '${KICAD9_3RD_PARTY}/3dmodels/com_github_sparkfun_SparkFun-KiCad-Libraries/Capacitor.3dshapes/C_0805_2012Metric.step')
+('R35', '${KICAD9_3RD_PARTY}/3dmodels/org_fabcloud_gitlab_electronics_kicad/fab.3dshapes/Resistor-1206.step')
+('C34', '${KICAD9_3RD_PARTY}/3dmodels/com_github_sparkfun_SparkFun-KiCad-Libraries/Capacitor.3dshapes/C_0805_2012Metric.step')
+-------
+NUM of 3D missing models:37
+checked extensions ['.stp', '.step', '.stpZ']
