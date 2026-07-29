@@ -12536,7 +12536,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 246.38) (xy 193.04 246.38)
+			(xy 179.07 246.38) (xy 185.42 246.38)
 		)
 		(stroke
 			(width 0)
@@ -12616,7 +12616,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 233.68) (xy 193.04 233.68)
+			(xy 179.07 233.68) (xy 185.42 233.68)
 		)
 		(stroke
 			(width 0)
@@ -13036,7 +13036,7 @@
 	)
 	(wire
 		(pts
-			(xy 228.6 210.82) (xy 233.68 210.82)
+			(xy 228.6 210.82) (xy 245.11 210.82)
 		)
 		(stroke
 			(width 0)
@@ -13386,7 +13386,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 243.84) (xy 193.04 243.84)
+			(xy 179.07 243.84) (xy 185.42 243.84)
 		)
 		(stroke
 			(width 0)
@@ -13406,7 +13406,7 @@
 	)
 	(wire
 		(pts
-			(xy 228.6 208.28) (xy 233.68 208.28)
+			(xy 228.6 208.28) (xy 245.11 208.28)
 		)
 		(stroke
 			(width 0)
@@ -13483,6 +13483,16 @@
 			(type default)
 		)
 		(uuid "6b01e588-8f6e-4411-8f97-5ee212c6a0e4")
+	)
+	(wire
+		(pts
+			(xy 241.3 213.36) (xy 245.11 213.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6b323495-69c3-452d-8944-1cc584499cf9")
 	)
 	(wire
 		(pts
@@ -13566,7 +13576,7 @@
 	)
 	(wire
 		(pts
-			(xy 228.6 205.74) (xy 233.68 205.74)
+			(xy 228.6 205.74) (xy 245.11 205.74)
 		)
 		(stroke
 			(width 0)
@@ -14256,6 +14266,16 @@
 	)
 	(wire
 		(pts
+			(xy 241.3 215.9) (xy 245.11 215.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9968e6d2-2006-4c5a-907e-b1e8f1583f9e")
+	)
+	(wire
+		(pts
 			(xy 137.16 50.8) (xy 148.59 50.8)
 		)
 		(stroke
@@ -14283,16 +14303,6 @@
 			(type default)
 		)
 		(uuid "9a526db4-d818-4ed7-9dbe-d3e22e0d70a3")
-	)
-	(wire
-		(pts
-			(xy 228.6 223.52) (xy 256.54 223.52)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9a90307d-d842-4228-ac0f-7e480f1e613f")
 	)
 	(wire
 		(pts
@@ -14376,6 +14386,16 @@
 	)
 	(wire
 		(pts
+			(xy 228.6 223.52) (xy 256.54 223.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9e21f580-956e-45a5-8cfd-6470f8eefbf5")
+	)
+	(wire
+		(pts
 			(xy 351.79 114.3) (xy 351.79 116.84)
 		)
 		(stroke
@@ -14423,6 +14443,16 @@
 			(type default)
 		)
 		(uuid "a17b796f-7d32-43e0-8870-79895b4bd0d5")
+	)
+	(wire
+		(pts
+			(xy 228.6 226.06) (xy 256.54 226.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a186fb75-a2cd-41a8-9bbf-99973c47b01e")
 	)
 	(wire
 		(pts
@@ -14516,7 +14546,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 248.92) (xy 193.04 248.92)
+			(xy 179.07 248.92) (xy 193.04 248.92)
 		)
 		(stroke
 			(width 0)
@@ -15566,7 +15596,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 236.22) (xy 193.04 236.22)
+			(xy 179.07 236.22) (xy 185.42 236.22)
 		)
 		(stroke
 			(width 0)
@@ -15713,16 +15743,6 @@
 			(type default)
 		)
 		(uuid "f40dced1-3e39-4bb9-8ba7-4c1e14f25f51")
-	)
-	(wire
-		(pts
-			(xy 228.6 226.06) (xy 256.54 226.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f41c62c8-9e03-4955-811a-9f8a0e5f6354")
 	)
 	(wire
 		(pts
@@ -15975,7 +15995,7 @@
 		(uuid "00743e85-644a-4e3e-b81b-8f9308bf9053")
 	)
 	(label "SDA2"
-		(at 182.88 246.38 0)
+		(at 179.07 246.38 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15995,7 +16015,7 @@
 		(uuid "03773554-c7af-4fdb-b41a-23e39e5ff75e")
 	)
 	(label "SCL2"
-		(at 182.88 243.84 0)
+		(at 179.07 243.84 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -16005,7 +16025,7 @@
 		(uuid "0455c03c-1e5e-4c26-bf27-f436e933ba3b")
 	)
 	(label "SCL1"
-		(at 182.88 233.68 0)
+		(at 179.07 233.68 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -16035,7 +16055,7 @@
 		(uuid "122ea97d-a1e6-47ac-859d-5b3db4b52200")
 	)
 	(label "RANGE"
-		(at 233.68 210.82 0)
+		(at 245.11 210.82 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -16095,7 +16115,7 @@
 		(uuid "490d08d5-fc79-42f9-a3dc-e2776a73030d")
 	)
 	(label "SWDIO"
-		(at 233.68 223.52 0)
+		(at 245.11 223.52 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -16115,7 +16135,7 @@
 		(uuid "54a817cc-b60e-47e1-8e83-04154c4ac2d6")
 	)
 	(label "RX"
-		(at 233.68 215.9 0)
+		(at 245.11 215.9 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -16125,7 +16145,7 @@
 		(uuid "5b1e148f-e2e0-4d9a-a38a-1c56f73905f6")
 	)
 	(label "SDA1"
-		(at 182.88 236.22 0)
+		(at 179.07 236.22 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -16135,7 +16155,7 @@
 		(uuid "5cf9ca89-7073-4671-9fe6-784734304b05")
 	)
 	(label "EC_B"
-		(at 233.68 205.74 0)
+		(at 245.11 205.74 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -16155,7 +16175,7 @@
 		(uuid "67f4e3d5-0d06-411b-a976-cf29b48bb06b")
 	)
 	(label "SWCLK"
-		(at 233.68 226.06 0)
+		(at 245.11 226.06 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -16165,7 +16185,7 @@
 		(uuid "68606100-15c9-485d-9cd7-bcd5dba344b4")
 	)
 	(label "TX"
-		(at 233.68 213.36 0)
+		(at 245.11 213.36 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -16195,7 +16215,7 @@
 		(uuid "6f429669-1212-4319-b83c-80a04d4c1bbe")
 	)
 	(label "EC_A"
-		(at 233.68 208.28 0)
+		(at 245.11 208.28 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -16235,7 +16255,7 @@
 		(uuid "8c40305d-d6ca-4902-bcd4-d4c9be582014")
 	)
 	(label "PUSH"
-		(at 182.88 248.92 0)
+		(at 179.07 248.92 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -22070,6 +22090,85 @@
 		)
 	)
 	(symbol
+		(lib_id "PCM_Resistor_AKL:R_0805")
+		(at 237.49 215.9 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "388d7675-7db6-41d1-b25a-af6c866f0719")
+		(property "Reference" "R47"
+			(at 237.49 220.218 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0R_0805"
+			(at 237.49 218.186 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "PCM_Resistor_SMD_AKL:R_0805_2012Metric"
+			(at 248.92 215.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 237.49 215.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "SMD 0805 Chip Resistor, European Symbol, Alternate KiCad Library"
+			(at 237.49 215.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "19e04fbc-4c5d-4ac1-8d25-410cb30a334a")
+		)
+		(pin "1"
+			(uuid "aa435f5f-a239-4b15-a313-d59ad5fbf084")
+		)
+		(instances
+			(project "Energy_Meter"
+				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
+					(reference "R47")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "PCM_SparkFun-Capacitor:10uF_0805_25V_10%")
 		(at 69.85 100.33 0)
 		(unit 1)
@@ -24561,6 +24660,165 @@
 			(project "Energy_Meter"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "TP14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_Resistor_AKL:R_0805")
+		(at 237.49 213.36 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "5134488d-ace2-4dcf-840f-a779fa09db64")
+		(property "Reference" "R46"
+			(at 237.49 209.55 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0R_0805"
+			(at 237.49 211.328 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "PCM_Resistor_SMD_AKL:R_0805_2012Metric"
+			(at 248.92 213.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 237.49 213.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "SMD 0805 Chip Resistor, European Symbol, Alternate KiCad Library"
+			(at 237.49 213.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "19e04fbc-4c5d-4ac1-8d25-410cb30a334a")
+		)
+		(pin "1"
+			(uuid "aa435f5f-a239-4b15-a313-d59ad5fbf084")
+		)
+		(instances
+			(project "Energy_Meter"
+				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
+					(reference "R46")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_Resistor_AKL:R_0805")
+		(at 189.23 236.22 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "533607e9-0bc2-4986-9e76-73f4d0e3fa79")
+		(property "Reference" "R29"
+			(at 189.23 229.87 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0R_0805"
+			(at 189.23 232.41 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "PCM_Resistor_SMD_AKL:R_0805_2012Metric"
+			(at 200.66 236.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 189.23 236.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "SMD 0805 Chip Resistor, European Symbol, Alternate KiCad Library"
+			(at 189.23 236.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "19e04fbc-4c5d-4ac1-8d25-410cb30a334a")
+		)
+		(pin "1"
+			(uuid "aa435f5f-a239-4b15-a313-d59ad5fbf084")
+		)
+		(instances
+			(project "Energy_Meter"
+				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
+					(reference "R29")
 					(unit 1)
 				)
 			)
@@ -33207,6 +33465,86 @@
 		)
 	)
 	(symbol
+		(lib_id "PCM_Resistor_AKL:R_0805")
+		(at 189.23 233.68 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b4b49ac3-0cdf-4a92-bd56-7a20d9b4e2b1")
+		(property "Reference" "R15"
+			(at 189.23 227.33 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0R_0805"
+			(at 189.23 229.87 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "PCM_Resistor_SMD_AKL:R_0805_2012Metric"
+			(at 200.66 233.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 189.23 233.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "SMD 0805 Chip Resistor, European Symbol, Alternate KiCad Library"
+			(at 189.23 233.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "19e04fbc-4c5d-4ac1-8d25-410cb30a334a")
+		)
+		(pin "1"
+			(uuid "aa435f5f-a239-4b15-a313-d59ad5fbf084")
+		)
+		(instances
+			(project "Energy_Meter"
+				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
+					(reference "R15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Energy_Meter_Sym_Lib:ERA8ARB203V")
 		(at 44.45 40.64 0)
 		(unit 1)
@@ -35416,6 +35754,86 @@
 			(project "Energy_Meter"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "#PWR028")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_Resistor_AKL:R_0805")
+		(at 189.23 243.84 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cdeedb70-184d-4df2-889b-ce66015f658e")
+		(property "Reference" "R34"
+			(at 189.23 237.49 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0R_0805"
+			(at 189.23 240.03 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "PCM_Resistor_SMD_AKL:R_0805_2012Metric"
+			(at 200.66 243.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 189.23 243.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "SMD 0805 Chip Resistor, European Symbol, Alternate KiCad Library"
+			(at 189.23 243.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "19e04fbc-4c5d-4ac1-8d25-410cb30a334a")
+		)
+		(pin "1"
+			(uuid "aa435f5f-a239-4b15-a313-d59ad5fbf084")
+		)
+		(instances
+			(project "Energy_Meter"
+				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
+					(reference "R34")
 					(unit 1)
 				)
 			)
@@ -38750,6 +39168,86 @@
 			(project "Energy_Meter"
 				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
 					(reference "#PWR054")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM_Resistor_AKL:R_0805")
+		(at 189.23 246.38 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ebfcf6d9-aec8-42d9-a957-7fe8b088afd9")
+		(property "Reference" "R39"
+			(at 189.23 240.03 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0R_0805"
+			(at 189.23 242.57 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "PCM_Resistor_SMD_AKL:R_0805_2012Metric"
+			(at 200.66 246.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 189.23 246.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "SMD 0805 Chip Resistor, European Symbol, Alternate KiCad Library"
+			(at 189.23 246.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "19e04fbc-4c5d-4ac1-8d25-410cb30a334a")
+		)
+		(pin "1"
+			(uuid "aa435f5f-a239-4b15-a313-d59ad5fbf084")
+		)
+		(instances
+			(project "Energy_Meter"
+				(path "/f1165764-c0ad-44d1-803d-0af7aad26c11"
+					(reference "R39")
 					(unit 1)
 				)
 			)
