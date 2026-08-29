@@ -11358,7 +11358,7 @@
 	)
 	(text "Khối hiển thị"
 		(exclude_from_sim no)
-		(at 67.31 228.346 0)
+		(at 68.072 219.964 0)
 		(effects
 			(font
 				(size 3 3)
@@ -11378,7 +11378,7 @@
 	)
 	(text "Khối vi điều khiển"
 		(exclude_from_sim no)
-		(at 209.804 152.654 0)
+		(at 208.534 137.16 0)
 		(effects
 			(font
 				(size 3 3)
@@ -16901,7 +16901,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_4.3mm_M4_Pad"
+		(property "Footprint" "MountingHole:MountingHole_4.5mm_Pad"
 			(at 104.14 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -24730,10 +24730,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "19e04fbc-4c5d-4ac1-8d25-410cb30a334a")
+			(uuid "19e04fbc-4c5d-4ac1-8d25-410cb30a334b")
 		)
 		(pin "1"
-			(uuid "aa435f5f-a239-4b15-a313-d59ad5fbf084")
+			(uuid "aa435f5f-a239-4b15-a313-d59ad5fbf085")
 		)
 		(instances
 			(project "Energy_Meter"
@@ -24810,10 +24810,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "19e04fbc-4c5d-4ac1-8d25-410cb30a334a")
+			(uuid "19e04fbc-4c5d-4ac1-8d25-410cb30a334c")
 		)
 		(pin "1"
-			(uuid "aa435f5f-a239-4b15-a313-d59ad5fbf084")
+			(uuid "aa435f5f-a239-4b15-a313-d59ad5fbf086")
 		)
 		(instances
 			(project "Energy_Meter"
@@ -30153,7 +30153,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_4.3mm_M4_Pad"
+		(property "Footprint" "MountingHole:MountingHole_4.5mm_Pad"
 			(at 134.62 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -33530,10 +33530,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "19e04fbc-4c5d-4ac1-8d25-410cb30a334a")
+			(uuid "19e04fbc-4c5d-4ac1-8d25-410cb30a334d")
 		)
 		(pin "1"
-			(uuid "aa435f5f-a239-4b15-a313-d59ad5fbf084")
+			(uuid "aa435f5f-a239-4b15-a313-d59ad5fbf087")
 		)
 		(instances
 			(project "Energy_Meter"
@@ -35825,10 +35825,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "19e04fbc-4c5d-4ac1-8d25-410cb30a334a")
+			(uuid "19e04fbc-4c5d-4ac1-8d25-410cb30a334e")
 		)
 		(pin "1"
-			(uuid "aa435f5f-a239-4b15-a313-d59ad5fbf084")
+			(uuid "aa435f5f-a239-4b15-a313-d59ad5fbf088")
 		)
 		(instances
 			(project "Energy_Meter"
@@ -37900,7 +37900,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_4.3mm_M4_Pad"
+		(property "Footprint" "MountingHole:MountingHole_4.5mm_Pad"
 			(at 34.29 207.01 0)
 			(hide yes)
 			(show_name no)
@@ -39239,10 +39239,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "19e04fbc-4c5d-4ac1-8d25-410cb30a334a")
+			(uuid "19e04fbc-4c5d-4ac1-8d25-410cb30a334f")
 		)
 		(pin "1"
-			(uuid "aa435f5f-a239-4b15-a313-d59ad5fbf084")
+			(uuid "aa435f5f-a239-4b15-a313-d59ad5fbf089")
 		)
 		(instances
 			(project "Energy_Meter"
@@ -40259,7 +40259,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "MountingHole:MountingHole_4.3mm_M4_Pad"
+		(property "Footprint" "MountingHole:MountingHole_4.5mm_Pad"
 			(at 78.74 207.01 0)
 			(hide yes)
 			(show_name no)
